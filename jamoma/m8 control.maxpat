@@ -51,7 +51,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 33.5, 366.5, 600.0, 315.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 609.5, 89.5, 437.0, 315.0 ]
+					"presentation_rect" : [ 609.5, 93.5, 437.0, 315.0 ]
 				}
 
 			}
@@ -65,13 +65,14 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 795.0, 33.0, 100.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 795.0, 33.0, 66.0, 20.0 ],
-					"text" : "cue.model"
+					"presentation_rect" : [ 795.0, 33.0, 100.0, 20.0 ],
+					"text" : "cue.model cue.1"
 				}
 
 			}
 , 			{
 				"box" : 				{
+					"args" : [ "cue.1" ],
 					"border" : 1,
 					"id" : "obj-1",
 					"maxclass" : "bpatcher",
@@ -94,7 +95,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 16.0, 9.5, 600.0, 315.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 4.5, 89.5, 600.0, 315.0 ]
+					"presentation_rect" : [ 4.5, 93.5, 600.0, 315.0 ]
 				}
 
 			}
@@ -124,7 +125,7 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "jcom.datetime.maxpat",
+				"name" : "j.datetime.maxpat",
 				"bootpath" : "/Users/reno/Documents/GITs/Jamoma/Implementations/Max/Jamoma/patchers/components/datetime",
 				"patcherrelativepath" : "../../Jamoma/Implementations/Max/Jamoma/patchers/components/datetime",
 				"type" : "JSON",
@@ -145,51 +146,51 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "jcom.remote.mxo",
+				"name" : "j.remote.mxo",
 				"type" : "iLaX"
 			}
 , 			{
-				"name" : "jcom.view.mxo",
+				"name" : "j.view.mxo",
 				"type" : "iLaX"
 			}
 , 			{
-				"name" : "jcom.send.mxo",
+				"name" : "j.send.mxo",
 				"type" : "iLaX"
 			}
 , 			{
-				"name" : "jcom.receive.mxo",
+				"name" : "j.receive.mxo",
 				"type" : "iLaX"
 			}
 , 			{
-				"name" : "jcom.message.mxo",
+				"name" : "j.message.mxo",
 				"type" : "iLaX"
 			}
 , 			{
-				"name" : "jcom.init.mxo",
+				"name" : "j.init.mxo",
 				"type" : "iLaX"
 			}
 , 			{
-				"name" : "jcom.cue.mxo",
+				"name" : "j.cue.mxo",
 				"type" : "iLaX"
 			}
 , 			{
-				"name" : "jcom.return.mxo",
+				"name" : "j.return.mxo",
 				"type" : "iLaX"
 			}
 , 			{
-				"name" : "jcom.parameter.mxo",
+				"name" : "j.parameter.mxo",
 				"type" : "iLaX"
 			}
 , 			{
-				"name" : "jcom.model.mxo",
+				"name" : "j.model.mxo",
 				"type" : "iLaX"
 			}
 , 			{
-				"name" : "jcom.modular.mxo",
+				"name" : "j.modular.mxo",
 				"type" : "iLaX"
 			}
 , 			{
-				"name" : "jcom.namespace.mxo",
+				"name" : "j.namespace.mxo",
 				"type" : "iLaX"
 			}
  ]

@@ -67,7 +67,7 @@
 					"numoutlets" : 3,
 					"outlettype" : [ "", "", "" ],
 					"patching_rect" : [ 330.0, 39.5, 168.0, 20.0 ],
-					"text" : "jcom.namespace myselection"
+					"text" : "j.namespace myselection"
 				}
 
 			}
@@ -109,7 +109,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 0,
 					"numoutlets" : 0,
-					"patching_rect" : [ 16.0, 14.0, 64.0, 33.0 ],
+					"patching_rect" : [ 16.0, 14.0, 67.0, 33.0 ],
 					"text" : "cue.model /cue.1"
 				}
 
@@ -118,71 +118,20 @@
 		"lines" : [  ],
 		"dependency_cache" : [ 			{
 				"name" : "cue.model.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/didatools/modules/cue",
+				"bootpath" : "/Users/reno/Documents/GITs/Modul8-control/jamoma",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "cue.view.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/didatools/modules/cue",
+				"bootpath" : "/Users/reno/Documents/GITs/Modul8-control/jamoma",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "jcom.datetime.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/Jamoma/Implementations/Max/Jamoma/patchers/components/datetime",
-				"patcherrelativepath" : "../../../Jamoma/Implementations/Max/Jamoma/patchers/components/datetime",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "jcom.message.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "jcom.receive.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "jcom.init.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "jcom.cue.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "jcom.return.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "jcom.parameter.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "jcom.model.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "jcom.send.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "jcom.ui.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "jcom.view.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "jcom.remote.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "jcom.namespace.mxo",
+				"name" : "j.namespace.mxo",
 				"type" : "iLaX"
 			}
  ]

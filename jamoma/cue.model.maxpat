@@ -8,7 +8,7 @@
 			"architecture" : "x64"
 		}
 ,
-		"rect" : [ 71.0, 44.0, 1155.0, 442.0 ],
+		"rect" : [ 464.0, 360.0, 1155.0, 442.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -34,7 +34,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 225.0, 142.5, 20.0, 20.0 ]
+					"patching_rect" : [ 240.0, 157.5, 20.0, 20.0 ]
 				}
 
 			}
@@ -47,8 +47,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 272.400024, 134.0, 166.0, 20.0 ],
-					"text" : "jcom.message cuelist/update"
+					"patching_rect" : [ 287.400024, 149.0, 166.0, 20.0 ],
+					"text" : "j.message cuelist/update"
 				}
 
 			}
@@ -61,7 +61,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 272.400024, 74.0, 85.0, 20.0 ],
+					"patching_rect" : [ 287.400024, 89.0, 85.0, 20.0 ],
 					"text" : "prepend store"
 				}
 
@@ -73,7 +73,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 632.0, 318.346161, 20.0, 20.0 ]
+					"patching_rect" : [ 647.0, 333.346161, 20.0, 20.0 ]
 				}
 
 			}
@@ -86,8 +86,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 574.0, 389.0, 77.0, 18.0 ],
-					"text" : "/cue.1"
+					"patching_rect" : [ 589.0, 404.0, 77.0, 18.0 ],
+					"text" : "/cue"
 				}
 
 			}
@@ -100,8 +100,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "", "", "" ],
-					"patching_rect" : [ 632.0, 349.0, 161.0, 20.0 ],
-					"text" : "jcom.receive model/address"
+					"patching_rect" : [ 647.0, 364.0, 161.0, 20.0 ],
+					"text" : "j.receive model/address"
 				}
 
 			}
@@ -114,7 +114,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 272.400024, 159.5, 39.0, 18.0 ],
+					"patching_rect" : [ 287.400024, 174.5, 39.0, 18.0 ],
 					"text" : "order"
 				}
 
@@ -127,7 +127,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 539.0, 240.0, 120.0, 20.0 ],
+					"patching_rect" : [ 554.0, 255.0, 120.0, 20.0 ],
 					"text" : "print #1/dumpout"
 				}
 
@@ -143,8 +143,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 1016.199951, 70.0, 128.5, 33.0 ],
-					"text" : "jcom.message remove @type string"
+					"patching_rect" : [ 1031.199951, 85.0, 128.5, 33.0 ],
+					"text" : "j.message remove @type string"
 				}
 
 			}
@@ -157,7 +157,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1016.199951, 142.5, 106.0, 20.0 ],
+					"patching_rect" : [ 1031.199951, 157.5, 106.0, 20.0 ],
 					"text" : "prepend remove"
 				}
 
@@ -171,7 +171,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 465.400024, 240.0, 68.0, 20.0 ],
+					"patching_rect" : [ 480.400024, 255.0, 68.0, 20.0 ],
 					"text" : "route store"
 				}
 
@@ -185,7 +185,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 60.0, 127.5, 85.0, 20.0 ],
+					"patching_rect" : [ 75.0, 142.5, 85.0, 20.0 ],
 					"text" : "prepend edit"
 				}
 
@@ -200,8 +200,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 60.0, 99.5, 201.0, 20.0 ],
-					"text" : "jcom.message edit @type string"
+					"patching_rect" : [ 75.0, 114.5, 201.0, 20.0 ],
+					"text" : "j.message edit @type string"
 				}
 
 			}
@@ -215,8 +215,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 392.999939, 268.5, 209.0, 20.0 ],
-					"text" : "jcom.return read/done @type generic"
+					"patching_rect" : [ 407.999939, 283.5, 209.0, 20.0 ],
+					"text" : "j.return read/done @type generic"
 				}
 
 			}
@@ -230,8 +230,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 189.0, 212.0, 72.0, 20.0 ],
-					"text" : "jcom.model"
+					"patching_rect" : [ 204.0, 227.0, 72.0, 20.0 ],
+					"text" : "j.model"
 				}
 
 			}
@@ -244,7 +244,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 906.75, 389.0, 50.0, 18.0 ],
+					"patching_rect" : [ 921.75, 404.0, 50.0, 18.0 ],
 					"text" : "dump"
 				}
 
@@ -259,8 +259,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 347.200012, 293.423096, 255.0, 20.0 ],
-					"text" : "jcom.return current/description @type string"
+					"patching_rect" : [ 362.200012, 308.423096, 255.0, 20.0 ],
+					"text" : "j.return current/description @type string"
 				}
 
 			}
@@ -274,8 +274,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 301.400024, 318.346161, 225.0, 20.0 ],
-					"text" : "jcom.return current/ramp @type decimal"
+					"patching_rect" : [ 316.400024, 333.346161, 225.0, 20.0 ],
+					"text" : "j.return current/ramp @type decimal"
 				}
 
 			}
@@ -289,8 +289,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 255.599976, 343.269257, 200.0, 20.0 ],
-					"text" : "jcom.parameter cuelist @type array"
+					"patching_rect" : [ 270.599976, 358.269257, 200.0, 20.0 ],
+					"text" : "j.parameter cuelist @type array"
 				}
 
 			}
@@ -304,8 +304,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 209.799988, 368.192291, 215.0, 20.0 ],
-					"text" : "jcom.return current/name @type string"
+					"patching_rect" : [ 224.799988, 383.192291, 215.0, 20.0 ],
+					"text" : "j.return current/name @type string"
 				}
 
 			}
@@ -319,8 +319,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 164.0, 393.115387, 239.0, 20.0 ],
-					"text" : "jcom.return current/position @type decimal"
+					"patching_rect" : [ 179.0, 408.115387, 239.0, 20.0 ],
+					"text" : "j.return current/position @type decimal"
 				}
 
 			}
@@ -333,7 +333,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "dump", "clear" ],
-					"patching_rect" : [ 39.0, 70.0, 78.0, 20.0 ],
+					"patching_rect" : [ 54.0, 85.0, 78.0, 20.0 ],
 					"text" : "t dump clear"
 				}
 
@@ -348,8 +348,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 39.0, 42.0, 198.0, 20.0 ],
-					"text" : "jcom.message clear @type generic"
+					"patching_rect" : [ 54.0, 57.0, 198.0, 20.0 ],
+					"text" : "j.message clear @type generic"
 				}
 
 			}
@@ -362,8 +362,8 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 25.0, 13.0, 144.5, 20.0 ],
-					"text" : "r #1"
+					"patching_rect" : [ 40.0, 28.0, 144.5, 20.0 ],
+					"text" : "receive #1"
 				}
 
 			}
@@ -660,7 +660,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 164.0, 240.0, 293.799927, 22.0 ],
+					"patching_rect" : [ 179.0, 255.0, 293.799927, 22.0 ],
 					"saved_object_attributes" : 					{
 						"default_fontface" : 0,
 						"default_fontname" : "Arial",
@@ -688,7 +688,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 697.916687, 255.0, 428.0, 47.0 ],
+					"patching_rect" : [ 712.916687, 270.0, 428.0, 47.0 ],
 					"text" : "Il faut pouvoir rendre invisible des memoires afin qu'elles ne soient pas répertoriées dans l'ordre et qu'elles servent de modeles de namespace… a moins de pouvoir enregister des nodelists quelque part (span)"
 				}
 
@@ -703,8 +703,8 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 697.916687, 222.0, 378.0, 33.0 ],
-					"text" : "il faut pouvoir locker des memoires afin de s'en servir comme init. ou bien un autre jcom.cue?\n"
+					"patching_rect" : [ 712.916687, 237.0, 378.0, 33.0 ],
+					"text" : "il faut pouvoir locker des memoires afin de s'en servir comme init. ou bien un autre j.cue?\n"
 				}
 
 			}
@@ -716,7 +716,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 25.0, 240.0, 107.0, 20.0 ],
+					"patching_rect" : [ 40.0, 255.0, 107.0, 20.0 ],
 					"text" : "print #1/output"
 				}
 
@@ -731,8 +731,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 25.0, 212.0, 158.0, 20.0 ],
-					"text" : "jcom.cue"
+					"patching_rect" : [ 40.0, 227.0, 158.0, 20.0 ],
+					"text" : "j.cue"
 				}
 
 			}
@@ -745,8 +745,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "bang" ],
-					"patching_rect" : [ 870.75, 363.0, 55.0, 20.0 ],
-					"text" : "jcom.init"
+					"patching_rect" : [ 885.75, 378.0, 55.0, 20.0 ],
+					"text" : "j.init"
 				}
 
 			}
@@ -761,8 +761,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 781.25, 70.0, 117.0, 33.0 ],
-					"text" : "jcom.message read @type string"
+					"patching_rect" : [ 796.25, 85.0, 117.0, 33.0 ],
+					"text" : "j.message read @type string"
 				}
 
 			}
@@ -775,8 +775,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "", "", "" ],
-					"patching_rect" : [ 632.0, 42.0, 135.0, 20.0 ],
-					"text" : "jcom.receive read/done"
+					"patching_rect" : [ 647.0, 57.0, 135.0, 20.0 ],
+					"text" : "j.receive read/done"
 				}
 
 			}
@@ -789,7 +789,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 697.916687, 110.0, 56.0, 20.0 ],
+					"patching_rect" : [ 712.916687, 125.0, 56.0, 20.0 ],
 					"text" : "deferlow"
 				}
 
@@ -803,7 +803,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 632.0, 71.5, 27.0, 20.0 ],
+					"patching_rect" : [ 647.0, 86.5, 27.0, 20.0 ],
 					"text" : "b 1"
 				}
 
@@ -817,7 +817,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 632.0, 159.5, 60.0, 18.0 ],
+					"patching_rect" : [ 647.0, 174.5, 60.0, 18.0 ],
 					"text" : "recall 0"
 				}
 
@@ -831,7 +831,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 697.916687, 159.5, 56.0, 18.0 ],
+					"patching_rect" : [ 712.916687, 174.5, 56.0, 18.0 ],
 					"text" : "dump"
 				}
 
@@ -847,8 +847,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 898.75, 70.0, 118.0, 33.0 ],
-					"text" : "jcom.message save @type none"
+					"patching_rect" : [ 913.75, 85.0, 118.0, 33.0 ],
+					"text" : "j.message save @type none"
 				}
 
 			}
@@ -969,7 +969,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 898.75, 142.5, 51.0, 20.0 ],
+					"patching_rect" : [ 913.75, 157.5, 51.0, 20.0 ],
 					"saved_object_attributes" : 					{
 						"default_fontface" : 0,
 						"default_fontname" : "Arial",
@@ -996,7 +996,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 781.25, 142.5, 83.0, 20.0 ],
+					"patching_rect" : [ 796.25, 157.5, 83.0, 20.0 ],
 					"text" : "prepend read"
 				}
 
@@ -1010,7 +1010,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 898.75, 114.0, 27.0, 20.0 ],
+					"patching_rect" : [ 913.75, 129.0, 27.0, 20.0 ],
 					"text" : "b 1"
 				}
 
@@ -1024,7 +1024,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 930.75, 114.0, 83.0, 20.0 ],
+					"patching_rect" : [ 945.75, 129.0, 83.0, 20.0 ],
 					"text" : "prepend write"
 				}
 
@@ -1038,7 +1038,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "bang", "" ],
-					"patching_rect" : [ 420.400024, 74.0, 53.0, 20.0 ],
+					"patching_rect" : [ 435.400024, 89.0, 53.0, 20.0 ],
 					"text" : "t b l"
 				}
 
@@ -1053,8 +1053,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 420.400024, 42.0, 201.0, 20.0 ],
-					"text" : "jcom.message recall @type generic"
+					"patching_rect" : [ 435.400024, 57.0, 201.0, 20.0 ],
+					"text" : "j.message recall @type generic"
 				}
 
 			}
@@ -1068,7 +1068,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 454.400024, 99.5, 56.0, 33.0 ],
+					"patching_rect" : [ 469.400024, 114.5, 56.0, 33.0 ],
 					"text" : "prepend recall"
 				}
 
@@ -1082,7 +1082,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "namespace/select" ],
-					"patching_rect" : [ 272.400024, 41.0, 124.0, 20.0 ],
+					"patching_rect" : [ 287.400024, 56.0, 124.0, 20.0 ],
 					"text" : "t s namespace/select"
 				}
 
@@ -1097,8 +1097,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 272.400024, 13.0, 201.0, 20.0 ],
-					"text" : "jcom.message store @type string"
+					"patching_rect" : [ 287.400024, 28.0, 201.0, 20.0 ],
+					"text" : "j.message store @type string"
 				}
 
 			}
