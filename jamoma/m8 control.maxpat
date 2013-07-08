@@ -8,7 +8,7 @@
 			"architecture" : "x64"
 		}
 ,
-		"rect" : [ 281.0, 44.0, 1068.0, 417.0 ],
+		"rect" : [ 62.0, 45.0, 681.0, 760.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -36,7 +36,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 742.0, 87.0, 60.0, 20.0 ],
+					"patching_rect" : [ 10.5, 6.0, 60.0, 20.0 ],
 					"text" : "loadbang"
 				}
 
@@ -50,7 +50,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 742.0, 115.0, 50.0, 18.0 ],
+					"patching_rect" : [ 10.5, 34.0, 34.0, 18.0 ],
 					"text" : "path"
 				}
 
@@ -64,7 +64,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 742.0, 142.0, 69.0, 20.0 ],
+					"patching_rect" : [ 10.5, 61.0, 69.0, 20.0 ],
 					"save" : [ "#N", "thispatcher", ";", "#Q", "end", ";" ],
 					"text" : "thispatcher"
 				}
@@ -79,39 +79,9 @@
 					"name" : "osc app.maxpat",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 33.5, 366.5, 600.0, 315.0 ],
+					"patching_rect" : [ 60.5, 90.5, 600.0, 315.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 609.5, 93.5, 437.0, 315.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"fontname" : "Arial",
-					"fontsize" : 12.0,
-					"id" : "obj-2",
-					"maxclass" : "newobj",
-					"numinlets" : 0,
-					"numoutlets" : 0,
-					"patching_rect" : [ 795.0, 33.0, 100.0, 20.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 795.0, 33.0, 100.0, 20.0 ],
-					"text" : "cue.model cue.1"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"args" : [ "cue.1" ],
-					"border" : 1,
-					"id" : "obj-1",
-					"maxclass" : "bpatcher",
-					"name" : "cue.view.maxpat",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 27.5, 426.5, 750.0, 105.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 4.5, 2.5, 750.0, 87.0 ]
+					"presentation_rect" : [ 18.5, 14.5, 611.0, 132.0 ]
 				}
 
 			}
@@ -123,9 +93,9 @@
 					"name" : "modul8.view.maxpat",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 16.0, 9.5, 600.0, 315.0 ],
+					"patching_rect" : [ 60.5, 413.5, 600.0, 315.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 4.5, 93.5, 600.0, 315.0 ]
+					"presentation_rect" : [ 18.5, 158.5, 611.0, 315.0 ]
 				}
 
 			}
@@ -166,27 +136,6 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "cue.view.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/Modul8-control/jamoma",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "j.datetime.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/Jamoma/Implementations/Max/Jamoma/patchers/components/datetime",
-				"patcherrelativepath" : "../../Jamoma/Implementations/Max/Jamoma/patchers/components/datetime",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "cue.model.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/Modul8-control/jamoma",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
 				"name" : "osc app.maxpat",
 				"bootpath" : "/Users/reno/Documents/GITs/Modul8-control/jamoma",
 				"patcherrelativepath" : ".",
@@ -206,31 +155,7 @@
 				"type" : "iLaX"
 			}
 , 			{
-				"name" : "j.receive.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "j.message.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "j.init.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "j.cue.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "j.return.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "j.parameter.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "j.model.mxo",
+				"name" : "j.namespace.mxo",
 				"type" : "iLaX"
 			}
 , 			{
@@ -238,7 +163,7 @@
 				"type" : "iLaX"
 			}
 , 			{
-				"name" : "j.namespace.mxo",
+				"name" : "j.receive.mxo",
 				"type" : "iLaX"
 			}
  ]
