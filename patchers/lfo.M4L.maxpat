@@ -1912,9 +1912,9 @@
  ],
 		"parameters" : 		{
 			"obj-20" : [ "LFOWaveform", "LFOWaveform", 0 ],
-			"obj-31" : [ "LFORateMult", "LFORateMult", 0 ],
+			"obj-45" : [ "LFOEnable", "LFOEnable", 0 ],
 			"obj-13" : [ "LFORateBase", "LFORateBase", 0 ],
-			"obj-45" : [ "LFOEnable", "LFOEnable", 0 ]
+			"obj-31" : [ "LFORateMult", "LFORateMult", 0 ]
 		}
 ,
 		"dependency_cache" : [ 			{
