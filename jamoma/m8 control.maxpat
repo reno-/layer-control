@@ -5,10 +5,10 @@
 			"major" : 6,
 			"minor" : 1,
 			"revision" : 3,
-			"architecture" : "x64"
+			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 10.0, 44.0, 639.0, 687.0 ],
+		"rect" : [ 34.0, 48.0, 628.0, 672.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -36,10 +36,42 @@
 					"maxclass" : "newobj",
 					"numinlets" : 0,
 					"numoutlets" : 0,
-					"patching_rect" : [ 572.916626, 39.5, 37.0, 20.0 ],
+					"patching_rect" : [ 587.916626, 54.5, 37.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 565.916626, 14.5, 37.0, 20.0 ],
+					"presentation_rect" : [ 565.5, 22.5, 37.0, 20.0 ],
 					"text" : "span"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"fontname" : "Arial Bold Italic",
+					"fontsize" : 14.0,
+					"frgb" : 0.0,
+					"id" : "obj-27",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 400.416626, 54.5, 176.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 378.0, 22.5, 176.0, 22.0 ],
+					"text" : "First and important thing"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"bgcolor" : [ 0.666667, 0.666667, 0.666667, 0.0 ],
+					"border" : 2,
+					"id" : "obj-37",
+					"maxclass" : "panel",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 394.416626, 45.5, 243.0, 40.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 372.0, 13.5, 243.0, 40.0 ],
+					"rounded" : 22
 				}
 
 			}
@@ -74,38 +106,6 @@
 					"presentation_rect" : [ 125.0, 29.5, 167.0, 21.0 ],
 					"text" : "written by Renaud Rubiano",
 					"textcolor" : [ 0.866953, 0.866953, 0.866953, 1.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
-					"fontname" : "Arial Bold Italic",
-					"fontsize" : 14.0,
-					"frgb" : 0.0,
-					"id" : "obj-27",
-					"maxclass" : "comment",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 385.416626, 39.5, 176.0, 22.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 378.416626, 14.5, 176.0, 22.0 ],
-					"text" : "First and important thing"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"bgcolor" : [ 0.666667, 0.666667, 0.666667, 0.0 ],
-					"border" : 2,
-					"id" : "obj-37",
-					"maxclass" : "panel",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 379.416626, 30.5, 243.0, 40.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 372.416626, 5.5, 243.0, 40.0 ],
-					"rounded" : 22
 				}
 
 			}
@@ -258,63 +258,91 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "modul8.view.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/Modul8-control/jamoma",
+				"bootpath" : "/Users/reno/GITs/Modul8-control/jamoma",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "osc app.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/Modul8-control/jamoma",
+				"bootpath" : "/Users/reno/GITs/Modul8-control/jamoma",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "mouse.model.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/Jamoma/Implementations/Max/Jamoma/patchers/modules/control/mouse",
-				"patcherrelativepath" : "../../Jamoma/Implementations/Max/Jamoma/patchers/modules/control/mouse",
+				"bootpath" : "/Users/reno/GITs/Jamoma/patchers/modules/control/mouse",
+				"patcherrelativepath" : "../../Jamoma/patchers/modules/control/mouse",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "span.project.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/span/patchers/GUI",
+				"bootpath" : "/Users/reno/GITs/span/patchers/GUI",
 				"patcherrelativepath" : "../../span/patchers/GUI",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "span.requests.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/span/patchers",
+				"bootpath" : "/Users/reno/GITs/span/patchers",
 				"patcherrelativepath" : "../../span/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "span.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/span/patchers",
+				"bootpath" : "/Users/reno/GITs/span/patchers",
 				"patcherrelativepath" : "../../span/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "dict.dump.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/span/patchers",
+				"bootpath" : "/Users/reno/GITs/span/patchers",
 				"patcherrelativepath" : "../../span/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "span.eventplay.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/span/patchers",
+				"bootpath" : "/Users/reno/GITs/span/patchers",
 				"patcherrelativepath" : "../../span/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "properties.js",
-				"bootpath" : "/Users/reno/Documents/GITs/span/javascript",
+				"bootpath" : "/Users/reno/GITs/span/javascript",
+				"patcherrelativepath" : "../../span/javascript",
+				"type" : "TEXT",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "folder-iter-recursive.js",
+				"bootpath" : "/Users/reno/GITs/span/javascript",
+				"patcherrelativepath" : "../../span/javascript",
+				"type" : "TEXT",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "pathtype.js",
+				"bootpath" : "/Users/reno/GITs/span/javascript",
+				"patcherrelativepath" : "../../span/javascript",
+				"type" : "TEXT",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "filetype.js",
+				"bootpath" : "/Users/reno/GITs/span/javascript",
+				"patcherrelativepath" : "../../span/javascript",
+				"type" : "TEXT",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "pathrequest.js",
+				"bootpath" : "/Users/reno/GITs/span/javascript",
 				"patcherrelativepath" : "../../span/javascript",
 				"type" : "TEXT",
 				"implicit" : 1
