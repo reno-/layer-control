@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 3,
+			"revision" : 5,
 			"architecture" : "x86"
 		}
 ,
@@ -146,12 +146,12 @@
 					"border" : 1,
 					"id" : "obj-23",
 					"maxclass" : "bpatcher",
-					"name" : "span.project.maxpat",
+					"name" : "span.init.maxpat",
 					"numinlets" : 0,
 					"numoutlets" : 0,
 					"patching_rect" : [ 79.5, 108.5, 290.0, 89.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 4.0, 68.5, 293.0, 88.0 ]
+					"presentation_rect" : [ 4.0, 68.5, 317.0, 99.0 ]
 				}
 
 			}
@@ -258,93 +258,128 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "modul8.view.maxpat",
-				"bootpath" : "/Users/reno/GITs/Modul8-control/jamoma",
+				"bootpath" : "/Users/reno/Documents/GITs/Modul8-control/jamoma",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "osc app.maxpat",
-				"bootpath" : "/Users/reno/GITs/Modul8-control/jamoma",
+				"bootpath" : "/Users/reno/Documents/GITs/Modul8-control/jamoma",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "mouse.model.maxpat",
-				"bootpath" : "/Users/reno/GITs/Jamoma/patchers/modules/control/mouse",
-				"patcherrelativepath" : "../../Jamoma/patchers/modules/control/mouse",
+				"bootpath" : "/Users/reno/Dropbox/max-jamoma-package/Jamoma/patchers/modules/control/mouse",
+				"patcherrelativepath" : "../../../../Dropbox/max-jamoma-package/Jamoma/patchers/modules/control/mouse",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "span.project.maxpat",
-				"bootpath" : "/Users/reno/GITs/span/patchers/GUI",
-				"patcherrelativepath" : "../../span/patchers/GUI",
+				"name" : "span.init.maxpat",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/GUI",
+				"patcherrelativepath" : "../../span/max-package/patchers/GUI",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "span.requests.maxpat",
-				"bootpath" : "/Users/reno/GITs/span/patchers",
-				"patcherrelativepath" : "../../span/patchers",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/requests",
+				"patcherrelativepath" : "../../span/max-package/patchers/requests",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "span.maxpat",
-				"bootpath" : "/Users/reno/GITs/span/patchers",
-				"patcherrelativepath" : "../../span/patchers",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers",
+				"patcherrelativepath" : "../../span/max-package/patchers",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "span.requests.getval.maxpat",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/requests",
+				"patcherrelativepath" : "../../span/max-package/patchers/requests",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "dict.dump.maxpat",
-				"bootpath" : "/Users/reno/GITs/span/patchers",
-				"patcherrelativepath" : "../../span/patchers",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers",
+				"patcherrelativepath" : "../../span/max-package/patchers",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "span.requests.contains.maxpat",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/requests",
+				"patcherrelativepath" : "../../span/max-package/patchers/requests",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "span.requests.getparam.maxpat",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/requests",
+				"patcherrelativepath" : "../../span/max-package/patchers/requests",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "span.eventplay.maxpat",
-				"bootpath" : "/Users/reno/GITs/span/patchers",
-				"patcherrelativepath" : "../../span/patchers",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers",
+				"patcherrelativepath" : "../../span/max-package/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "properties.js",
-				"bootpath" : "/Users/reno/GITs/span/javascript",
-				"patcherrelativepath" : "../../span/javascript",
+				"name" : "span.path.requests.maxpat",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/requests",
+				"patcherrelativepath" : "../../span/max-package/patchers/requests",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "jsproperties.js",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/javascript",
+				"patcherrelativepath" : "../../span/max-package/javascript",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "folder-iter-recursive.js",
-				"bootpath" : "/Users/reno/GITs/span/javascript",
-				"patcherrelativepath" : "../../span/javascript",
+				"name" : "jspathtype.js",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/javascript",
+				"patcherrelativepath" : "../../span/max-package/javascript",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "pathtype.js",
-				"bootpath" : "/Users/reno/GITs/span/javascript",
-				"patcherrelativepath" : "../../span/javascript",
+				"name" : "jspathtype-recursive.js",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/javascript",
+				"patcherrelativepath" : "../../span/max-package/javascript",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "filetype.js",
-				"bootpath" : "/Users/reno/GITs/span/javascript",
-				"patcherrelativepath" : "../../span/javascript",
-				"type" : "TEXT",
+				"name" : "span.requests.replace.maxpat",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/requests",
+				"patcherrelativepath" : "../../span/max-package/patchers/requests",
+				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "pathrequest.js",
-				"bootpath" : "/Users/reno/GITs/span/javascript",
-				"patcherrelativepath" : "../../span/javascript",
-				"type" : "TEXT",
+				"name" : "mappolytest2.maxpat",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers",
+				"patcherrelativepath" : "../../span/max-package/patchers",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "span.param.dec.dyn.maxpat",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/params",
+				"patcherrelativepath" : "../../span/max-package/patchers/params",
+				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
@@ -385,10 +420,6 @@
 			}
 , 			{
 				"name" : "j.init.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "j.preset.mxo",
 				"type" : "iLaX"
 			}
 , 			{

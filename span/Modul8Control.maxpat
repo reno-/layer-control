@@ -3,8 +3,9 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 6,
-			"minor" : 0,
-			"revision" : 8
+			"minor" : 1,
+			"revision" : 5,
+			"architecture" : "x86"
 		}
 ,
 		"rect" : [ 113.0, 73.0, 582.0, 639.0 ],
@@ -53,8 +54,9 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 6,
-							"minor" : 0,
-							"revision" : 8
+							"minor" : 1,
+							"revision" : 5,
+							"architecture" : "x86"
 						}
 ,
 						"rect" : [ 25.0, 69.0, 764.0, 594.0 ],
@@ -536,8 +538,9 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 6,
-											"minor" : 0,
-											"revision" : 8
+											"minor" : 1,
+											"revision" : 5,
+											"architecture" : "x86"
 										}
 ,
 										"rect" : [ 10.0, 57.0, 659.0, 491.0 ],
@@ -2076,8 +2079,9 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 6,
-							"minor" : 0,
-							"revision" : 8
+							"minor" : 1,
+							"revision" : 5,
+							"architecture" : "x86"
 						}
 ,
 						"rect" : [ 235.0, 362.0, 484.0, 403.0 ],
@@ -2099,7 +2103,6 @@
 						"description" : "",
 						"digest" : "",
 						"tags" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"fontname" : "Arial",
@@ -3967,12 +3970,12 @@
 					"border" : 1,
 					"id" : "obj-23",
 					"maxclass" : "bpatcher",
-					"name" : "span.project.maxpat",
+					"name" : "span.init.maxpat",
 					"numinlets" : 0,
 					"numoutlets" : 0,
 					"patching_rect" : [ 3.0, 99.0, 293.0, 118.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 5.0, 69.0, 293.0, 103.0 ]
+					"presentation_rect" : [ 5.0, 69.0, 319.0, 99.0 ]
 				}
 
 			}
@@ -4159,49 +4162,112 @@
 			}
  ],
 		"dependency_cache" : [ 			{
-				"name" : "span.project.maxpat",
-				"bootpath" : "/Users/renaudrubiano/Documents/GITs/span/lib/GUI",
-				"patcherrelativepath" : "../span/lib/GUI",
+				"name" : "span.init.maxpat",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/GUI",
+				"patcherrelativepath" : "../../span/max-package/patchers/GUI",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "span.requests.maxpat",
-				"bootpath" : "/Users/renaudrubiano/Documents/GITs/span/lib",
-				"patcherrelativepath" : "../span/lib",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/requests",
+				"patcherrelativepath" : "../../span/max-package/patchers/requests",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "span.maxpat",
-				"bootpath" : "/Users/renaudrubiano/Documents/GITs/span/lib",
-				"patcherrelativepath" : "../span/lib",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers",
+				"patcherrelativepath" : "../../span/max-package/patchers",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "span.requests.getval.maxpat",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/requests",
+				"patcherrelativepath" : "../../span/max-package/patchers/requests",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "dict.dump.maxpat",
-				"bootpath" : "/Users/renaudrubiano/Documents/GITs/span/lib",
-				"patcherrelativepath" : "../span/lib",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers",
+				"patcherrelativepath" : "../../span/max-package/patchers",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "span.requests.contains.maxpat",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/requests",
+				"patcherrelativepath" : "../../span/max-package/patchers/requests",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "span.requests.getparam.maxpat",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/requests",
+				"patcherrelativepath" : "../../span/max-package/patchers/requests",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "span.eventplay.maxpat",
-				"bootpath" : "/Users/renaudrubiano/Documents/GITs/span/lib",
-				"patcherrelativepath" : "../span/lib",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers",
+				"patcherrelativepath" : "../../span/max-package/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "properties.js",
-				"bootpath" : "/Users/renaudrubiano/Documents/GITs/span/lib/js",
-				"patcherrelativepath" : "../span/lib/js",
+				"name" : "span.path.requests.maxpat",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/requests",
+				"patcherrelativepath" : "../../span/max-package/patchers/requests",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "jsproperties.js",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/javascript",
+				"patcherrelativepath" : "../../span/max-package/javascript",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "createfolder.mxo",
+				"name" : "jspathtype.js",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/javascript",
+				"patcherrelativepath" : "../../span/max-package/javascript",
+				"type" : "TEXT",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "jspathtype-recursive.js",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/javascript",
+				"patcherrelativepath" : "../../span/max-package/javascript",
+				"type" : "TEXT",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "span.requests.replace.maxpat",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/requests",
+				"patcherrelativepath" : "../../span/max-package/patchers/requests",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "mappolytest2.maxpat",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers",
+				"patcherrelativepath" : "../../span/max-package/patchers",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "span.param.dec.dyn.maxpat",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/params",
+				"patcherrelativepath" : "../../span/max-package/patchers/params",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "shell.mxo",
 				"type" : "iLaX"
 			}
  ]
