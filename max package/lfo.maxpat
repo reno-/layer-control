@@ -4,8 +4,8 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 3,
-			"architecture" : "x64"
+			"revision" : 6,
+			"architecture" : "x86"
 		}
 ,
 		"rect" : [ 22.0, 44.0, 818.0, 472.0 ],
@@ -91,7 +91,7 @@
 					"numoutlets" : 3,
 					"outlettype" : [ "int", "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 441.0, 93.0, 100.0, 20.0 ],
+					"patching_rect" : [ 441.0, 107.0, 100.0, 20.0 ],
 					"prefix" : "work:/"
 				}
 
@@ -168,15 +168,15 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "lfo.view.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/video control/patchers",
-				"patcherrelativepath" : ".",
+				"bootpath" : "/Users/reno/Documents/GITs/video control/max package/patchers/lfo",
+				"patcherrelativepath" : "./lfo",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "lfo.model.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/video control/patchers",
-				"patcherrelativepath" : ".",
+				"bootpath" : "/Users/reno/Documents/GITs/video control/max package/patchers/lfo",
+				"patcherrelativepath" : "./lfo",
 				"type" : "JSON",
 				"implicit" : 1
 			}
