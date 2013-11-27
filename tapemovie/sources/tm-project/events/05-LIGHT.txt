@@ -1,0 +1,1 @@
+** Allumage de la lumiere pour la camera;/dmx.1/val 1;
