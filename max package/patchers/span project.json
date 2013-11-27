@@ -1,0 +1,58 @@
+{
+	"projectinfo" : 	{
+		"created" : "2013-11-27T23:53:14",
+		"lastopened" : "2013-11-28T00:19:28",
+		"lastsaved" : "2013-11-28T00:19:28",
+		"appname" : "span",
+		"appversion" : 		{
+			"major" : 0,
+			"minor" : 0,
+			"revision" : 1
+		}
+
+	}
+,
+	"paths" : 	{
+
+	}
+,
+	"namespace" : 	{
+
+	}
+,
+	"nodes" : 	{
+
+	}
+,
+	"events" : 	{
+
+	}
+,
+	"system" : 	{
+		"projectstructure" : 		{
+			"projectinfo" : 			{
+
+			}
+,
+			"paths" : 			{
+
+			}
+,
+			"namespace" : 			{
+
+			}
+,
+			"nodes" : 			{
+
+			}
+,
+			"events" : 			{
+
+			}
+,
+			"system" : "projectstructure"
+		}
+
+	}
+
+}

@@ -4,11 +4,11 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 3,
-			"architecture" : "x64"
+			"revision" : 6,
+			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 344.0, 44.0, 1294.0, 500.0 ],
+		"rect" : [ 344.0, 70.0, 1294.0, 474.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -58,7 +58,7 @@
 			}
 , 			{
 				"box" : 				{
-					"args" : [ "vdmx" ],
+					"args" : [ "video" ],
 					"border" : 1,
 					"id" : "obj-3",
 					"maxclass" : "bpatcher",
@@ -137,36 +137,43 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "layer.view.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/video control",
-				"patcherrelativepath" : ".",
+				"bootpath" : "/Users/reno/Documents/GITs/video control/max package/patchers",
+				"patcherrelativepath" : "./patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "cue.view.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/Modul8-control/jamoma",
-				"patcherrelativepath" : "../Modul8-control/jamoma",
+				"bootpath" : "/Users/reno/Documents/GITs/video control/max package/patchers",
+				"patcherrelativepath" : "./patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "j.datetime.maxpat",
 				"bootpath" : "/Users/reno/Documents/GITs/Jamoma/Implementations/Max/Jamoma/patchers/components/datetime",
-				"patcherrelativepath" : "../Jamoma/Implementations/Max/Jamoma/patchers/components/datetime",
+				"patcherrelativepath" : "../../Jamoma/Implementations/Max/Jamoma/patchers/components/datetime",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "cue.model.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/Modul8-control/jamoma",
-				"patcherrelativepath" : "../Modul8-control/jamoma",
+				"bootpath" : "/Users/reno/Documents/GITs/video control/max package/patchers",
+				"patcherrelativepath" : "./patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "osc app.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/Modul8-control/jamoma",
-				"patcherrelativepath" : "../Modul8-control/jamoma",
+				"bootpath" : "/Users/reno/Documents/GITs/video control/max package/patchers",
+				"patcherrelativepath" : "./patchers",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "mouse.model.maxpat",
+				"bootpath" : "/Users/reno/Documents/GITs/Jamoma/Implementations/Max/Jamoma/patchers/modules/control/mouse",
+				"patcherrelativepath" : "../../Jamoma/Implementations/Max/Jamoma/patchers/modules/control/mouse",
 				"type" : "JSON",
 				"implicit" : 1
 			}
