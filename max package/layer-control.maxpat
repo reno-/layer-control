@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 63.0, 84.0, 673.0, 623.0 ],
+		"rect" : [ 63.0, 84.0, 634.0, 571.0 ],
 		"bgcolor" : [ 0.176471, 0.294118, 0.439216, 1.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
@@ -29,23 +29,6 @@
 		"digest" : "",
 		"tags" : "",
 		"boxes" : [ 			{
-				"box" : 				{
-					"fontname" : "Arial",
-					"fontsize" : 12.0,
-					"id" : "obj-1",
-					"linecount" : 2,
-					"maxclass" : "message",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 136.5, 201.0, 455.0, 31.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 17.0, 556.0, 600.0, 18.0 ],
-					"text" : "namespace/read \"work:/Users/reno/Documents/GITs/video control/max package/config/m8 namespace.xml\""
-				}
-
-			}
-, 			{
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 10.0,
@@ -119,7 +102,9 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 67.5, 403.0, 34.0, 18.0 ],
+					"patching_rect" : [ 67.5, 408.5, 34.0, 18.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 433.5, 53.0, 34.0, 18.0 ],
 					"text" : "path"
 				}
 
@@ -147,9 +132,8 @@
 					"id" : "obj-5",
 					"maxclass" : "bpatcher",
 					"name" : "osc app.maxpat",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
+					"numinlets" : 1,
+					"numoutlets" : 0,
 					"patching_rect" : [ 136.5, 473.0, 600.0, 144.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 6.0, 80.5, 611.0, 132.0 ]
@@ -5594,15 +5578,6 @@
  ],
 		"lines" : [ 			{
 				"patchline" : 				{
-					"destination" : [ "obj-5", 1 ],
-					"disabled" : 0,
-					"hidden" : 0,
-					"source" : [ "obj-1", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-123", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
@@ -5675,15 +5650,6 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-1", 1 ],
-					"disabled" : 0,
-					"hidden" : 0,
-					"source" : [ "obj-5", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-206", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
@@ -5703,7 +5669,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "variedit.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/video control/max package/patchers/old-lib",
+				"bootpath" : "/Users/reno/Documents/GITs/video-control/max package/patchers/old-lib",
 				"patcherrelativepath" : "./patchers/old-lib",
 				"type" : "JSON",
 				"implicit" : 1
@@ -5717,56 +5683,56 @@
 			}
 , 			{
 				"name" : "makeparam-m8-master.mxt",
-				"bootpath" : "/Users/reno/Documents/GITs/video control/max package/patchers/old-lib",
+				"bootpath" : "/Users/reno/Documents/GITs/video-control/max package/patchers/old-lib",
 				"patcherrelativepath" : "./patchers/old-lib",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "makeparam.mxt",
-				"bootpath" : "/Users/reno/Documents/GITs/video control/max package/patchers/old-lib",
+				"bootpath" : "/Users/reno/Documents/GITs/video-control/max package/patchers/old-lib",
 				"patcherrelativepath" : "./patchers/old-lib",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "tm_alias.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/video control/max package/patchers/old-lib",
+				"bootpath" : "/Users/reno/Documents/GITs/video-control/max package/patchers/old-lib",
 				"patcherrelativepath" : "./patchers/old-lib",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "linecurv.mxt",
-				"bootpath" : "/Users/reno/Documents/GITs/video control/max package/patchers/old-lib",
+				"bootpath" : "/Users/reno/Documents/GITs/video-control/max package/patchers/old-lib",
 				"patcherrelativepath" : "./patchers/old-lib",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "scalecurv.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/video control/max package/patchers/old-lib",
+				"bootpath" : "/Users/reno/Documents/GITs/video-control/max package/patchers/old-lib",
 				"patcherrelativepath" : "./patchers/old-lib",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "minmaxf.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/video control/max package/patchers/old-lib",
+				"bootpath" : "/Users/reno/Documents/GITs/video-control/max package/patchers/old-lib",
 				"patcherrelativepath" : "./patchers/old-lib",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "modul8.view.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/video control/max package/patchers",
+				"bootpath" : "/Users/reno/Documents/GITs/video-control/max package/patchers",
 				"patcherrelativepath" : "./patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "osc app.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/video control/max package/patchers",
+				"bootpath" : "/Users/reno/Documents/GITs/video-control/max package/patchers",
 				"patcherrelativepath" : "./patchers",
 				"type" : "JSON",
 				"implicit" : 1
