@@ -128,21 +128,6 @@
 			}
 , 			{
 				"box" : 				{
-					"bgcolor" : [ 0.254902, 0.407843, 0.615686, 1.0 ],
-					"bordercolor" : [ 1.0, 1.0, 1.0, 1.0 ],
-					"id" : "obj-50",
-					"maxclass" : "panel",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 79.5, 2.5, 293.0, 81.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 4.0, 4.5, 293.0, 58.0 ],
-					"rounded" : 18
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"border" : 1,
 					"id" : "obj-23",
 					"maxclass" : "bpatcher",
@@ -160,26 +145,13 @@
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
 					"id" : "obj-8",
+					"linecount" : 2,
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 1,
-					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 10.5, 6.0, 60.0, 20.0 ],
-					"text" : "loadbang"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"fontname" : "Arial",
-					"fontsize" : 12.0,
-					"id" : "obj-7",
-					"maxclass" : "message",
-					"numinlets" : 2,
-					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 10.5, 34.0, 34.0, 18.0 ],
-					"text" : "path"
+					"patching_rect" : [ 10.5, 6.0, 63.0, 33.0 ],
+					"text" : "loadmess path"
 				}
 
 			}
@@ -227,6 +199,21 @@
 				}
 
 			}
+, 			{
+				"box" : 				{
+					"bgcolor" : [ 0.254902, 0.407843, 0.615686, 1.0 ],
+					"bordercolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"id" : "obj-50",
+					"maxclass" : "panel",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 79.5, 2.5, 293.0, 81.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 4.0, 4.5, 293.0, 58.0 ],
+					"rounded" : 18
+				}
+
+			}
  ],
 		"lines" : [ 			{
 				"patchline" : 				{
@@ -242,15 +229,6 @@
 					"destination" : [ "obj-4", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"source" : [ "obj-7", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-7", 0 ],
-					"disabled" : 0,
-					"hidden" : 0,
 					"source" : [ "obj-8", 0 ]
 				}
 
@@ -258,127 +236,141 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "modul8.view.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/Modul8-control/jamoma",
+				"bootpath" : "/Users/reno/Documents/GITs/layer-control/Modul8-control/jamoma",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "osc app.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/Modul8-control/jamoma",
+				"bootpath" : "/Users/reno/Documents/GITs/layer-control/Modul8-control/jamoma",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "mouse.model.maxpat",
-				"bootpath" : "/Users/reno/Dropbox/max-jamoma-package/Jamoma/patchers/modules/control/mouse",
-				"patcherrelativepath" : "../../../../Dropbox/max-jamoma-package/Jamoma/patchers/modules/control/mouse",
+				"bootpath" : "/Users/reno/Documents/GITs/Jamoma/Implementations/Max/Jamoma/patchers/modules/control/mouse",
+				"patcherrelativepath" : "../../../Jamoma/Implementations/Max/Jamoma/patchers/modules/control/mouse",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "span.init.maxpat",
 				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/GUI",
-				"patcherrelativepath" : "../../span/max-package/patchers/GUI",
+				"patcherrelativepath" : "../../../span/max-package/patchers/GUI",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "span.requests.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/requests",
-				"patcherrelativepath" : "../../span/max-package/patchers/requests",
+				"bootpath" : "/Users/reno/Documents/GITs/bulle-musicale/patchers",
+				"patcherrelativepath" : "../../../bulle-musicale/patchers",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "span.preferences.maxpat",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/GUI",
+				"patcherrelativepath" : "../../../span/max-package/patchers/GUI",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "span.maxpat",
 				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers",
-				"patcherrelativepath" : "../../span/max-package/patchers",
+				"patcherrelativepath" : "../../../span/max-package/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "span.requests.getval.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/requests",
-				"patcherrelativepath" : "../../span/max-package/patchers/requests",
+				"bootpath" : "/Users/reno/Documents/GITs/bulle-musicale/patchers",
+				"patcherrelativepath" : "../../../bulle-musicale/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "dict.dump.maxpat",
 				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers",
-				"patcherrelativepath" : "../../span/max-package/patchers",
+				"patcherrelativepath" : "../../../span/max-package/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "span.requests.contains.maxpat",
 				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/requests",
-				"patcherrelativepath" : "../../span/max-package/patchers/requests",
+				"patcherrelativepath" : "../../../span/max-package/patchers/requests",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "span.requests.getparam.maxpat",
 				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/requests",
-				"patcherrelativepath" : "../../span/max-package/patchers/requests",
+				"patcherrelativepath" : "../../../span/max-package/patchers/requests",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "span.eventplay.maxpat",
 				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers",
-				"patcherrelativepath" : "../../span/max-package/patchers",
+				"patcherrelativepath" : "../../../span/max-package/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "span.path.requests.maxpat",
 				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/requests",
-				"patcherrelativepath" : "../../span/max-package/patchers/requests",
+				"patcherrelativepath" : "../../../span/max-package/patchers/requests",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jsproperties.js",
-				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/javascript",
-				"patcherrelativepath" : "../../span/max-package/javascript",
+				"bootpath" : "/Users/reno/Documents/GITs/bulle-musicale/patchers",
+				"patcherrelativepath" : "../../../bulle-musicale/patchers",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jspathtype.js",
 				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/javascript",
-				"patcherrelativepath" : "../../span/max-package/javascript",
+				"patcherrelativepath" : "../../../span/max-package/javascript",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "jspathtype-recursive.js",
-				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/javascript",
-				"patcherrelativepath" : "../../span/max-package/javascript",
+				"bootpath" : "/Users/reno/Documents/GITs/bulle-musicale/patchers",
+				"patcherrelativepath" : "../../../bulle-musicale/patchers",
 				"type" : "TEXT",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "bangbasedqueue.maxpat",
+				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/misc/reno",
+				"patcherrelativepath" : "../../../span/max-package/misc/reno",
+				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "span.requests.replace.maxpat",
 				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/requests",
-				"patcherrelativepath" : "../../span/max-package/patchers/requests",
+				"patcherrelativepath" : "../../../span/max-package/patchers/requests",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "mappolytest2.maxpat",
 				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers",
-				"patcherrelativepath" : "../../span/max-package/patchers",
+				"patcherrelativepath" : "../../../span/max-package/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "span.param.dec.dyn.maxpat",
 				"bootpath" : "/Users/reno/Documents/GITs/span/max-package/patchers/params",
-				"patcherrelativepath" : "../../span/max-package/patchers/params",
+				"patcherrelativepath" : "../../../span/max-package/patchers/params",
 				"type" : "JSON",
 				"implicit" : 1
 			}
