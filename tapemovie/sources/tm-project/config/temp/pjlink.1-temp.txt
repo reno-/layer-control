@@ -1,0 +1,1 @@
+/pjlink.1/sw 1;/pjlink.1/host 192.168.2.22;/pjlink.1/port 4352;/pjlink.1/shutter 0;

@@ -1,0 +1,1 @@
+** Arret sur Image de la camera LIVE;/oscsend.2 /grab.1/status close;

@@ -1,0 +1,1 @@
+/midicc.1/out/interface "RŽseau Session 1";/midicc.1/in/interface "Gestionnaire IAC Bus 1";/midicc.1/in/channel 1;/events.1/interval 100;
