@@ -1,1 +1,0 @@
-** Mise Camera + calques Modul8;/oscsend.2 /grab.1/status open;/modul8.1/name 128;/modul8.1/color/alpha 0.;/modul8.2/name 0;/modul8.2/color/alpha 0.;/dmx.1/val 0;

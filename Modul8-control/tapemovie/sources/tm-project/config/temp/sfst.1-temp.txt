@@ -1,1 +1,0 @@
-/sfst.1/sw 1;/sfst.1/read <none>;/sfst.1/loop 1;/sfst.1/speed 1.;/sfst.1/vol 1.;/sfst.1/play 0;

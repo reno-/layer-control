@@ -1,1 +1,0 @@
-/modul8.3/name 103;/modul8.3/direction 1;/modul8.3/rate 0.25;/modul8.3/loop 2;/modul8.3/loop/in 0.;/modul8.3/loop/out 1.;/modul8.3/entrypoint 0.;/modul8.3/color/alpha 1.;

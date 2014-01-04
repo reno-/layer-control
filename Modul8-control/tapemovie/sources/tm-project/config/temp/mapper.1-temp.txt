@@ -1,1 +1,0 @@
-/mapper.1/sw 1;/mapper.1/source /external;/mapper.1/speedlim 15;/mapper.1/rampup 0.;/mapper.1/rampdown 0.;/mapper.1 /oscsend.2 0. 1. 0. 1. direct 0. 0 0 0. 0. clip;

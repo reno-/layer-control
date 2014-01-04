@@ -1,1 +1,0 @@
-** Fade In de la camera en 8 secondes;/modul8.1/color/alpha 1. 8000;3000;/mapper.1/init bang;
