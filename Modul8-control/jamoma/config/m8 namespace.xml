@@ -2,7 +2,7 @@
 <jamoma version="0.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jamoma.org/ file:jamoma.xsd">
 	<application author="Renaud Rubiano" version="v1" name="m8" type="proxy">
 		<!--"a layer model"-->
-		<layer.1 object="Container" tag="model" priority="0">
+		<layer.1 object="Container" service="model" priority="10">
 			<alpha object="Data" service="parameter" type="decimal" rangeBounds="0 1" priority="1" valueDefault="1.000"/>
 			<media object="Data" service="parameter" type="decimal" rangeBounds="0 132" priority="1" valueDefault="129" />
 			<blend object="Container" priority="0">
@@ -45,7 +45,7 @@
 			</loop>
 		</layer.1>
 		<!--"a layer model"-->
-		<layer.2 object="Container" tag="model" priority="0">
+		<layer.2 object="Container" service="model" priority="20">
 			<alpha object="Data" service="parameter" type="decimal" rangeBounds="0 1" priority="1" valueDefault="1.000"/>
 			<media object="Data" service="parameter" type="decimal" rangeBounds="0 132" priority="1" valueDefault="129" />
 			<blend object="Container" priority="0">
@@ -88,7 +88,7 @@
 			</loop>
 		</layer.2>
 		<!--"a layer model"-->
-		<layer.3 object="Container" tag="model" priority="0">
+		<layer.3 object="Container" service="model" priority="30">
 			<alpha object="Data" service="parameter" type="decimal" rangeBounds="0 1" priority="1" valueDefault="1.000"/>
 			<media object="Data" service="parameter" type="decimal" rangeBounds="0 132" priority="1" valueDefault="129" />
 			<blend object="Container" priority="0">
@@ -131,7 +131,7 @@
 			</loop>
 		</layer.3>
 		<!--"a layer model"-->
-		<layer.4 object="Container" tag="model" priority="0">
+		<layer.4 object="Container" service="model" priority="40">
 			<alpha object="Data" service="parameter" type="decimal" rangeBounds="0 1" priority="1" valueDefault="1.000"/>
 			<media object="Data" service="parameter" type="decimal" rangeBounds="0 132" priority="1" valueDefault="129" />
 			<blend object="Container" priority="0">
@@ -174,7 +174,7 @@
 			</loop>
 		</layer.4>
 		<!--"a layer model"-->
-		<layer.5 object="Container" tag="model" priority="0">
+		<layer.5 object="Container" service="model" priority="50">
 			<alpha object="Data" service="parameter" type="decimal" rangeBounds="0 1" priority="1" valueDefault="1.000"/>
 			<media object="Data" service="parameter" type="decimal" rangeBounds="0 132" priority="1" valueDefault="129" />
 			<blend object="Container" priority="0">
@@ -217,7 +217,7 @@
 			</loop>
 		</layer.5>
 		<!--"a layer model"-->
-		<layer.6 object="Container" tag="model" priority="0">
+		<layer.6 object="Container" service="model" priority="60">
 			<alpha object="Data" service="parameter" type="decimal" rangeBounds="0 1" priority="1" valueDefault="1.000"/>
 			<media object="Data" service="parameter" type="decimal" rangeBounds="0 132" priority="1" valueDefault="129" />
 			<blend object="Container" priority="0">
@@ -260,7 +260,7 @@
 			</loop>
 		</layer.6>
 		<!--"a layer model"-->
-		<layer.7 object="Container" tag="model" priority="0">
+		<layer.7 object="Container" service="model" priority="70">
 			<alpha object="Data" service="parameter" type="decimal" rangeBounds="0 1" priority="1" valueDefault="1.000"/>
 			<media object="Data" service="parameter" type="decimal" rangeBounds="0 132" priority="1" valueDefault="129" />
 			<blend object="Container" priority="0">
@@ -303,7 +303,7 @@
 			</loop>
 		</layer.7>
 		<!--"a layer model"-->
-		<layer.8 object="Container" tag="model" priority="0">
+		<layer.8 object="Container" service="model" priority="80">
 			<alpha object="Data" service="parameter" type="decimal" rangeBounds="0 1" priority="1" valueDefault="1.000"/>
 			<media object="Data" service="parameter" type="decimal" rangeBounds="0 132" priority="1" valueDefault="129" />
 			<blend object="Container" priority="0">
@@ -346,7 +346,7 @@
 			</loop>
 		</layer.8>
 		<!--"a layer model"-->
-		<layer.9 object="Container" tag="model" priority="0">
+		<layer.9 object="Container" service="model" priority="90">
 			<alpha object="Data" service="parameter" type="decimal" rangeBounds="0 1" priority="1" valueDefault="1.000"/>
 			<media object="Data" service="parameter" type="decimal" rangeBounds="0 132" priority="1" valueDefault="129" />
 			<blend object="Container" priority="0">
@@ -389,7 +389,7 @@
 			</loop>
 		</layer.9>
 		<!--"a layer model"-->
-		<layer.10 object="Container" tag="model" priority="0">
+		<layer.10 object="Container" service="model" priority="100">
 			<alpha object="Data" service="parameter" type="decimal" rangeBounds="0 1" priority="1" valueDefault="1.000"/>
 			<media object="Data" service="parameter" type="decimal" rangeBounds="0 132" priority="1" valueDefault="129" />
 			<blend object="Container" priority="0">
