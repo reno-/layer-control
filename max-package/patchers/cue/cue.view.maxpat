@@ -4,12 +4,11 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 3,
-			"architecture" : "x64"
+			"revision" : 5,
+			"architecture" : "x86"
 		}
 ,
 		"rect" : [ 0.0, 44.0, 768.0, 499.0 ],
-		"bgcolor" : [ 1.0, 1.0, 1.0, 0.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -770,8 +769,8 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 3,
-							"architecture" : "x64"
+							"revision" : 5,
+							"architecture" : "x86"
 						}
 ,
 						"rect" : [ 25.0, 69.0, 143.0, 251.0 ],
@@ -1567,7 +1566,7 @@
 		"dependency_cache" : [ 			{
 				"name" : "j.datetime.maxpat",
 				"bootpath" : "/Users/reno/Documents/GITs/Jamoma/Implementations/Max/Jamoma/patchers/components/datetime",
-				"patcherrelativepath" : "../../Jamoma/Implementations/Max/Jamoma/patchers/components/datetime",
+				"patcherrelativepath" : "../../../../Jamoma/Implementations/Max/Jamoma/patchers/components/datetime",
 				"type" : "JSON",
 				"implicit" : 1
 			}

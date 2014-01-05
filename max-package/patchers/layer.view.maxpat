@@ -4,8 +4,8 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 3,
-			"architecture" : "x64"
+			"revision" : 5,
+			"architecture" : "x86"
 		}
 ,
 		"rect" : [ 0.0, 44.0, 680.0, 348.0 ],
@@ -31,6 +31,74 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
+					"frgb" : 0.0,
+					"id" : "obj-41",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 125.0, 240.906036, 48.0, 20.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 318.0, 66.0, 48.0, 20.0 ],
+					"text" : "scale/z",
+					"textcolor" : [ 0.507299, 0.507299, 0.507299, 1.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontname" : "Arial",
+					"fontsize" : 12.0,
+					"frgb" : 0.0,
+					"id" : "obj-33",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 125.0, 218.124542, 48.0, 20.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 318.0, 46.0, 48.0, 20.0 ],
+					"text" : "scale/y",
+					"textcolor" : [ 0.507299, 0.507299, 0.507299, 1.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontname" : "Arial",
+					"fontsize" : 12.0,
+					"frgb" : 0.0,
+					"id" : "obj-1",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 125.0, 195.343048, 48.0, 20.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 318.0, 26.0, 48.0, 20.0 ],
+					"text" : "scale/x",
+					"textcolor" : [ 0.507299, 0.507299, 0.507299, 1.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontname" : "Arial",
+					"fontsize" : 12.0,
+					"frgb" : 0.0,
+					"id" : "obj-6",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 128.0, 172.561493, 82.0, 20.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 513.5, 140.5, 82.0, 20.0 ],
+					"text" : "scale/uniform",
+					"textcolor" : [ 0.507299, 0.507299, 0.507299, 1.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontname" : "Arial",
+					"fontsize" : 12.0,
 					"id" : "obj-25",
 					"maxclass" : "newobj",
 					"numinlets" : 4,
@@ -41,8 +109,8 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 3,
-							"architecture" : "x64"
+							"revision" : 5,
+							"architecture" : "x86"
 						}
 ,
 						"rect" : [ 25.0, 69.0, 365.0, 129.0 ],
@@ -744,8 +812,8 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 3,
-							"architecture" : "x64"
+							"revision" : 5,
+							"architecture" : "x86"
 						}
 ,
 						"rect" : [ 996.0, 378.0, 619.0, 388.0 ],
