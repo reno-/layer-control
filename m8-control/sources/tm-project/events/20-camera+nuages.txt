@@ -1,1 +1,0 @@
-** Fade In des nuages en surimpression;/modul8.2/color/alpha 0.756757 5000;

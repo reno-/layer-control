@@ -1,1 +1,0 @@
-** Fondu sortant des de la photo dans les nuages;/modul8.1/color/alpha 0. 5000;/modul8.2/color/alpha 0. 3000;

@@ -1,1 +1,0 @@
-/mapper.1/sw 1;/mapper.1/source /circ/1;/mapper.1/speedlim 18;/mapper.1/rampup 0.;/mapper.1/rampdown 0.;/mapper.1 /cuesheet.1/go 180. 200. 0.01 1. trig 0. 0 0 0. 0. clip b;/mapper.1 "/cuesheet.1/go" 200. 200. 0.01 1. trig 0. 0 0 0. 0. clip b;

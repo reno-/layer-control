@@ -1,1 +1,0 @@
-/modul8.1/name 129;/modul8.1/direction 1;/modul8.1/rate 0.25;/modul8.1/loop 0;/modul8.1/loop/in 0.;/modul8.1/loop/out 1.;/modul8.1/entrypoint 0.;/modul8.1/color/alpha 0.;
