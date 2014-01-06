@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<jamoma version="0.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jamoma.org/ file:jamoma.xsd">
+ <cue name="empty">
+  <flag name="description">none</flag>
+  <!---->
+  <!---->
+  <script address="m8:">
+   <!---->
+   <script address="layer.1">
+    <command address="hide">0</command>
+    <command address="rate">0.250000</command>
+    <command address="direction">0</command>
+    <command address="scratch">0</command>
+    <command address="alpha">1</command>
+    <command address="entrypoint">0</command>
+    <command address="media">999</command>
+    <!---->
+    <script address="blend">
+     <command address="mode">0</command>
+    </script>
+    <!---->
+    <script address="scale">
+     <command address="x">0</command>
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="uniform">0.500000</command>
+    </script>
+    <!---->
+    <script address="rotate">
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="pos">
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="color">
+     <command address="blue">1</command>
+     <command address="green">1</command>
+     <command address="red">1</command>
+     <!---->
+     <script address="additive">
+      <command address="blue">0</command>
+      <command address="green">0</command>
+      <command address="red">0</command>
+     </script>
+    </script>
+    <!---->
+    <script address="loop">
+     <command address="out">1</command>
+     <command address="mode">0</command>
+     <command address="in">0</command>
+    </script>
+   </script>
+   <!---->
+   <script address="layer.2">
+    <command address="hide">0</command>
+    <command address="rate">0.250000</command>
+    <command address="direction">0</command>
+    <command address="scratch">0</command>
+    <command address="alpha">1</command>
+    <command address="entrypoint">0</command>
+    <command address="media">999</command>
+    <!---->
+    <script address="blend">
+     <command address="mode">0</command>
+    </script>
+    <!---->
+    <script address="scale">
+     <command address="x">0</command>
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="uniform">0.500000</command>
+    </script>
+    <!---->
+    <script address="rotate">
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="pos">
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="color">
+     <command address="blue">1</command>
+     <command address="green">1</command>
+     <command address="red">1</command>
+     <!---->
+     <script address="additive">
+      <command address="blue">0</command>
+      <command address="green">0</command>
+      <command address="red">0</command>
+     </script>
+    </script>
+    <!---->
+    <script address="loop">
+     <command address="out">1</command>
+     <command address="mode">0</command>
+     <command address="in">0</command>
+    </script>
+   </script>
+   <!---->
+   <script address="layer.3">
+    <command address="hide">0</command>
+    <command address="rate">0.250000</command>
+    <command address="direction">0</command>
+    <command address="scratch">0</command>
+    <command address="alpha">1</command>
+    <command address="entrypoint">0</command>
+    <command address="media">999</command>
+    <!---->
+    <script address="scale">
+     <command address="x">0</command>
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="uniform">0.500000</command>
+    </script>
+    <!---->
+    <script address="blend">
+     <command address="mode">0</command>
+    </script>
+    <!---->
+    <script address="rotate">
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="pos">
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="color">
+     <command address="blue">1</command>
+     <command address="green">1</command>
+     <command address="red">1</command>
+     <!---->
+     <script address="additive">
+      <command address="blue">0</command>
+      <command address="green">0</command>
+      <command address="red">0</command>
+     </script>
+    </script>
+    <!---->
+    <script address="loop">
+     <command address="out">1</command>
+     <command address="mode">0</command>
+     <command address="in">0</command>
+    </script>
+   </script>
+   <!---->
+   <script address="layer.4">
+    <command address="hide">0</command>
+    <command address="rate">0.250000</command>
+    <command address="direction">0</command>
+    <command address="scratch">0</command>
+    <command address="alpha">1</command>
+    <command address="entrypoint">0</command>
+    <command address="media">999</command>
+    <!---->
+    <script address="pos">
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="blend">
+     <command address="mode">0</command>
+    </script>
+    <!---->
+    <script address="scale">
+     <command address="x">0</command>
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="uniform">0.500000</command>
+    </script>
+    <!---->
+    <script address="rotate">
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="color">
+     <command address="blue">1</command>
+     <command address="green">1</command>
+     <command address="red">1</command>
+     <!---->
+     <script address="additive">
+      <command address="blue">0</command>
+      <command address="green">0</command>
+      <command address="red">0</command>
+     </script>
+    </script>
+    <!---->
+    <script address="loop">
+     <command address="out">1</command>
+     <command address="mode">0</command>
+     <command address="in">0</command>
+    </script>
+   </script>
+   <!---->
+   <script address="layer.5">
+    <command address="hide">0</command>
+    <command address="rate">0.250000</command>
+    <command address="direction">0</command>
+    <command address="scratch">0</command>
+    <command address="alpha">1</command>
+    <command address="entrypoint">0</command>
+    <command address="media">999</command>
+    <!---->
+    <script address="blend">
+     <command address="mode">0</command>
+    </script>
+    <!---->
+    <script address="scale">
+     <command address="x">0</command>
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="uniform">0.500000</command>
+    </script>
+    <!---->
+    <script address="rotate">
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="loop">
+     <command address="out">1</command>
+     <command address="mode">0</command>
+     <command address="in">0</command>
+    </script>
+    <!---->
+    <script address="pos">
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="color">
+     <command address="blue">1</command>
+     <command address="green">1</command>
+     <command address="red">1</command>
+     <!---->
+     <script address="additive">
+      <command address="blue">0</command>
+      <command address="green">0</command>
+      <command address="red">0</command>
+     </script>
+    </script>
+   </script>
+   <!---->
+   <script address="layer.6">
+    <command address="hide">0</command>
+    <command address="rate">0.250000</command>
+    <command address="direction">0</command>
+    <command address="scratch">0</command>
+    <command address="alpha">1</command>
+    <command address="entrypoint">0</command>
+    <command address="media">999</command>
+    <!---->
+    <script address="color">
+     <command address="blue">1</command>
+     <command address="green">1</command>
+     <command address="red">1</command>
+     <!---->
+     <script address="additive">
+      <command address="blue">0</command>
+      <command address="green">0</command>
+      <command address="red">0</command>
+     </script>
+    </script>
+    <!---->
+    <script address="blend">
+     <command address="mode">0</command>
+    </script>
+    <!---->
+    <script address="scale">
+     <command address="x">0</command>
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="uniform">0.500000</command>
+    </script>
+    <!---->
+    <script address="rotate">
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="pos">
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="loop">
+     <command address="out">1</command>
+     <command address="mode">0</command>
+     <command address="in">0</command>
+    </script>
+   </script>
+   <!---->
+   <script address="layer.7">
+    <command address="hide">0</command>
+    <command address="rate">0.250000</command>
+    <command address="direction">0</command>
+    <command address="scratch">0</command>
+    <command address="alpha">1</command>
+    <command address="entrypoint">0</command>
+    <command address="media">999</command>
+    <!---->
+    <script address="blend">
+     <command address="mode">0</command>
+    </script>
+    <!---->
+    <script address="scale">
+     <command address="x">0</command>
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="uniform">0.500000</command>
+    </script>
+    <!---->
+    <script address="rotate">
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="pos">
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="color">
+     <command address="blue">1</command>
+     <command address="green">1</command>
+     <command address="red">1</command>
+     <!---->
+     <script address="additive">
+      <command address="blue">0</command>
+      <command address="green">0</command>
+      <command address="red">0</command>
+     </script>
+    </script>
+    <!---->
+    <script address="loop">
+     <command address="out">1</command>
+     <command address="mode">0</command>
+     <command address="in">0</command>
+    </script>
+   </script>
+   <!---->
+   <script address="layer.8">
+    <command address="hide">0</command>
+    <command address="rate">0.250000</command>
+    <command address="direction">0</command>
+    <command address="scratch">0</command>
+    <command address="alpha">1</command>
+    <command address="entrypoint">0</command>
+    <command address="media">999</command>
+    <!---->
+    <script address="rotate">
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="blend">
+     <command address="mode">0</command>
+    </script>
+    <!---->
+    <script address="scale">
+     <command address="x">0</command>
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="uniform">0.500000</command>
+    </script>
+    <!---->
+    <script address="loop">
+     <command address="out">1</command>
+     <command address="mode">0</command>
+     <command address="in">0</command>
+    </script>
+    <!---->
+    <script address="pos">
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="color">
+     <command address="blue">1</command>
+     <command address="green">1</command>
+     <command address="red">1</command>
+     <!---->
+     <script address="additive">
+      <command address="blue">0</command>
+      <command address="green">0</command>
+      <command address="red">0</command>
+     </script>
+    </script>
+   </script>
+   <!---->
+   <script address="layer.9">
+    <command address="hide">0</command>
+    <command address="rate">0.250000</command>
+    <command address="direction">0</command>
+    <command address="scratch">0</command>
+    <command address="alpha">1</command>
+    <command address="entrypoint">0</command>
+    <command address="media">999</command>
+    <!---->
+    <script address="color">
+     <command address="blue">1</command>
+     <command address="green">1</command>
+     <command address="red">1</command>
+     <!---->
+     <script address="additive">
+      <command address="blue">0</command>
+      <command address="green">0</command>
+      <command address="red">0</command>
+     </script>
+    </script>
+    <!---->
+    <script address="blend">
+     <command address="mode">0</command>
+    </script>
+    <!---->
+    <script address="scale">
+     <command address="x">0</command>
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="uniform">0.500000</command>
+    </script>
+    <!---->
+    <script address="rotate">
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="pos">
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="loop">
+     <command address="out">1</command>
+     <command address="mode">0</command>
+     <command address="in">0</command>
+    </script>
+   </script>
+   <!---->
+   <script address="layer.10">
+    <command address="hide">0</command>
+    <command address="rate">0.250000</command>
+    <command address="direction">0</command>
+    <command address="scratch">0</command>
+    <command address="alpha">1</command>
+    <command address="entrypoint">0</command>
+    <command address="media">999</command>
+    <!---->
+    <script address="blend">
+     <command address="mode">0</command>
+    </script>
+    <!---->
+    <script address="scale">
+     <command address="x">0</command>
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="uniform">0.500000</command>
+    </script>
+    <!---->
+    <script address="rotate">
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="pos">
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="color">
+     <command address="blue">1</command>
+     <command address="green">1</command>
+     <command address="red">1</command>
+     <!---->
+     <script address="additive">
+      <command address="blue">0</command>
+      <command address="green">0</command>
+      <command address="red">0</command>
+     </script>
+    </script>
+    <!---->
+    <script address="loop">
+     <command address="out">1</command>
+     <command address="mode">0</command>
+     <command address="in">0</command>
+    </script>
+   </script>
+  </script>
+  <!---->
+  <!---->
+  <script address="Jamoma:">
+   <!---->
+   <script address="mouse.1">
+    <command address="reference">screen</command>
+    <command address="active">1</command>
+   </script>
+   <!---->
+   <script address="mouse.2">
+    <command address="active">1</command>
+    <command address="reference">screen</command>
+   </script>
+   <!---->
+   <script address="cue.1">
+    <command address="cuelist">clear</command>
+   </script>
+  </script>
+ </cue>
+ <cue name="mire">
+  <flag name="description">none</flag>
+  <!---->
+  <!---->
+  <script address="m8:">
+   <!---->
+   <script address="layer.1">
+    <command address="hide">0</command>
+    <command address="rate">0.250000</command>
+    <command address="direction">0</command>
+    <command address="scratch">0</command>
+    <command address="alpha">1</command>
+    <command address="entrypoint">0</command>
+    <command address="media">129</command>
+    <!---->
+    <script address="blend">
+     <command address="mode">0</command>
+    </script>
+    <!---->
+    <script address="scale">
+     <command address="x">0</command>
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="uniform">0.500000</command>
+    </script>
+    <!---->
+    <script address="rotate">
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="pos">
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="color">
+     <command address="blue">1</command>
+     <command address="green">1</command>
+     <command address="red">1</command>
+     <!---->
+     <script address="additive">
+      <command address="blue">0</command>
+      <command address="green">0</command>
+      <command address="red">0</command>
+     </script>
+    </script>
+    <!---->
+    <script address="loop">
+     <command address="out">1</command>
+     <command address="mode">0</command>
+     <command address="in">0</command>
+    </script>
+   </script>
+   <!---->
+   <script address="layer.2">
+    <command address="hide">1</command>
+    <command address="rate">0.250000</command>
+    <command address="direction">0</command>
+    <command address="scratch">0</command>
+    <command address="alpha">0</command>
+    <command address="entrypoint">0</command>
+    <command address="media">999</command>
+    <!---->
+    <script address="blend">
+     <command address="mode">0</command>
+    </script>
+    <!---->
+    <script address="scale">
+     <command address="x">0</command>
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="uniform">0.500000</command>
+    </script>
+    <!---->
+    <script address="rotate">
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="pos">
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="color">
+     <command address="blue">1</command>
+     <command address="green">1</command>
+     <command address="red">1</command>
+     <!---->
+     <script address="additive">
+      <command address="blue">0</command>
+      <command address="green">0</command>
+      <command address="red">0</command>
+     </script>
+    </script>
+    <!---->
+    <script address="loop">
+     <command address="out">1</command>
+     <command address="mode">0</command>
+     <command address="in">0</command>
+    </script>
+   </script>
+   <!---->
+   <script address="layer.3">
+    <command address="hide">1</command>
+    <command address="rate">0.250000</command>
+    <command address="direction">0</command>
+    <command address="scratch">0</command>
+    <command address="alpha">0</command>
+    <command address="entrypoint">0</command>
+    <command address="media">999</command>
+    <!---->
+    <script address="scale">
+     <command address="x">0</command>
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="uniform">0.500000</command>
+    </script>
+    <!---->
+    <script address="blend">
+     <command address="mode">0</command>
+    </script>
+    <!---->
+    <script address="rotate">
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="pos">
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="color">
+     <command address="blue">1</command>
+     <command address="green">1</command>
+     <command address="red">1</command>
+     <!---->
+     <script address="additive">
+      <command address="blue">0</command>
+      <command address="green">0</command>
+      <command address="red">0</command>
+     </script>
+    </script>
+    <!---->
+    <script address="loop">
+     <command address="out">1</command>
+     <command address="mode">0</command>
+     <command address="in">0</command>
+    </script>
+   </script>
+   <!---->
+   <script address="layer.4">
+    <command address="hide">1</command>
+    <command address="rate">0.250000</command>
+    <command address="direction">0</command>
+    <command address="scratch">0</command>
+    <command address="alpha">0</command>
+    <command address="entrypoint">0</command>
+    <command address="media">999</command>
+    <!---->
+    <script address="pos">
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="blend">
+     <command address="mode">0</command>
+    </script>
+    <!---->
+    <script address="scale">
+     <command address="x">0</command>
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="uniform">0.500000</command>
+    </script>
+    <!---->
+    <script address="rotate">
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="color">
+     <command address="blue">1</command>
+     <command address="green">1</command>
+     <command address="red">1</command>
+     <!---->
+     <script address="additive">
+      <command address="blue">0</command>
+      <command address="green">0</command>
+      <command address="red">0</command>
+     </script>
+    </script>
+    <!---->
+    <script address="loop">
+     <command address="out">1</command>
+     <command address="mode">0</command>
+     <command address="in">0</command>
+    </script>
+   </script>
+   <!---->
+   <script address="layer.5">
+    <command address="hide">1</command>
+    <command address="rate">0.250000</command>
+    <command address="direction">0</command>
+    <command address="scratch">0</command>
+    <command address="alpha">0</command>
+    <command address="entrypoint">0</command>
+    <command address="media">999</command>
+    <!---->
+    <script address="blend">
+     <command address="mode">0</command>
+    </script>
+    <!---->
+    <script address="scale">
+     <command address="x">0</command>
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="uniform">0.500000</command>
+    </script>
+    <!---->
+    <script address="rotate">
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="loop">
+     <command address="out">1</command>
+     <command address="mode">0</command>
+     <command address="in">0</command>
+    </script>
+    <!---->
+    <script address="pos">
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="color">
+     <command address="blue">1</command>
+     <command address="green">1</command>
+     <command address="red">1</command>
+     <!---->
+     <script address="additive">
+      <command address="blue">0</command>
+      <command address="green">0</command>
+      <command address="red">0</command>
+     </script>
+    </script>
+   </script>
+   <!---->
+   <script address="layer.6">
+    <command address="hide">1</command>
+    <command address="rate">0.250000</command>
+    <command address="direction">0</command>
+    <command address="scratch">0</command>
+    <command address="alpha">0</command>
+    <command address="entrypoint">0</command>
+    <command address="media">999</command>
+    <!---->
+    <script address="color">
+     <command address="blue">1</command>
+     <command address="green">1</command>
+     <command address="red">1</command>
+     <!---->
+     <script address="additive">
+      <command address="blue">0</command>
+      <command address="green">0</command>
+      <command address="red">0</command>
+     </script>
+    </script>
+    <!---->
+    <script address="blend">
+     <command address="mode">0</command>
+    </script>
+    <!---->
+    <script address="scale">
+     <command address="x">0</command>
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="uniform">0.500000</command>
+    </script>
+    <!---->
+    <script address="rotate">
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="pos">
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="loop">
+     <command address="out">1</command>
+     <command address="mode">0</command>
+     <command address="in">0</command>
+    </script>
+   </script>
+   <!---->
+   <script address="layer.7">
+    <command address="hide">1</command>
+    <command address="rate">0.250000</command>
+    <command address="direction">0</command>
+    <command address="scratch">0</command>
+    <command address="alpha">0</command>
+    <command address="entrypoint">0</command>
+    <command address="media">999</command>
+    <!---->
+    <script address="blend">
+     <command address="mode">0</command>
+    </script>
+    <!---->
+    <script address="scale">
+     <command address="x">0</command>
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="uniform">0.500000</command>
+    </script>
+    <!---->
+    <script address="rotate">
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="pos">
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="color">
+     <command address="blue">1</command>
+     <command address="green">1</command>
+     <command address="red">1</command>
+     <!---->
+     <script address="additive">
+      <command address="blue">0</command>
+      <command address="green">0</command>
+      <command address="red">0</command>
+     </script>
+    </script>
+    <!---->
+    <script address="loop">
+     <command address="out">1</command>
+     <command address="mode">0</command>
+     <command address="in">0</command>
+    </script>
+   </script>
+   <!---->
+   <script address="layer.8">
+    <command address="hide">1</command>
+    <command address="rate">0.250000</command>
+    <command address="direction">0</command>
+    <command address="scratch">0</command>
+    <command address="alpha">0</command>
+    <command address="entrypoint">0</command>
+    <command address="media">999</command>
+    <!---->
+    <script address="rotate">
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="blend">
+     <command address="mode">0</command>
+    </script>
+    <!---->
+    <script address="scale">
+     <command address="x">0</command>
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="uniform">0.500000</command>
+    </script>
+    <!---->
+    <script address="loop">
+     <command address="out">1</command>
+     <command address="mode">0</command>
+     <command address="in">0</command>
+    </script>
+    <!---->
+    <script address="pos">
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="color">
+     <command address="blue">1</command>
+     <command address="green">1</command>
+     <command address="red">1</command>
+     <!---->
+     <script address="additive">
+      <command address="blue">0</command>
+      <command address="green">0</command>
+      <command address="red">0</command>
+     </script>
+    </script>
+   </script>
+   <!---->
+   <script address="layer.9">
+    <command address="hide">1</command>
+    <command address="rate">0.250000</command>
+    <command address="direction">0</command>
+    <command address="scratch">0</command>
+    <command address="alpha">0</command>
+    <command address="entrypoint">0</command>
+    <command address="media">999</command>
+    <!---->
+    <script address="color">
+     <command address="blue">1</command>
+     <command address="green">1</command>
+     <command address="red">1</command>
+     <!---->
+     <script address="additive">
+      <command address="blue">0</command>
+      <command address="green">0</command>
+      <command address="red">0</command>
+     </script>
+    </script>
+    <!---->
+    <script address="blend">
+     <command address="mode">0</command>
+    </script>
+    <!---->
+    <script address="scale">
+     <command address="x">0</command>
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="uniform">0.500000</command>
+    </script>
+    <!---->
+    <script address="rotate">
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="pos">
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="loop">
+     <command address="out">1</command>
+     <command address="mode">0</command>
+     <command address="in">0</command>
+    </script>
+   </script>
+   <!---->
+   <script address="layer.10">
+    <command address="hide">1</command>
+    <command address="rate">0.250000</command>
+    <command address="direction">0</command>
+    <command address="scratch">0</command>
+    <command address="alpha">0</command>
+    <command address="entrypoint">0</command>
+    <command address="media">999</command>
+    <!---->
+    <script address="blend">
+     <command address="mode">0</command>
+    </script>
+    <!---->
+    <script address="scale">
+     <command address="x">0</command>
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="uniform">0.500000</command>
+    </script>
+    <!---->
+    <script address="rotate">
+     <command address="z">0</command>
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="pos">
+     <command address="y">0</command>
+     <command address="x">0</command>
+    </script>
+    <!---->
+    <script address="color">
+     <command address="blue">1</command>
+     <command address="green">1</command>
+     <command address="red">1</command>
+     <!---->
+     <script address="additive">
+      <command address="blue">0</command>
+      <command address="green">0</command>
+      <command address="red">0</command>
+     </script>
+    </script>
+    <!---->
+    <script address="loop">
+     <command address="out">1</command>
+     <command address="mode">0</command>
+     <command address="in">0</command>
+    </script>
+   </script>
+  </script>
+  <!---->
+  <!---->
+  <script address="Jamoma:">
+   <!---->
+   <script address="mouse.1">
+    <command address="reference">screen</command>
+    <command address="active">1</command>
+   </script>
+   <!---->
+   <script address="mouse.2">
+    <command address="active">1</command>
+    <command address="reference">screen</command>
+   </script>
+   <!---->
+   <script address="cue.1">
+    <command address="cuelist">empty mire</command>
+   </script>
+  </script>
+ </cue>
+</jamoma>
