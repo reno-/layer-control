@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
 <jamoma version="0.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jamoma.org/ file:jamoma.xsd">
  <cue name="empty">
-  <flag name="description">none</flag>
+  <flag name="description">"tout vide"</flag>
   <!---->
   <!---->
   <script address="m8:">
@@ -506,27 +506,9 @@
     </script>
    </script>
   </script>
-  <!---->
-  <!---->
-  <script address="Jamoma:">
-   <!---->
-   <script address="mouse.1">
-    <command address="reference">screen</command>
-    <command address="active">1</command>
-   </script>
-   <!---->
-   <script address="mouse.2">
-    <command address="active">1</command>
-    <command address="reference">screen</command>
-   </script>
-   <!---->
-   <script address="cue.1">
-    <command address="cuelist">clear</command>
-   </script>
-  </script>
  </cue>
  <cue name="mire">
-  <flag name="description">none</flag>
+  <flag name="description">""Mire sur le calque 1""</flag>
   <!---->
   <!---->
   <script address="m8:">
@@ -1029,24 +1011,6 @@
      <command address="mode">0</command>
      <command address="in">0</command>
     </script>
-   </script>
-  </script>
-  <!---->
-  <!---->
-  <script address="Jamoma:">
-   <!---->
-   <script address="mouse.1">
-    <command address="reference">screen</command>
-    <command address="active">1</command>
-   </script>
-   <!---->
-   <script address="mouse.2">
-    <command address="active">1</command>
-    <command address="reference">screen</command>
-   </script>
-   <!---->
-   <script address="cue.1">
-    <command address="cuelist">empty mire</command>
    </script>
   </script>
  </cue>
