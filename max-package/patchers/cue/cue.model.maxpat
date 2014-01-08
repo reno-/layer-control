@@ -4,11 +4,11 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 6,
+			"revision" : 7,
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 41.0, 506.0, 1155.0, 452.0 ],
+		"rect" : [ 66.0, 426.0, 1155.0, 452.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -28,6 +28,35 @@
 		"digest" : "",
 		"tags" : "",
 		"boxes" : [ 			{
+				"box" : 				{
+					"fontname" : "Arial",
+					"fontsize" : 12.0,
+					"id" : "obj-49",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 451.0, 174.5, 56.0, 20.0 ],
+					"presentation_rect" : [ 190.0, 161.5, 0.0, 0.0 ],
+					"text" : "deferlow"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontname" : "Arial",
+					"fontsize" : 12.0,
+					"id" : "obj-35",
+					"maxclass" : "newobj",
+					"numinlets" : 2,
+					"numoutlets" : 2,
+					"outlettype" : [ "", "" ],
+					"patching_rect" : [ 374.400024, 114.5, 40.0, 20.0 ],
+					"text" : "zl reg"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"color" : [ 0.0, 0.572549, 0.811765, 1.0 ],
 					"fontname" : "Arial",
@@ -75,7 +104,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 354.799988, 114.5, 56.0, 20.0 ],
+					"patching_rect" : [ 264.0, 114.5, 56.0, 20.0 ],
 					"text" : "deferlow"
 				}
 
@@ -85,13 +114,12 @@
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
 					"id" : "obj-45",
-					"linecount" : 4,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 9.5, 299.0, 50.0, 58.0 ],
-					"text" : "namespace/select m8:/"
+					"patching_rect" : [ 9.5, 299.0, 199.0, 18.0 ],
+					"text" : "namespace/select /m8"
 				}
 
 			}
@@ -156,7 +184,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 647.0, 333.346161, 20.0, 20.0 ]
+					"patching_rect" : [ 546.0, 352.538452, 20.0, 20.0 ]
 				}
 
 			}
@@ -169,8 +197,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 589.0, 404.0, 77.0, 18.0 ],
-					"text" : "/cue.1"
+					"patching_rect" : [ 488.0, 423.192291, 77.0, 18.0 ],
+					"text" : "/cue"
 				}
 
 			}
@@ -183,7 +211,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "", "", "" ],
-					"patching_rect" : [ 647.0, 364.0, 161.0, 20.0 ],
+					"patching_rect" : [ 546.0, 383.192291, 137.0, 20.0 ],
 					"text" : "j.receive model:address"
 				}
 
@@ -210,7 +238,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 554.0, 255.0, 120.0, 20.0 ],
+					"patching_rect" : [ 589.0, 255.0, 120.0, 20.0 ],
 					"text" : "print #1/dumpout"
 				}
 
@@ -251,11 +279,11 @@
 					"fontsize" : 12.0,
 					"id" : "obj-21",
 					"maxclass" : "newobj",
-					"numinlets" : 2,
-					"numoutlets" : 2,
-					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 480.400024, 255.0, 68.0, 20.0 ],
-					"text" : "route store"
+					"numinlets" : 3,
+					"numoutlets" : 3,
+					"outlettype" : [ "", "", "" ],
+					"patching_rect" : [ 480.400024, 255.0, 101.0, 20.0 ],
+					"text" : "route store recall"
 				}
 
 			}
@@ -296,8 +324,8 @@
 					"id" : "obj-13",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
+					"numoutlets" : 2,
+					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 407.999939, 283.5, 209.0, 20.0 ],
 					"text" : "j.return read/done @type generic"
 				}
@@ -314,7 +342,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 204.0, 227.0, 72.0, 20.0 ],
-					"text" : "j.model"
+					"text" : "j.model #1"
 				}
 
 			}
@@ -340,8 +368,8 @@
 					"id" : "obj-34",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
+					"numoutlets" : 2,
+					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 362.200012, 308.423096, 255.0, 20.0 ],
 					"text" : "j.return current/description @type string"
 				}
@@ -355,8 +383,8 @@
 					"id" : "obj-33",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
+					"numoutlets" : 2,
+					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 316.400024, 333.346161, 225.0, 20.0 ],
 					"text" : "j.return current/ramp @type decimal"
 				}
@@ -385,8 +413,8 @@
 					"id" : "obj-9",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
+					"numoutlets" : 2,
+					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 224.799988, 383.192291, 215.0, 20.0 ],
 					"text" : "j.return current/name @type string"
 				}
@@ -400,8 +428,8 @@
 					"id" : "obj-7",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
+					"numoutlets" : 2,
+					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 179.0, 408.115387, 239.0, 20.0 ],
 					"text" : "j.return current/position @type decimal"
 				}
@@ -465,11 +493,11 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 7,
 							"architecture" : "x86"
 						}
 ,
-						"rect" : [ 521.0, 425.0, 745.0, 186.0 ],
+						"rect" : [ 374.0, 728.0, 745.0, 186.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -633,7 +661,7 @@
 									"maxclass" : "outlet",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 212.0, 143.0, 25.0, 25.0 ]
+									"patching_rect" : [ 261.0, 152.0, 25.0, 25.0 ]
 								}
 
 							}
@@ -1004,7 +1032,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 7,
 							"architecture" : "x86"
 						}
 ,
@@ -1037,7 +1065,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 100.0, 1021.0, 18.0 ],
-									"text" : "write work:/Users/reno/Documents/GITs/didatools/m8-control/m8-control.xml"
+									"text" : "work:/Users/reno/Documents/GITs/layer-control/max-package/layer-control.xml"
 								}
 
 							}
@@ -1408,6 +1436,15 @@
 					"destination" : [ "obj-27", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
+					"source" : [ "obj-21", 2 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-3", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
 					"source" : [ "obj-21", 1 ]
 				}
 
@@ -1454,6 +1491,15 @@
 					"disabled" : 0,
 					"hidden" : 0,
 					"source" : [ "obj-26", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-35", 1 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-26", 0 ]
 				}
 
 			}
@@ -1657,7 +1703,25 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-35", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-49", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-12", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-51", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-49", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
 					"source" : [ "obj-51", 0 ]
@@ -1708,6 +1772,35 @@
 					"source" : [ "obj-8", 1 ]
 				}
 
+			}
+ ],
+		"dependency_cache" : [ 			{
+				"name" : "j.message.mxo",
+				"type" : "iLaX"
+			}
+, 			{
+				"name" : "j.receive.mxo",
+				"type" : "iLaX"
+			}
+, 			{
+				"name" : "j.init.mxo",
+				"type" : "iLaX"
+			}
+, 			{
+				"name" : "j.cue.mxo",
+				"type" : "iLaX"
+			}
+, 			{
+				"name" : "j.return.mxo",
+				"type" : "iLaX"
+			}
+, 			{
+				"name" : "j.parameter.mxo",
+				"type" : "iLaX"
+			}
+, 			{
+				"name" : "j.model.mxo",
+				"type" : "iLaX"
 			}
  ]
 	}
