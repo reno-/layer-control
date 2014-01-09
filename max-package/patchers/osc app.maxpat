@@ -88,7 +88,7 @@
 							"architecture" : "x86"
 						}
 ,
-						"rect" : [ 149.0, 124.0, 724.0, 484.0 ],
+						"rect" : [ 616.0, 156.0, 724.0, 484.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -117,7 +117,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 86.0, 457.0, 580.0, 18.0 ],
-									"text" : "namespace/read \"work:/Users/reno/Documents/GITs/layer-control/max-package/config/m8 namespace.xml\""
+									"text" : "namespace/read \"work:/Users/reno/Documents/GITs/layer-control/max-package/m8 namespace.xml\""
 								}
 
 							}
@@ -372,13 +372,12 @@
 									"fontname" : "Arial",
 									"fontsize" : 12.0,
 									"id" : "obj-56",
-									"linecount" : 2,
 									"maxclass" : "newobj",
-									"numinlets" : 2,
+									"numinlets" : 1,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 118.25, 137.0, 127.25, 33.0 ],
-									"text" : "sprintf %sconfig/%s namespace.xml"
+									"patching_rect" : [ 118.25, 137.0, 172.0, 20.0 ],
+									"text" : "sprintf %sm8 namespace.xml"
 								}
 
 							}
@@ -455,15 +454,6 @@
 , 							{
 								"patchline" : 								{
 									"destination" : [ "obj-50", 0 ],
-									"disabled" : 0,
-									"hidden" : 0,
-									"source" : [ "obj-24", 0 ]
-								}
-
-							}
-, 							{
-								"patchline" : 								{
-									"destination" : [ "obj-56", 1 ],
 									"disabled" : 0,
 									"hidden" : 0,
 									"source" : [ "obj-24", 0 ]
@@ -3348,8 +3338,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 710.5, 839.0, 152.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 258.0, 97.609924, 148.0, 20.0 ],
-					"text" : "0.00"
+					"presentation_rect" : [ 258.0, 97.609924, 148.0, 20.0 ]
 				}
 
 			}
@@ -3434,7 +3423,7 @@
 					"fontsize" : 12.0,
 					"framecolor" : [ 0.619608, 0.0, 0.360784, 0.701961 ],
 					"id" : "obj-42",
-					"items" : [ "active", ",", "bypass", ",", "dataspace", ",", "dataspace/unit", ",", "description", ",", "priority", ",", "ramp/drive", ",", "ramp/function", ",", "ramp/function/parameters", ",", "ramp/status", ",", "range/bounds", ",", "range/clipmode", ",", "repetitions/filter", ",", "service", ",", "tag", ",", "type", ",", "value", ",", "value/default", ",", "value/stepsize" ],
+					"items" : "<empty>",
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -3739,7 +3728,7 @@
 					"fontsize" : 12.0,
 					"framecolor" : [ 0.619608, 0.0, 0.360784, 0.701961 ],
 					"id" : "obj-18",
-					"items" : [ "scale/uniform", ",", "scale/x", ",", "blend/mode", ",", "rate", ",", "scale/z", ",", "entrypoint", ",", "pos/y", ",", "direction", ",", "color/additive/blue", ",", "rotate/x", ",", "pos/x", ",", "color/red", ",", "color/blue", ",", "color/additive/green", ",", "rotate/z", ",", "loop/in", ",", "rotate/y", ",", "loop/out", ",", "scale/y", ",", "color/green", ",", "loop/mode", ",", "alpha", ",", "media", ",", "hide", ",", "scratch", ",", "color/additive/red" ],
+					"items" : [ "rotate/y", ",", "rotate/z", ",", "rotate/x", ",", "pos/x", ",", "pos/y", ",", "scale/uniform", ",", "scale/x", ",", "scale/y", ",", "scale/z", ",", "color/additive/blue", ",", "color/additive/green", ",", "color/red", ",", "color/additive/red", ",", "color/green", ",", "loop/in", ",", "loop/out", ",", "loop/mode", ",", "media", ",", "rate", ",", "alpha", ",", "blend/mode", ",", "color/blue", ",", "scratch", ",", "direction", ",", "hide", ",", "entrypoint" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -3848,8 +3837,8 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 7.0, 8.0, 131.0, 33.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ -1.5, -1.0, 37.0, 33.0 ],
-					"text" : "#1"
+					"presentation_rect" : [ -1.5, -1.0, 43.0, 33.0 ],
+					"text" : "m8"
 				}
 
 			}
@@ -3864,8 +3853,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 421.5, 839.0, 254.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 258.0, 74.20993, 148.0, 20.0 ],
-					"text" : "/layer.1/scale/x:value"
+					"presentation_rect" : [ 258.0, 74.20993, 148.0, 20.0 ]
 				}
 
 			}
@@ -4377,49 +4365,6 @@
 					"source" : [ "obj-9", 0 ]
 				}
 
-			}
- ],
-		"dependency_cache" : [ 			{
-				"name" : "mouse.model.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/Jamoma/Implementations/Max/Jamoma/patchers/modules/control/mouse",
-				"patcherrelativepath" : "../../../Jamoma/Implementations/Max/Jamoma/patchers/modules/control/mouse",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "thru.maxpat",
-				"bootpath" : "/Applications/Max 6.1/patches/m4l-patches/Pluggo for Live resources/patches",
-				"patcherrelativepath" : "../../../../../../../Applications/Max 6.1/patches/m4l-patches/Pluggo for Live resources/patches",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "j.namespace.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "j.receive.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "j.parameter.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "j.return.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "j.model.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "j.init.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "j.modular.mxo",
-				"type" : "iLaX"
 			}
  ]
 	}
