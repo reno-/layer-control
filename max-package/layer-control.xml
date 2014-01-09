@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
 <jamoma version="0.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jamoma.org/ file:jamoma.xsd">
- <cue name="empty">
-  <flag name="description">"tout vide"</flag>
+ <cue name="Mise">
+  <flag name="description">"Mise tout vide"</flag>
   <!---->
   <!---->
   <script address="m8:">
@@ -518,7 +518,7 @@
     <command address="rate">0.250000</command>
     <command address="direction">0</command>
     <command address="scratch">0</command>
-    <command address="alpha">1</command>
+    <command address="alpha">0</command>
     <command address="entrypoint">0</command>
     <command address="media">129</command>
     <!---->
@@ -1011,6 +1011,17 @@
      <command address="mode">0</command>
      <command address="in">0</command>
     </script>
+   </script>
+  </script>
+ </cue>
+  <cue name="fade">
+  <flag name="description">none</flag>
+  <!---->
+  <!---->
+  <script address="m8:">
+   <!---->
+   <script address="layer.1">
+    <command address="alpha" ramp="2000">1</command>
    </script>
   </script>
  </cue>
