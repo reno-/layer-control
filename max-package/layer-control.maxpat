@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 0.0, 44.0, 416.0, 854.0 ],
+		"rect" : [ 0.0, 44.0, 424.0, 870.0 ],
 		"bgcolor" : [ 0.176471, 0.294118, 0.439216, 1.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
@@ -38,7 +38,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 452.0, 250.5, 127.0, 18.0 ],
-					"presentation_rect" : [ 457.0, 250.5, 0.0, 0.0 ],
 					"text" : "namespace/unselect /"
 				}
 
@@ -2225,7 +2224,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 114.041687, 217.0, 152.0, 27.0 ],
-													"text" : "/md8key/ctrl_layer_pixelFX_noiseLevel/0 0.91"
+													"text" : "/md8key/ctrl_layer_pixelFX_noiseLevel/0 0"
 												}
 
 											}
@@ -3420,67 +3419,67 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorCurve/1" : 														{
-															"/layer.1/auto/color/mode" : 1
+															"/layer.1/color/auto/mode" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorOn/1" : 														{
-															"/layer.1/auto/color/enable" : 1
+															"/layer.1/color/auto/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorASpeed/1" : 														{
-															"/layer.1/auto/color/speed/alpha" : 1
+															"/layer.1/color/auto/speed/alpha" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorBSpeed/1" : 														{
-															"/layer.1/auto/color/speed/blue" : 1
+															"/layer.1/color/auto/speed/blue" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorGSpeed/1" : 														{
-															"/layer.1/auto/color/speed/green" : 1
+															"/layer.1/color/auto/speed/green" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorRSpeed/1" : 														{
-															"/layer.1/auto/color/speed/red" : 1
+															"/layer.1/color/auto/speed/red" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorAdditiveOn/1" : 														{
-															"/layer.1/auto/color/additive/enable" : 1
+															"/layer.1/color/auto/additive" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorModulateOn/1" : 														{
-															"/layer.1/auto/color/modulate/enable" : 1
+															"/layer.1/color/auto/modulate" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateOn/1" : 														{
-															"/layer.1/auto/rotate/enable" : 1
+															"/layer.1/rotate/auto/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateStrob/1" : 														{
-															"/layer.1/auto/rotate/strob" : 1
+															"/layer.1/rotate/auto/strob" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateYDirection/1" : 														{
-															"/layer.1/auto/rotate/y" : 1
+															"/layer.1/rotate/auto/y/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateZDirection/1" : 														{
-															"/layer.1/auto/rotate/z" : 1
+															"/layer.1/rotate/auto/z/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateXDirection/1" : 														{
-															"/layer.1/auto/rotate/x" : 1
+															"/layer.1/rotate/auto/x/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateYSpeed/1" : 														{
-															"/layer.1/auto/rotate/speed/y" : 1
+															"/layer.1/rotate/auto/y/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateZSpeed/1" : 														{
-															"/layer.1/auto/rotate/speed/z" : 1
+															"/layer.1/rotate/auto/z/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateXSpeed/1" : 														{
-															"/layer.1/auto/rotate/speed/x" : 1
+															"/layer.1/rotate/auto/x/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveCurve/1" : 														{
@@ -3892,67 +3891,67 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorCurve/2" : 														{
-															"/layer.2/auto/color/mode" : 1
+															"/layer.2/color/auto/mode" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorOn/2" : 														{
-															"/layer.2/auto/color/enable" : 1
+															"/layer.2/color/auto/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorASpeed/2" : 														{
-															"/layer.2/auto/color/speed/alpha" : 1
+															"/layer.2/color/auto/speed/alpha" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorBSpeed/2" : 														{
-															"/layer.2/auto/color/speed/blue" : 1
+															"/layer.2/color/auto/speed/blue" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorGSpeed/2" : 														{
-															"/layer.2/auto/color/speed/green" : 1
+															"/layer.2/color/auto/speed/green" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorRSpeed/2" : 														{
-															"/layer.2/auto/color/speed/red" : 1
+															"/layer.2/color/auto/speed/red" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorAdditiveOn/2" : 														{
-															"/layer.2/auto/color/additive/enable" : 1
+															"/layer.2/color/auto/additive" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorModulateOn/2" : 														{
-															"/layer.2/auto/color/modulate/enable" : 1
+															"/layer.2/color/auto/modulate" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateOn/2" : 														{
-															"/layer.2/auto/rotate/enable" : 1
+															"/layer.2/rotate/auto/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateStrob/2" : 														{
-															"/layer.2/auto/rotate/strob" : 1
+															"/layer.2/rotate/auto/strob" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateYDirection/2" : 														{
-															"/layer.2/auto/rotate/y" : 1
+															"/layer.2/rotate/auto/y/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateZDirection/2" : 														{
-															"/layer.2/auto/rotate/z" : 1
+															"/layer.2/rotate/auto/z/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateXDirection/2" : 														{
-															"/layer.2/auto/rotate/x" : 1
+															"/layer.2/rotate/auto/x/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateYSpeed/2" : 														{
-															"/layer.2/auto/rotate/speed/y" : 1
+															"/layer.2/rotate/auto/y/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateZSpeed/2" : 														{
-															"/layer.2/auto/rotate/speed/z" : 1
+															"/layer.2/rotate/auto/z/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateXSpeed/2" : 														{
-															"/layer.2/auto/rotate/speed/x" : 1
+															"/layer.2/rotate/auto/x/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveCurve/2" : 														{
@@ -4368,67 +4367,67 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorCurve/3" : 														{
-															"/layer.3/auto/color/mode" : 1
+															"/layer.3/color/auto/mode" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorOn/3" : 														{
-															"/layer.3/auto/color/enable" : 1
+															"/layer.3/color/auto/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorASpeed/3" : 														{
-															"/layer.3/auto/color/speed/alpha" : 1
+															"/layer.3/color/auto/speed/alpha" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorBSpeed/3" : 														{
-															"/layer.3/auto/color/speed/blue" : 1
+															"/layer.3/color/auto/speed/blue" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorGSpeed/3" : 														{
-															"/layer.3/auto/color/speed/green" : 1
+															"/layer.3/color/auto/speed/green" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorRSpeed/3" : 														{
-															"/layer.3/auto/color/speed/red" : 1
+															"/layer.3/color/auto/speed/red" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorAdditiveOn/3" : 														{
-															"/layer.3/auto/color/additive/enable" : 1
+															"/layer.3/color/auto/additive" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorModulateOn/3" : 														{
-															"/layer.3/auto/color/modulate/enable" : 1
+															"/layer.3/color/auto/modulate" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateOn/3" : 														{
-															"/layer.3/auto/rotate/enable" : 1
+															"/layer.3/rotate/auto/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateStrob/3" : 														{
-															"/layer.3/auto/rotate/strob" : 1
+															"/layer.3/rotate/auto/strob" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateYDirection/3" : 														{
-															"/layer.3/auto/rotate/y" : 1
+															"/layer.3/rotate/auto/y/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateZDirection/3" : 														{
-															"/layer.3/auto/rotate/z" : 1
+															"/layer.3/rotate/auto/z/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateXDirection/3" : 														{
-															"/layer.3/auto/rotate/x" : 1
+															"/layer.3/rotate/auto/x/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateYSpeed/3" : 														{
-															"/layer.3/auto/rotate/speed/y" : 1
+															"/layer.3/rotate/auto/y/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateZSpeed/3" : 														{
-															"/layer.3/auto/rotate/speed/z" : 1
+															"/layer.3/rotate/auto/z/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateXSpeed/3" : 														{
-															"/layer.3/auto/rotate/speed/x" : 1
+															"/layer.3/rotate/auto/x/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveCurve/3" : 														{
@@ -4844,67 +4843,67 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorCurve/4" : 														{
-															"/layer.4/auto/color/mode" : 1
+															"/layer.4/color/auto/mode" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorOn/4" : 														{
-															"/layer.4/auto/color/enable" : 1
+															"/layer.4/color/auto/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorASpeed/4" : 														{
-															"/layer.4/auto/color/speed/alpha" : 1
+															"/layer.4/color/auto/speed/alpha" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorBSpeed/4" : 														{
-															"/layer.4/auto/color/speed/blue" : 1
+															"/layer.4/color/auto/speed/blue" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorGSpeed/4" : 														{
-															"/layer.4/auto/color/speed/green" : 1
+															"/layer.4/color/auto/speed/green" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorRSpeed/4" : 														{
-															"/layer.4/auto/color/speed/red" : 1
+															"/layer.4/color/auto/speed/red" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorAdditiveOn/4" : 														{
-															"/layer.4/auto/color/additive/enable" : 1
+															"/layer.4/color/auto/additive" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorModulateOn/4" : 														{
-															"/layer.4/auto/color/modulate/enable" : 1
+															"/layer.4/color/auto/modulate" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateOn/4" : 														{
-															"/layer.4/auto/rotate/enable" : 1
+															"/layer.4/rotate/auto/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateStrob/4" : 														{
-															"/layer.4/auto/rotate/strob" : 1
+															"/layer.4/rotate/auto/strob" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateYDirection/4" : 														{
-															"/layer.4/auto/rotate/y" : 1
+															"/layer.4/rotate/auto/y/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateZDirection/4" : 														{
-															"/layer.4/auto/rotate/z" : 1
+															"/layer.4/rotate/auto/z/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateXDirection/4" : 														{
-															"/layer.4/auto/rotate/x" : 1
+															"/layer.4/rotate/auto/x/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateYSpeed/4" : 														{
-															"/layer.4/auto/rotate/speed/y" : 1
+															"/layer.4/rotate/auto/y/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateZSpeed/4" : 														{
-															"/layer.4/auto/rotate/speed/z" : 1
+															"/layer.4/rotate/auto/z/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateXSpeed/4" : 														{
-															"/layer.4/auto/rotate/speed/x" : 1
+															"/layer.4/rotate/auto/x/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveCurve/4" : 														{
@@ -5320,67 +5319,67 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorCurve/5" : 														{
-															"/layer.5/auto/color/mode" : 1
+															"/layer.5/color/auto/mode" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorOn/5" : 														{
-															"/layer.5/auto/color/enable" : 1
+															"/layer.5/color/auto/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorASpeed/5" : 														{
-															"/layer.5/auto/color/speed/alpha" : 1
+															"/layer.5/color/auto/speed/alpha" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorBSpeed/5" : 														{
-															"/layer.5/auto/color/speed/blue" : 1
+															"/layer.5/color/auto/speed/blue" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorGSpeed/5" : 														{
-															"/layer.5/auto/color/speed/green" : 1
+															"/layer.5/color/auto/speed/green" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorRSpeed/5" : 														{
-															"/layer.5/auto/color/speed/red" : 1
+															"/layer.5/color/auto/speed/red" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorAdditiveOn/5" : 														{
-															"/layer.5/auto/color/additive/enable" : 1
+															"/layer.5/color/auto/additive" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorModulateOn/5" : 														{
-															"/layer.5/auto/color/modulate/enable" : 1
+															"/layer.5/color/auto/modulate" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateOn/5" : 														{
-															"/layer.5/auto/rotate/enable" : 1
+															"/layer.5/rotate/auto/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateStrob/5" : 														{
-															"/layer.5/auto/rotate/strob" : 1
+															"/layer.5/rotate/auto/strob" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateYDirection/5" : 														{
-															"/layer.5/auto/rotate/y" : 1
+															"/layer.5/rotate/auto/y/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateZDirection/5" : 														{
-															"/layer.5/auto/rotate/z" : 1
+															"/layer.5/rotate/auto/z/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateXDirection/5" : 														{
-															"/layer.5/auto/rotate/x" : 1
+															"/layer.5/rotate/auto/x/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateYSpeed/5" : 														{
-															"/layer.5/auto/rotate/speed/y" : 1
+															"/layer.5/rotate/auto/y/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateZSpeed/5" : 														{
-															"/layer.5/auto/rotate/speed/z" : 1
+															"/layer.5/rotate/auto/z/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateXSpeed/5" : 														{
-															"/layer.5/auto/rotate/speed/x" : 1
+															"/layer.5/rotate/auto/x/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveCurve/5" : 														{
@@ -5796,67 +5795,67 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorCurve/6" : 														{
-															"/layer.6/auto/color/mode" : 1
+															"/layer.6/color/auto/mode" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorOn/6" : 														{
-															"/layer.6/auto/color/enable" : 1
+															"/layer.6/color/auto/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorASpeed/6" : 														{
-															"/layer.6/auto/color/speed/alpha" : 1
+															"/layer.6/color/auto/speed/alpha" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorBSpeed/6" : 														{
-															"/layer.6/auto/color/speed/blue" : 1
+															"/layer.6/color/auto/speed/blue" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorGSpeed/6" : 														{
-															"/layer.6/auto/color/speed/green" : 1
+															"/layer.6/color/auto/speed/green" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorRSpeed/6" : 														{
-															"/layer.6/auto/color/speed/red" : 1
+															"/layer.6/color/auto/speed/red" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorAdditiveOn/6" : 														{
-															"/layer.6/auto/color/additive/enable" : 1
+															"/layer.6/color/auto/additive" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorModulateOn/6" : 														{
-															"/layer.6/auto/color/modulate/enable" : 1
+															"/layer.6/color/auto/modulate" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateOn/6" : 														{
-															"/layer.6/auto/rotate/enable" : 1
+															"/layer.6/rotate/auto/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateStrob/6" : 														{
-															"/layer.6/auto/rotate/strob" : 1
+															"/layer.6/rotate/auto/strob" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateYDirection/6" : 														{
-															"/layer.6/auto/rotate/y" : 1
+															"/layer.6/rotate/auto/y/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateZDirection/6" : 														{
-															"/layer.6/auto/rotate/z" : 1
+															"/layer.6/rotate/auto/z/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateXDirection/6" : 														{
-															"/layer.6/auto/rotate/x" : 1
+															"/layer.6/rotate/auto/x/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateYSpeed/6" : 														{
-															"/layer.6/auto/rotate/speed/y" : 1
+															"/layer.6/rotate/auto/y/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateZSpeed/6" : 														{
-															"/layer.6/auto/rotate/speed/z" : 1
+															"/layer.6/rotate/auto/z/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateXSpeed/6" : 														{
-															"/layer.6/auto/rotate/speed/x" : 1
+															"/layer.6/rotate/auto/x/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveCurve/6" : 														{
@@ -6272,67 +6271,67 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorCurve/7" : 														{
-															"/layer.7/auto/color/mode" : 1
+															"/layer.7/color/auto/mode" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorOn/7" : 														{
-															"/layer.7/auto/color/enable" : 1
+															"/layer.7/color/auto/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorASpeed/7" : 														{
-															"/layer.7/auto/color/speed/alpha" : 1
+															"/layer.7/color/auto/speed/alpha" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorBSpeed/7" : 														{
-															"/layer.7/auto/color/speed/blue" : 1
+															"/layer.7/color/auto/speed/blue" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorGSpeed/7" : 														{
-															"/layer.7/auto/color/speed/green" : 1
+															"/layer.7/color/auto/speed/green" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorRSpeed/7" : 														{
-															"/layer.7/auto/color/speed/red" : 1
+															"/layer.7/color/auto/speed/red" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorAdditiveOn/7" : 														{
-															"/layer.7/auto/color/additive/enable" : 1
+															"/layer.7/color/auto/additive" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorModulateOn/7" : 														{
-															"/layer.7/auto/color/modulate/enable" : 1
+															"/layer.7/color/auto/modulate" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateOn/7" : 														{
-															"/layer.7/auto/rotate/enable" : 1
+															"/layer.7/rotate/auto/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateStrob/7" : 														{
-															"/layer.7/auto/rotate/strob" : 1
+															"/layer.7/rotate/auto/strob" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateYDirection/7" : 														{
-															"/layer.7/auto/rotate/y" : 1
+															"/layer.7/rotate/auto/y/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateZDirection/7" : 														{
-															"/layer.7/auto/rotate/z" : 1
+															"/layer.7/rotate/auto/z/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateXDirection/7" : 														{
-															"/layer.7/auto/rotate/x" : 1
+															"/layer.7/rotate/auto/x/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateYSpeed/7" : 														{
-															"/layer.7/auto/rotate/speed/y" : 1
+															"/layer.7/rotate/auto/y/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateZSpeed/7" : 														{
-															"/layer.7/auto/rotate/speed/z" : 1
+															"/layer.7/rotate/auto/z/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateXSpeed/7" : 														{
-															"/layer.7/auto/rotate/speed/x" : 1
+															"/layer.7/rotate/auto/x/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveCurve/7" : 														{
@@ -6748,67 +6747,67 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorCurve/8" : 														{
-															"/layer.8/auto/color/mode" : 1
+															"/layer.8/color/auto/mode" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorOn/8" : 														{
-															"/layer.8/auto/color/enable" : 1
+															"/layer.8/color/auto/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorASpeed/8" : 														{
-															"/layer.8/auto/color/speed/alpha" : 1
+															"/layer.8/color/auto/speed/alpha" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorBSpeed/8" : 														{
-															"/layer.8/auto/color/speed/blue" : 1
+															"/layer.8/color/auto/speed/blue" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorGSpeed/8" : 														{
-															"/layer.8/auto/color/speed/green" : 1
+															"/layer.8/color/auto/speed/green" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorRSpeed/8" : 														{
-															"/layer.8/auto/color/speed/red" : 1
+															"/layer.8/color/auto/speed/red" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorAdditiveOn/8" : 														{
-															"/layer.8/auto/color/additive/enable" : 1
+															"/layer.8/color/auto/additive" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorModulateOn/8" : 														{
-															"/layer.8/auto/color/modulate/enable" : 1
+															"/layer.8/color/auto/modulate" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateOn/8" : 														{
-															"/layer.8/auto/rotate/enable" : 1
+															"/layer.8/rotate/auto/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateStrob/8" : 														{
-															"/layer.8/auto/rotate/strob" : 1
+															"/layer.8/rotate/auto/strob" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateYDirection/8" : 														{
-															"/layer.8/auto/rotate/y" : 1
+															"/layer.8/rotate/auto/y/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateZDirection/8" : 														{
-															"/layer.8/auto/rotate/z" : 1
+															"/layer.8/rotate/auto/z/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateXDirection/8" : 														{
-															"/layer.8/auto/rotate/x" : 1
+															"/layer.8/rotate/auto/x/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateYSpeed/8" : 														{
-															"/layer.8/auto/rotate/speed/y" : 1
+															"/layer.8/rotate/auto/y/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateZSpeed/8" : 														{
-															"/layer.8/auto/rotate/speed/z" : 1
+															"/layer.8/rotate/auto/z/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateXSpeed/8" : 														{
-															"/layer.8/auto/rotate/speed/x" : 1
+															"/layer.8/rotate/auto/x/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveCurve/8" : 														{
@@ -7224,67 +7223,67 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorCurve/9" : 														{
-															"/layer.9/auto/color/mode" : 1
+															"/layer.9/color/auto/mode" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorOn/9" : 														{
-															"/layer.9/auto/color/enable" : 1
+															"/layer.9/color/auto/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorASpeed/9" : 														{
-															"/layer.9/auto/color/speed/alpha" : 1
+															"/layer.9/color/auto/speed/alpha" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorBSpeed/9" : 														{
-															"/layer.9/auto/color/speed/blue" : 1
+															"/layer.9/color/auto/speed/blue" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorGSpeed/9" : 														{
-															"/layer.9/auto/color/speed/green" : 1
+															"/layer.9/color/auto/speed/green" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorRSpeed/9" : 														{
-															"/layer.9/auto/color/speed/red" : 1
+															"/layer.9/color/auto/speed/red" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorAdditiveOn/9" : 														{
-															"/layer.9/auto/color/additive/enable" : 1
+															"/layer.9/color/auto/additive" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorModulateOn/9" : 														{
-															"/layer.9/auto/color/modulate/enable" : 1
+															"/layer.9/color/auto/modulate" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateOn/9" : 														{
-															"/layer.9/auto/rotate/enable" : 1
+															"/layer.9/rotate/auto/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateStrob/9" : 														{
-															"/layer.9/auto/rotate/strob" : 1
+															"/layer.9/rotate/auto/strob" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateYDirection/9" : 														{
-															"/layer.9/auto/rotate/y" : 1
+															"/layer.9/rotate/auto/y/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateZDirection/9" : 														{
-															"/layer.9/auto/rotate/z" : 1
+															"/layer.9/rotate/auto/z/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateXDirection/9" : 														{
-															"/layer.9/auto/rotate/x" : 1
+															"/layer.9/rotate/auto/x/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateYSpeed/9" : 														{
-															"/layer.9/auto/rotate/speed/y" : 1
+															"/layer.9/rotate/auto/y/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateZSpeed/9" : 														{
-															"/layer.9/auto/rotate/speed/z" : 1
+															"/layer.9/rotate/auto/z/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateXSpeed/9" : 														{
-															"/layer.9/auto/rotate/speed/x" : 1
+															"/layer.9/rotate/auto/x/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveCurve/9" : 														{
@@ -7700,67 +7699,67 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorCurve/10" : 														{
-															"/layer.10/auto/color/mode" : 1
+															"/layer.10/color/auto/mode" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorOn/10" : 														{
-															"/layer.10/auto/color/enable" : 1
+															"/layer.10/color/auto/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorASpeed/10" : 														{
-															"/layer.10/auto/color/speed/alpha" : 1
+															"/layer.10/color/auto/speed/alpha" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorBSpeed/10" : 														{
-															"/layer.10/auto/color/speed/blue" : 1
+															"/layer.10/color/auto/speed/blue" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorGSpeed/10" : 														{
-															"/layer.10/auto/color/speed/green" : 1
+															"/layer.10/color/auto/speed/green" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorRSpeed/10" : 														{
-															"/layer.10/auto/color/speed/red" : 1
+															"/layer.10/color/auto/speed/red" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorAdditiveOn/10" : 														{
-															"/layer.10/auto/color/additive/enable" : 1
+															"/layer.10/color/auto/additive" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorModulateOn/10" : 														{
-															"/layer.10/auto/color/modulate/enable" : 1
+															"/layer.10/color/auto/modulate" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateOn/10" : 														{
-															"/layer.10/auto/rotate/enable" : 1
+															"/layer.10/rotate/auto/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateStrob/10" : 														{
-															"/layer.10/auto/rotate/strob" : 1
+															"/layer.10/rotate/auto/strob" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateYDirection/10" : 														{
-															"/layer.10/auto/rotate/y" : 1
+															"/layer.10/rotate/auto/y/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateZDirection/10" : 														{
-															"/layer.10/auto/rotate/z" : 1
+															"/layer.10/rotate/auto/z/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateXDirection/10" : 														{
-															"/layer.10/auto/rotate/x" : 1
+															"/layer.10/rotate/auto/x/direction" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateYSpeed/10" : 														{
-															"/layer.10/auto/rotate/speed/y" : 1
+															"/layer.10/rotate/auto/y/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateZSpeed/10" : 														{
-															"/layer.10/auto/rotate/speed/z" : 1
+															"/layer.10/rotate/auto/z/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateXSpeed/10" : 														{
-															"/layer.10/auto/rotate/speed/x" : 1
+															"/layer.10/rotate/auto/x/speed" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveCurve/10" : 														{
@@ -13219,7 +13218,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 3.0, 208.5, 396.0, 644.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 2.0, 207.5, 408.0, 638.0 ]
+					"presentation_rect" : [ 2.0, 207.5, 408.0, 655.0 ]
 				}
 
 			}
@@ -17878,7 +17877,9 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 420.0, 135.5, 34.0, 18.0 ],
+					"patching_rect" : [ 184.0, 49.0, 34.0, 18.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 118.0, 43.0, 34.0, 18.0 ],
 					"text" : "path"
 				}
 

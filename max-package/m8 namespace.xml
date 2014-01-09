@@ -18,6 +18,22 @@
 				<x object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0.000"/>
 				<y object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0.000"/>
 				<z object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0.000"/>
+				<auto object="Container" priority="0">
+					<enable object="Data" service="parameter" type="boolean" rangeBounds="0 1" valueDefault="0"/>
+					<strob object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0"/>
+					<x object="Container" priority="0">
+						<speed object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0"/>
+						<direction object="Data" service="parameter" type="boolean" rangeBounds="0 1" valueDefault="0"/>
+					</x>
+					<y object="Container" priority="0">
+						<speed object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0"/>
+						<direction object="Data" service="parameter" type="boolean" rangeBounds="0 1" valueDefault="0"/>
+					</y>
+					<z object="Container" priority="0">
+						<speed object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0"/>
+						<direction object="Data" service="parameter" type="boolean" rangeBounds="0 1" valueDefault="0"/>
+					</z>
+				</auto>
 			</rotate>
 			<pos object="Container" priority="0">
 				<x object="Data" service="parameter" type="decimal" valueDefault="0.000"/>
@@ -32,6 +48,18 @@
 					<green object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0.000"/>
 					<blue object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0.000"/>
 				</additive>
+				<auto object="Container" priority="0">
+					<enable object="Data" service="parameter" type="boolean" rangeBounds="0 1" valueDefault="0"/>
+					<mode object="Data" service="parameter" type="integer" rangeBounds="0 9" valueDefault="0"/>
+					<modulate object="Data" service="parameter" type="boolean" rangeBounds="0 1" valueDefault="0"/>
+					<additive object="Data" service="parameter" type="boolean" rangeBounds="0 1" valueDefault="0"/>
+					<speed object="Container" priority="0">
+						<red object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0"/>
+						<green object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0"/>
+						<blue object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0"/>
+						<alpha object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0"/>
+					</speed>	
+				</auto>
 			</color>
 			<direction object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0"/>
 			<rate object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0.25"/>
@@ -73,7 +101,7 @@
 			<noise object="Container" priority="0">
 				<enable object="Data" service="parameter" type="boolean" rangeBounds="0 1" valueDefault="0"/>
 				<alpha object="Data" service="parameter" type="boolean" rangeBounds="0 1" valueDefault="0"/>
-				<color object="Data" service="parameter" type="boolean"  rangeBounds="0 4" valueDefault="0"/>
+				<color object="Data" service="parameter" type="boolean"  rangeBounds="0 1" valueDefault="0"/>
 				<rgb object="Data" service="parameter" type="boolean"  rangeBounds="0 1" valueDefault="0"/>
 				<level object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0"/>
 			</noise>	
