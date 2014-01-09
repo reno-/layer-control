@@ -32,6 +32,21 @@
 				"box" : 				{
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
+					"id" : "obj-12",
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 452.0, 250.5, 127.0, 18.0 ],
+					"presentation_rect" : [ 457.0, 250.5, 0.0, 0.0 ],
+					"text" : "namespace/unselect /"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontname" : "Arial",
+					"fontsize" : 12.0,
 					"id" : "obj-11",
 					"linecount" : 2,
 					"maxclass" : "message",
@@ -50,10 +65,10 @@
 					"id" : "obj-14",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
-					"numoutlets" : 2,
-					"outlettype" : [ "bang", "bang" ],
+					"numoutlets" : 3,
+					"outlettype" : [ "bang", "bang", "bang" ],
 					"patching_rect" : [ 420.0, 110.5, 96.0, 20.0 ],
-					"text" : "b 2"
+					"text" : "b 3"
 				}
 
 			}
@@ -88,7 +103,7 @@
 							"architecture" : "x86"
 						}
 ,
-						"rect" : [ 807.0, 385.0, 358.0, 349.0 ],
+						"rect" : [ 35.0, 242.0, 358.0, 349.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 10.0,
@@ -2210,7 +2225,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 114.041687, 217.0, 152.0, 27.0 ],
-													"text" : "/md8key/ctrl_layer_pixelFX_saturationOn/0 0"
+													"text" : "/md8key/ctrl_layer_pixelFX_noiseLevel/0 0.91"
 												}
 
 											}
@@ -3601,7 +3616,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_noiseLevel/1" : 														{
-															"/layer.1/auto/fx/patch/noise" : 1
+															"/layer.1/auto/fx/patch/noise/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_dmappingLevel/1" : 														{
@@ -3801,7 +3816,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseLevel/1" : 														{
-															"/layer.1/noise" : 1
+															"/layer.1/noise/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessOn/1" : 														{
@@ -3825,7 +3840,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurLevel/1" : 														{
-															"/layer.1/blur" : 1
+															"/layer.1/blur/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastOn/1" : 														{
@@ -3833,7 +3848,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastInverse/1" : 														{
-															"/layer.1/contrast/inv" : 1
+															"/layer.1/contrast/invert" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastBoost/1" : 														{
@@ -3853,7 +3868,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lumaPreserveAlpha/1" : 														{
-															"/layer.1/luma/alphapreserve" : 1
+															"/layer.1/luma/alpha" : 1
 														}
 ,
 														"/md8key/ctrl_layer_position_y/1" : 														{
@@ -4073,7 +4088,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_noiseLevel/2" : 														{
-															"/layer.2/auto/fx/patch/noise" : 1
+															"/layer.2/auto/fx/patch/noise/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_dmappingLevel/2" : 														{
@@ -4257,7 +4272,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseLevel/2" : 														{
-															"/layer.2/noise" : 1
+															"/layer.2/noise/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessOn/2" : 														{
@@ -4281,7 +4296,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurLevel/2" : 														{
-															"/layer.2/blur" : 1
+															"/layer.2/blur/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationOn/2" : 														{
@@ -4305,7 +4320,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastInverse/2" : 														{
-															"/layer.2/contrast/inv" : 1
+															"/layer.2/contrast/invert" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastBoost/2" : 														{
@@ -4549,7 +4564,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_noiseLevel/3" : 														{
-															"/layer.3/auto/fx/patch/noise" : 1
+															"/layer.3/auto/fx/patch/noise/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_dmappingLevel/3" : 														{
@@ -4733,7 +4748,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseLevel/3" : 														{
-															"/layer.3/noise" : 1
+															"/layer.3/noise/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessOn/3" : 														{
@@ -4757,7 +4772,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurLevel/3" : 														{
-															"/layer.3/blur" : 1
+															"/layer.3/blur/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationOn/3" : 														{
@@ -4781,7 +4796,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastInverse/3" : 														{
-															"/layer.3/contrast/inv" : 1
+															"/layer.3/contrast/invert" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastBoost/3" : 														{
@@ -5025,7 +5040,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_noiseLevel/4" : 														{
-															"/layer.4/auto/fx/patch/noise" : 1
+															"/layer.4/auto/fx/patch/noise/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_dmappingLevel/4" : 														{
@@ -5209,7 +5224,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseLevel/4" : 														{
-															"/layer.4/noise" : 1
+															"/layer.4/noise/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessOn/4" : 														{
@@ -5233,7 +5248,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurLevel/4" : 														{
-															"/layer.4/blur" : 1
+															"/layer.4/blur/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationOn/4" : 														{
@@ -5257,7 +5272,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastInverse/4" : 														{
-															"/layer.4/contrast/inv" : 1
+															"/layer.4/contrast/invert" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastBoost/4" : 														{
@@ -5501,7 +5516,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_noiseLevel/5" : 														{
-															"/layer.5/auto/fx/patch/noise" : 1
+															"/layer.5/auto/fx/patch/noise/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_dmappingLevel/5" : 														{
@@ -5685,7 +5700,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseLevel/5" : 														{
-															"/layer.5/noise" : 1
+															"/layer.5/noise/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessOn/5" : 														{
@@ -5709,7 +5724,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurLevel/5" : 														{
-															"/layer.5/blur" : 1
+															"/layer.5/blur/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationOn/5" : 														{
@@ -5733,7 +5748,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastInverse/5" : 														{
-															"/layer.5/contrast/inv" : 1
+															"/layer.5/contrast/invert" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastBoost/5" : 														{
@@ -5977,7 +5992,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_noiseLevel/6" : 														{
-															"/layer.6/auto/fx/patch/noise" : 1
+															"/layer.6/auto/fx/patch/noise/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_dmappingLevel/6" : 														{
@@ -6161,7 +6176,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseLevel/6" : 														{
-															"/layer.6/noise" : 1
+															"/layer.6/noise/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessOn/6" : 														{
@@ -6185,7 +6200,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurLevel/6" : 														{
-															"/layer.6/blur" : 1
+															"/layer.6/blur/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationOn/6" : 														{
@@ -6209,7 +6224,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastInverse/6" : 														{
-															"/layer.6/contrast/inv" : 1
+															"/layer.6/contrast/invert" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastBoost/6" : 														{
@@ -6453,7 +6468,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_noiseLevel/7" : 														{
-															"/layer.7/auto/fx/patch/noise" : 1
+															"/layer.7/auto/fx/patch/noise/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_dmappingLevel/7" : 														{
@@ -6637,7 +6652,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseLevel/7" : 														{
-															"/layer.7/noise" : 1
+															"/layer.7/noise/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessOn/7" : 														{
@@ -6661,7 +6676,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurLevel/7" : 														{
-															"/layer.7/blur" : 1
+															"/layer.7/blur/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationOn/7" : 														{
@@ -6685,7 +6700,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastInverse/7" : 														{
-															"/layer.7/contrast/inv" : 1
+															"/layer.7/contrast/invert" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastBoost/7" : 														{
@@ -6929,7 +6944,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_noiseLevel/8" : 														{
-															"/layer.8/auto/fx/patch/noise" : 1
+															"/layer.8/auto/fx/patch/noise/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_dmappingLevel/8" : 														{
@@ -7113,7 +7128,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseLevel/8" : 														{
-															"/layer.8/noise" : 1
+															"/layer.8/noise/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessOn/8" : 														{
@@ -7137,7 +7152,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurLevel/8" : 														{
-															"/layer.8/blur" : 1
+															"/layer.8/blur/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationOn/8" : 														{
@@ -7161,7 +7176,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastInverse/8" : 														{
-															"/layer.8/contrast/inv" : 1
+															"/layer.8/contrast/invert" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastBoost/8" : 														{
@@ -7405,7 +7420,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_noiseLevel/9" : 														{
-															"/layer.9/auto/fx/patch/noise" : 1
+															"/layer.9/auto/fx/patch/noise/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_dmappingLevel/9" : 														{
@@ -7589,7 +7604,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseLevel/9" : 														{
-															"/layer.9/noise" : 1
+															"/layer.9/noise/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessOn/9" : 														{
@@ -7613,7 +7628,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurLevel/9" : 														{
-															"/layer.9/blur" : 1
+															"/layer.9/blur/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationOn/9" : 														{
@@ -7637,7 +7652,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastInverse/9" : 														{
-															"/layer.9/contrast/inv" : 1
+															"/layer.9/contrast/invert" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastBoost/9" : 														{
@@ -7881,7 +7896,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_noiseLevel/10" : 														{
-															"/layer.10/auto/fx/patch/noise" : 1
+															"/layer.10/auto/fx/patch/noise/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_dmappingLevel/10" : 														{
@@ -8065,7 +8080,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseLevel/10" : 														{
-															"/layer.10/noise" : 1
+															"/layer.10/noise/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessOn/10" : 														{
@@ -8089,7 +8104,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurLevel/10" : 														{
-															"/layer.10/blur" : 1
+															"/layer.10/blur/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationOn/10" : 														{
@@ -8113,7 +8128,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastInverse/10" : 														{
-															"/layer.10/contrast/inv" : 1
+															"/layer.10/contrast/invert" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastBoost/10" : 														{
@@ -17959,10 +17974,28 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-10", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-12", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-11", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
 					"source" : [ "obj-14", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-12", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-14", 2 ]
 				}
 
 			}
