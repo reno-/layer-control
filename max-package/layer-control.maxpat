@@ -88,7 +88,7 @@
 							"architecture" : "x86"
 						}
 ,
-						"rect" : [ 894.0, 230.0, 358.0, 349.0 ],
+						"rect" : [ 807.0, 385.0, 358.0, 349.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 10.0,
@@ -2180,7 +2180,7 @@
 											"architecture" : "x86"
 										}
 ,
-										"rect" : [ 25.0, 69.0, 326.0, 309.0 ],
+										"rect" : [ 442.0, 221.0, 326.0, 309.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -2200,6 +2200,21 @@
 										"digest" : "",
 										"tags" : "",
 										"boxes" : [ 											{
+												"box" : 												{
+													"fontname" : "Arial",
+													"fontsize" : 10.0,
+													"id" : "obj-2",
+													"linecount" : 2,
+													"maxclass" : "message",
+													"numinlets" : 2,
+													"numoutlets" : 1,
+													"outlettype" : [ "" ],
+													"patching_rect" : [ 114.041687, 217.0, 152.0, 27.0 ],
+													"text" : "/md8key/ctrl_layer_pixelFX_saturationOn/0 0"
+												}
+
+											}
+, 											{
 												"box" : 												{
 													"fontname" : "Arial",
 													"fontsize" : 12.0,
@@ -2511,6 +2526,15 @@
 													"disabled" : 0,
 													"hidden" : 0,
 													"source" : [ "obj-63", 0 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
+													"destination" : [ "obj-2", 1 ],
+													"disabled" : 0,
+													"hidden" : 0,
+													"source" : [ "obj-65", 0 ]
 												}
 
 											}
@@ -3385,7 +3409,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorOn/1" : 														{
-															"/layer.1/auto/color/sw" : 1
+															"/layer.1/auto/color/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorASpeed/1" : 														{
@@ -3405,15 +3429,15 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorAdditiveOn/1" : 														{
-															"/layer.1/auto/color/additive/sw" : 1
+															"/layer.1/auto/color/additive/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorModulateOn/1" : 														{
-															"/layer.1/auto/color/modulate/sw" : 1
+															"/layer.1/auto/color/modulate/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateOn/1" : 														{
-															"/layer.1/auto/rotate/sw" : 1
+															"/layer.1/auto/rotate/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateStrob/1" : 														{
@@ -3449,7 +3473,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveOn/1" : 														{
-															"/layer.1/auto/move/sw" : 1
+															"/layer.1/auto/move/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveXY/1" : 														{
@@ -3473,7 +3497,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_scaleOn/1" : 														{
-															"/layer.1/auto/scale/sw" : 1
+															"/layer.1/auto/scale/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_scaleStrob/1" : 														{
@@ -3489,7 +3513,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_on/1" : 														{
-															"/layer.1/auto/fx/sw" : 1
+															"/layer.1/auto/fx/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_type/1" : 														{
@@ -3561,15 +3585,15 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_soundInputVdelayOn/1" : 														{
-															"/layer.1/auto/fx/patch/delay/sw" : 1
+															"/layer.1/auto/fx/patch/delay/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_dmapingAlphaOn/1" : 														{
-															"/layer.1/auto/fx/patch/map/alpha/sw" : 1
+															"/layer.1/auto/fx/patch/map/alpha/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_colorOn/1" : 														{
-															"/layer.1/auto/fx/patch/color/sw" : 1
+															"/layer.1/auto/fx/patch/color/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_soundInputValue/1" : 														{
@@ -3744,8 +3768,24 @@
 															"/layer.1/rotate/x" : 1
 														}
 ,
+														"/md8key/ctrl_layer_pixelFX_saturationOn/1" : 														{
+															"/layer.1/sat/enable" : 1
+														}
+,
+														"/md8key/ctrl_layer_pixelFX_saturationLevel/1" : 														{
+															"/layer.1/sat/level" : 1
+														}
+,
+														"/md8key/ctrl_layer_pixelFX_saturationBoost/1" : 														{
+															"/layer.1/sat/boost" : 1
+														}
+,
+														"/md8key/ctrl_layer_pixelFX_saturationInverse/1" : 														{
+															"/layer.1/sat/invert" : 1
+														}
+,
 														"/md8key/ctrl_layer_pixelFX_noiseOn/1" : 														{
-															"/layer.1/noise/sw" : 1
+															"/layer.1/noise/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseAlpha/1" : 														{
@@ -3765,19 +3805,19 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessOn/1" : 														{
-															"/layer.1/br/sw" : 1
+															"/layer.1/bright/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessType/1" : 														{
-															"/layer.1/br/type" : 1
+															"/layer.1/bright/type" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessLevel/1" : 														{
-															"/layer.1/br" : 1
+															"/layer.1/bright/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurOn/1" : 														{
-															"/layer.1/blur/sw" : 1
+															"/layer.1/blur/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurType/1" : 														{
@@ -3788,40 +3828,24 @@
 															"/layer.1/blur" : 1
 														}
 ,
-														"/md8key/ctrl_layer_pixelFX_saturationOn/1" : 														{
-															"/layer.1/sa/sw" : 1
-														}
-,
-														"/md8key/ctrl_layer_pixelFX_saturationInverse/1" : 														{
-															"/layer.1/sa/inv" : 1
-														}
-,
-														"/md8key/ctrl_layer_pixelFX_saturationBoost/1" : 														{
-															"/layer.1/sa/boost" : 1
-														}
-,
-														"/md8key/ctrl_layer_pixelFX_saturationLevel/1" : 														{
-															"/layer.1/sa" : 1
-														}
-,
 														"/md8key/ctrl_layer_pixelFX_contrastOn/1" : 														{
-															"/layer.1/co/sw" : 1
+															"/layer.1/contrast/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastInverse/1" : 														{
-															"/layer.1/co/inv" : 1
+															"/layer.1/contrast/inv" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastBoost/1" : 														{
-															"/layer.1/co/boost" : 1
+															"/layer.1/contrast/boost" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastLevel/1" : 														{
-															"/layer.1/co" : 1
+															"/layer.1/contrast/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lumaOn/1" : 														{
-															"/layer.1/luma/sw" : 1
+															"/layer.1/luma/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lumaType/1" : 														{
@@ -3857,7 +3881,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorOn/2" : 														{
-															"/layer.2/auto/color/sw" : 1
+															"/layer.2/auto/color/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorASpeed/2" : 														{
@@ -3877,15 +3901,15 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorAdditiveOn/2" : 														{
-															"/layer.2/auto/color/additive/sw" : 1
+															"/layer.2/auto/color/additive/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorModulateOn/2" : 														{
-															"/layer.2/auto/color/modulate/sw" : 1
+															"/layer.2/auto/color/modulate/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateOn/2" : 														{
-															"/layer.2/auto/rotate/sw" : 1
+															"/layer.2/auto/rotate/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateStrob/2" : 														{
@@ -3921,7 +3945,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveOn/2" : 														{
-															"/layer.2/auto/move/sw" : 1
+															"/layer.2/auto/move/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveXY/2" : 														{
@@ -3945,7 +3969,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_scaleOn/2" : 														{
-															"/layer.2/auto/scale/sw" : 1
+															"/layer.2/auto/scale/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_scaleStrob/2" : 														{
@@ -3961,7 +3985,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_on/2" : 														{
-															"/layer.2/auto/fx/sw" : 1
+															"/layer.2/auto/fx/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_type/2" : 														{
@@ -4033,15 +4057,15 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_soundInputVdelayOn/2" : 														{
-															"/layer.2/auto/fx/patch/delay/sw" : 1
+															"/layer.2/auto/fx/patch/delay/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_dmapingAlphaOn/2" : 														{
-															"/layer.2/auto/fx/patch/map/alpha/sw" : 1
+															"/layer.2/auto/fx/patch/map/alpha/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_colorOn/2" : 														{
-															"/layer.2/auto/fx/patch/color/sw" : 1
+															"/layer.2/auto/fx/patch/color/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_soundInputValue/2" : 														{
@@ -4217,7 +4241,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseOn/2" : 														{
-															"/layer.2/noise/sw" : 1
+															"/layer.2/noise/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseAlpha/2" : 														{
@@ -4237,19 +4261,19 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessOn/2" : 														{
-															"/layer.2/br/sw" : 1
+															"/layer.2/bright/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessType/2" : 														{
-															"/layer.2/br/type" : 1
+															"/layer.2/bright/type" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessLevel/2" : 														{
-															"/layer.2/br" : 1
+															"/layer.2/bright/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurOn/2" : 														{
-															"/layer.2/blur/sw" : 1
+															"/layer.2/blur/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurType/2" : 														{
@@ -4261,39 +4285,39 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationOn/2" : 														{
-															"/layer.2/sa/sw" : 1
+															"/layer.2/sat/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationInverse/2" : 														{
-															"/layer.2/sa/inv" : 1
+															"/layer.2/sat/invert" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationBoost/2" : 														{
-															"/layer.2/sa/boost" : 1
+															"/layer.2/sat/boost" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationLevel/2" : 														{
-															"/layer.2/sa" : 1
+															"/layer.2/sat/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastOn/2" : 														{
-															"/layer.2/co/sw" : 1
+															"/layer.2/contrast/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastInverse/2" : 														{
-															"/layer.2/co/inv" : 1
+															"/layer.2/contrast/inv" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastBoost/2" : 														{
-															"/layer.2/co/boost" : 1
+															"/layer.2/contrast/boost" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastLevel/2" : 														{
-															"/layer.2/co" : 1
+															"/layer.2/contrast/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lumaOn/2" : 														{
-															"/layer.2/luma/sw" : 1
+															"/layer.2/luma/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lumaType/2" : 														{
@@ -4333,7 +4357,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorOn/3" : 														{
-															"/layer.3/auto/color/sw" : 1
+															"/layer.3/auto/color/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorASpeed/3" : 														{
@@ -4353,15 +4377,15 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorAdditiveOn/3" : 														{
-															"/layer.3/auto/color/additive/sw" : 1
+															"/layer.3/auto/color/additive/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorModulateOn/3" : 														{
-															"/layer.3/auto/color/modulate/sw" : 1
+															"/layer.3/auto/color/modulate/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateOn/3" : 														{
-															"/layer.3/auto/rotate/sw" : 1
+															"/layer.3/auto/rotate/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateStrob/3" : 														{
@@ -4397,7 +4421,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveOn/3" : 														{
-															"/layer.3/auto/move/sw" : 1
+															"/layer.3/auto/move/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveXY/3" : 														{
@@ -4421,7 +4445,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_scaleOn/3" : 														{
-															"/layer.3/auto/scale/sw" : 1
+															"/layer.3/auto/scale/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_scaleStrob/3" : 														{
@@ -4437,7 +4461,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_on/3" : 														{
-															"/layer.3/auto/fx/sw" : 1
+															"/layer.3/auto/fx/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_type/3" : 														{
@@ -4509,15 +4533,15 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_soundInputVdelayOn/3" : 														{
-															"/layer.3/auto/fx/patch/delay/sw" : 1
+															"/layer.3/auto/fx/patch/delay/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_dmapingAlphaOn/3" : 														{
-															"/layer.3/auto/fx/patch/map/alpha/sw" : 1
+															"/layer.3/auto/fx/patch/map/alpha/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_colorOn/3" : 														{
-															"/layer.3/auto/fx/patch/color/sw" : 1
+															"/layer.3/auto/fx/patch/color/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_soundInputValue/3" : 														{
@@ -4693,7 +4717,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseOn/3" : 														{
-															"/layer.3/noise/sw" : 1
+															"/layer.3/noise/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseAlpha/3" : 														{
@@ -4713,19 +4737,19 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessOn/3" : 														{
-															"/layer.3/br/sw" : 1
+															"/layer.3/bright/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessType/3" : 														{
-															"/layer.3/br/type" : 1
+															"/layer.3/bright/type" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessLevel/3" : 														{
-															"/layer.3/br" : 1
+															"/layer.3/bright/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurOn/3" : 														{
-															"/layer.3/blur/sw" : 1
+															"/layer.3/blur/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurType/3" : 														{
@@ -4737,39 +4761,39 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationOn/3" : 														{
-															"/layer.3/sa/sw" : 1
+															"/layer.3/sat/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationInverse/3" : 														{
-															"/layer.3/sa/inv" : 1
+															"/layer.3/sat/invert" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationBoost/3" : 														{
-															"/layer.3/sa/boost" : 1
+															"/layer.3/sat/boost" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationLevel/3" : 														{
-															"/layer.3/sa" : 1
+															"/layer.3/sat/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastOn/3" : 														{
-															"/layer.3/co/sw" : 1
+															"/layer.3/contrast/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastInverse/3" : 														{
-															"/layer.3/co/inv" : 1
+															"/layer.3/contrast/inv" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastBoost/3" : 														{
-															"/layer.3/co/boost" : 1
+															"/layer.3/contrast/boost" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastLevel/3" : 														{
-															"/layer.3/co" : 1
+															"/layer.3/contrast/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lumaOn/3" : 														{
-															"/layer.3/luma/sw" : 1
+															"/layer.3/luma/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lumaType/3" : 														{
@@ -4809,7 +4833,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorOn/4" : 														{
-															"/layer.4/auto/color/sw" : 1
+															"/layer.4/auto/color/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorASpeed/4" : 														{
@@ -4829,15 +4853,15 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorAdditiveOn/4" : 														{
-															"/layer.4/auto/color/additive/sw" : 1
+															"/layer.4/auto/color/additive/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorModulateOn/4" : 														{
-															"/layer.4/auto/color/modulate/sw" : 1
+															"/layer.4/auto/color/modulate/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateOn/4" : 														{
-															"/layer.4/auto/rotate/sw" : 1
+															"/layer.4/auto/rotate/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateStrob/4" : 														{
@@ -4873,7 +4897,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveOn/4" : 														{
-															"/layer.4/auto/move/sw" : 1
+															"/layer.4/auto/move/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveXY/4" : 														{
@@ -4897,7 +4921,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_scaleOn/4" : 														{
-															"/layer.4/auto/scale/sw" : 1
+															"/layer.4/auto/scale/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_scaleStrob/4" : 														{
@@ -4913,7 +4937,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_on/4" : 														{
-															"/layer.4/auto/fx/sw" : 1
+															"/layer.4/auto/fx/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_type/4" : 														{
@@ -4985,15 +5009,15 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_soundInputVdelayOn/4" : 														{
-															"/layer.4/auto/fx/patch/delay/sw" : 1
+															"/layer.4/auto/fx/patch/delay/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_dmapingAlphaOn/4" : 														{
-															"/layer.4/auto/fx/patch/map/alpha/sw" : 1
+															"/layer.4/auto/fx/patch/map/alpha/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_colorOn/4" : 														{
-															"/layer.4/auto/fx/patch/color/sw" : 1
+															"/layer.4/auto/fx/patch/color/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_soundInputValue/4" : 														{
@@ -5169,7 +5193,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseOn/4" : 														{
-															"/layer.4/noise/sw" : 1
+															"/layer.4/noise/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseAlpha/4" : 														{
@@ -5189,19 +5213,19 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessOn/4" : 														{
-															"/layer.4/br/sw" : 1
+															"/layer.4/bright/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessType/4" : 														{
-															"/layer.4/br/type" : 1
+															"/layer.4/bright/type" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessLevel/4" : 														{
-															"/layer.4/br" : 1
+															"/layer.4/bright/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurOn/4" : 														{
-															"/layer.4/blur/sw" : 1
+															"/layer.4/blur/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurType/4" : 														{
@@ -5213,39 +5237,39 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationOn/4" : 														{
-															"/layer.4/sa/sw" : 1
+															"/layer.4/sat/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationInverse/4" : 														{
-															"/layer.4/sa/inv" : 1
+															"/layer.4/sat/invert" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationBoost/4" : 														{
-															"/layer.4/sa/boost" : 1
+															"/layer.4/sat/boost" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationLevel/4" : 														{
-															"/layer.4/sa" : 1
+															"/layer.4/sat/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastOn/4" : 														{
-															"/layer.4/co/sw" : 1
+															"/layer.4/contrast/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastInverse/4" : 														{
-															"/layer.4/co/inv" : 1
+															"/layer.4/contrast/inv" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastBoost/4" : 														{
-															"/layer.4/co/boost" : 1
+															"/layer.4/contrast/boost" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastLevel/4" : 														{
-															"/layer.4/co" : 1
+															"/layer.4/contrast/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lumaOn/4" : 														{
-															"/layer.4/luma/sw" : 1
+															"/layer.4/luma/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lumaType/4" : 														{
@@ -5285,7 +5309,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorOn/5" : 														{
-															"/layer.5/auto/color/sw" : 1
+															"/layer.5/auto/color/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorASpeed/5" : 														{
@@ -5305,15 +5329,15 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorAdditiveOn/5" : 														{
-															"/layer.5/auto/color/additive/sw" : 1
+															"/layer.5/auto/color/additive/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorModulateOn/5" : 														{
-															"/layer.5/auto/color/modulate/sw" : 1
+															"/layer.5/auto/color/modulate/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateOn/5" : 														{
-															"/layer.5/auto/rotate/sw" : 1
+															"/layer.5/auto/rotate/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateStrob/5" : 														{
@@ -5349,7 +5373,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveOn/5" : 														{
-															"/layer.5/auto/move/sw" : 1
+															"/layer.5/auto/move/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveXY/5" : 														{
@@ -5373,7 +5397,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_scaleOn/5" : 														{
-															"/layer.5/auto/scale/sw" : 1
+															"/layer.5/auto/scale/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_scaleStrob/5" : 														{
@@ -5389,7 +5413,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_on/5" : 														{
-															"/layer.5/auto/fx/sw" : 1
+															"/layer.5/auto/fx/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_type/5" : 														{
@@ -5461,15 +5485,15 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_soundInputVdelayOn/5" : 														{
-															"/layer.5/auto/fx/patch/delay/sw" : 1
+															"/layer.5/auto/fx/patch/delay/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_dmapingAlphaOn/5" : 														{
-															"/layer.5/auto/fx/patch/map/alpha/sw" : 1
+															"/layer.5/auto/fx/patch/map/alpha/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_colorOn/5" : 														{
-															"/layer.5/auto/fx/patch/color/sw" : 1
+															"/layer.5/auto/fx/patch/color/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_soundInputValue/5" : 														{
@@ -5645,7 +5669,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseOn/5" : 														{
-															"/layer.5/noise/sw" : 1
+															"/layer.5/noise/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseAlpha/5" : 														{
@@ -5665,19 +5689,19 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessOn/5" : 														{
-															"/layer.5/br/sw" : 1
+															"/layer.5/bright/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessType/5" : 														{
-															"/layer.5/br/type" : 1
+															"/layer.5/bright/type" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessLevel/5" : 														{
-															"/layer.5/br" : 1
+															"/layer.5/bright/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurOn/5" : 														{
-															"/layer.5/blur/sw" : 1
+															"/layer.5/blur/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurType/5" : 														{
@@ -5689,39 +5713,39 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationOn/5" : 														{
-															"/layer.5/sa/sw" : 1
+															"/layer.5/sat/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationInverse/5" : 														{
-															"/layer.5/sa/inv" : 1
+															"/layer.5/sat/invert" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationBoost/5" : 														{
-															"/layer.5/sa/boost" : 1
+															"/layer.5/sat/boost" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationLevel/5" : 														{
-															"/layer.5/sa" : 1
+															"/layer.5/sat/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastOn/5" : 														{
-															"/layer.5/co/sw" : 1
+															"/layer.5/contrast/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastInverse/5" : 														{
-															"/layer.5/co/inv" : 1
+															"/layer.5/contrast/inv" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastBoost/5" : 														{
-															"/layer.5/co/boost" : 1
+															"/layer.5/contrast/boost" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastLevel/5" : 														{
-															"/layer.5/co" : 1
+															"/layer.5/contrast/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lumaOn/5" : 														{
-															"/layer.5/luma/sw" : 1
+															"/layer.5/luma/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lumaType/5" : 														{
@@ -5761,7 +5785,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorOn/6" : 														{
-															"/layer.6/auto/color/sw" : 1
+															"/layer.6/auto/color/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorASpeed/6" : 														{
@@ -5781,15 +5805,15 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorAdditiveOn/6" : 														{
-															"/layer.6/auto/color/additive/sw" : 1
+															"/layer.6/auto/color/additive/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorModulateOn/6" : 														{
-															"/layer.6/auto/color/modulate/sw" : 1
+															"/layer.6/auto/color/modulate/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateOn/6" : 														{
-															"/layer.6/auto/rotate/sw" : 1
+															"/layer.6/auto/rotate/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateStrob/6" : 														{
@@ -5825,7 +5849,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveOn/6" : 														{
-															"/layer.6/auto/move/sw" : 1
+															"/layer.6/auto/move/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveXY/6" : 														{
@@ -5849,7 +5873,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_scaleOn/6" : 														{
-															"/layer.6/auto/scale/sw" : 1
+															"/layer.6/auto/scale/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_scaleStrob/6" : 														{
@@ -5865,7 +5889,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_on/6" : 														{
-															"/layer.6/auto/fx/sw" : 1
+															"/layer.6/auto/fx/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_type/6" : 														{
@@ -5937,15 +5961,15 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_soundInputVdelayOn/6" : 														{
-															"/layer.6/auto/fx/patch/delay/sw" : 1
+															"/layer.6/auto/fx/patch/delay/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_dmapingAlphaOn/6" : 														{
-															"/layer.6/auto/fx/patch/map/alpha/sw" : 1
+															"/layer.6/auto/fx/patch/map/alpha/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_colorOn/6" : 														{
-															"/layer.6/auto/fx/patch/color/sw" : 1
+															"/layer.6/auto/fx/patch/color/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_soundInputValue/6" : 														{
@@ -6121,7 +6145,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseOn/6" : 														{
-															"/layer.6/noise/sw" : 1
+															"/layer.6/noise/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseAlpha/6" : 														{
@@ -6141,19 +6165,19 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessOn/6" : 														{
-															"/layer.6/br/sw" : 1
+															"/layer.6/bright/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessType/6" : 														{
-															"/layer.6/br/type" : 1
+															"/layer.6/bright/type" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessLevel/6" : 														{
-															"/layer.6/br" : 1
+															"/layer.6/bright/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurOn/6" : 														{
-															"/layer.6/blur/sw" : 1
+															"/layer.6/blur/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurType/6" : 														{
@@ -6165,39 +6189,39 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationOn/6" : 														{
-															"/layer.6/sa/sw" : 1
+															"/layer.6/sat/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationInverse/6" : 														{
-															"/layer.6/sa/inv" : 1
+															"/layer.6/sat/invert" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationBoost/6" : 														{
-															"/layer.6/sa/boost" : 1
+															"/layer.6/sat/boost" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationLevel/6" : 														{
-															"/layer.6/sa" : 1
+															"/layer.6/sat/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastOn/6" : 														{
-															"/layer.6/co/sw" : 1
+															"/layer.6/contrast/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastInverse/6" : 														{
-															"/layer.6/co/inv" : 1
+															"/layer.6/contrast/inv" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastBoost/6" : 														{
-															"/layer.6/co/boost" : 1
+															"/layer.6/contrast/boost" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastLevel/6" : 														{
-															"/layer.6/co" : 1
+															"/layer.6/contrast/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lumaOn/6" : 														{
-															"/layer.6/luma/sw" : 1
+															"/layer.6/luma/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lumaType/6" : 														{
@@ -6237,7 +6261,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorOn/7" : 														{
-															"/layer.7/auto/color/sw" : 1
+															"/layer.7/auto/color/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorASpeed/7" : 														{
@@ -6257,15 +6281,15 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorAdditiveOn/7" : 														{
-															"/layer.7/auto/color/additive/sw" : 1
+															"/layer.7/auto/color/additive/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorModulateOn/7" : 														{
-															"/layer.7/auto/color/modulate/sw" : 1
+															"/layer.7/auto/color/modulate/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateOn/7" : 														{
-															"/layer.7/auto/rotate/sw" : 1
+															"/layer.7/auto/rotate/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateStrob/7" : 														{
@@ -6301,7 +6325,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveOn/7" : 														{
-															"/layer.7/auto/move/sw" : 1
+															"/layer.7/auto/move/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveXY/7" : 														{
@@ -6325,7 +6349,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_scaleOn/7" : 														{
-															"/layer.7/auto/scale/sw" : 1
+															"/layer.7/auto/scale/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_scaleStrob/7" : 														{
@@ -6341,7 +6365,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_on/7" : 														{
-															"/layer.7/auto/fx/sw" : 1
+															"/layer.7/auto/fx/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_type/7" : 														{
@@ -6413,15 +6437,15 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_soundInputVdelayOn/7" : 														{
-															"/layer.7/auto/fx/patch/delay/sw" : 1
+															"/layer.7/auto/fx/patch/delay/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_dmapingAlphaOn/7" : 														{
-															"/layer.7/auto/fx/patch/map/alpha/sw" : 1
+															"/layer.7/auto/fx/patch/map/alpha/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_colorOn/7" : 														{
-															"/layer.7/auto/fx/patch/color/sw" : 1
+															"/layer.7/auto/fx/patch/color/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_soundInputValue/7" : 														{
@@ -6597,7 +6621,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseOn/7" : 														{
-															"/layer.7/noise/sw" : 1
+															"/layer.7/noise/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseAlpha/7" : 														{
@@ -6617,19 +6641,19 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessOn/7" : 														{
-															"/layer.7/br/sw" : 1
+															"/layer.7/bright/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessType/7" : 														{
-															"/layer.7/br/type" : 1
+															"/layer.7/bright/type" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessLevel/7" : 														{
-															"/layer.7/br" : 1
+															"/layer.7/bright/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurOn/7" : 														{
-															"/layer.7/blur/sw" : 1
+															"/layer.7/blur/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurType/7" : 														{
@@ -6641,39 +6665,39 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationOn/7" : 														{
-															"/layer.7/sa/sw" : 1
+															"/layer.7/sat/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationInverse/7" : 														{
-															"/layer.7/sa/inv" : 1
+															"/layer.7/sat/invert" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationBoost/7" : 														{
-															"/layer.7/sa/boost" : 1
+															"/layer.7/sat/boost" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationLevel/7" : 														{
-															"/layer.7/sa" : 1
+															"/layer.7/sat/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastOn/7" : 														{
-															"/layer.7/co/sw" : 1
+															"/layer.7/contrast/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastInverse/7" : 														{
-															"/layer.7/co/inv" : 1
+															"/layer.7/contrast/inv" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastBoost/7" : 														{
-															"/layer.7/co/boost" : 1
+															"/layer.7/contrast/boost" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastLevel/7" : 														{
-															"/layer.7/co" : 1
+															"/layer.7/contrast/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lumaOn/7" : 														{
-															"/layer.7/luma/sw" : 1
+															"/layer.7/luma/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lumaType/7" : 														{
@@ -6713,7 +6737,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorOn/8" : 														{
-															"/layer.8/auto/color/sw" : 1
+															"/layer.8/auto/color/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorASpeed/8" : 														{
@@ -6733,15 +6757,15 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorAdditiveOn/8" : 														{
-															"/layer.8/auto/color/additive/sw" : 1
+															"/layer.8/auto/color/additive/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorModulateOn/8" : 														{
-															"/layer.8/auto/color/modulate/sw" : 1
+															"/layer.8/auto/color/modulate/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateOn/8" : 														{
-															"/layer.8/auto/rotate/sw" : 1
+															"/layer.8/auto/rotate/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateStrob/8" : 														{
@@ -6777,7 +6801,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveOn/8" : 														{
-															"/layer.8/auto/move/sw" : 1
+															"/layer.8/auto/move/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveXY/8" : 														{
@@ -6801,7 +6825,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_scaleOn/8" : 														{
-															"/layer.8/auto/scale/sw" : 1
+															"/layer.8/auto/scale/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_scaleStrob/8" : 														{
@@ -6817,7 +6841,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_on/8" : 														{
-															"/layer.8/auto/fx/sw" : 1
+															"/layer.8/auto/fx/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_type/8" : 														{
@@ -6889,15 +6913,15 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_soundInputVdelayOn/8" : 														{
-															"/layer.8/auto/fx/patch/delay/sw" : 1
+															"/layer.8/auto/fx/patch/delay/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_dmapingAlphaOn/8" : 														{
-															"/layer.8/auto/fx/patch/map/alpha/sw" : 1
+															"/layer.8/auto/fx/patch/map/alpha/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_colorOn/8" : 														{
-															"/layer.8/auto/fx/patch/color/sw" : 1
+															"/layer.8/auto/fx/patch/color/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_soundInputValue/8" : 														{
@@ -7073,7 +7097,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseOn/8" : 														{
-															"/layer.8/noise/sw" : 1
+															"/layer.8/noise/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseAlpha/8" : 														{
@@ -7093,19 +7117,19 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessOn/8" : 														{
-															"/layer.8/br/sw" : 1
+															"/layer.8/bright/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessType/8" : 														{
-															"/layer.8/br/type" : 1
+															"/layer.8/bright/type" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessLevel/8" : 														{
-															"/layer.8/br" : 1
+															"/layer.8/bright/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurOn/8" : 														{
-															"/layer.8/blur/sw" : 1
+															"/layer.8/blur/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurType/8" : 														{
@@ -7117,39 +7141,39 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationOn/8" : 														{
-															"/layer.8/sa/sw" : 1
+															"/layer.8/sat/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationInverse/8" : 														{
-															"/layer.8/sa/inv" : 1
+															"/layer.8/sat/invert" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationBoost/8" : 														{
-															"/layer.8/sa/boost" : 1
+															"/layer.8/sat/boost" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationLevel/8" : 														{
-															"/layer.8/sa" : 1
+															"/layer.8/sat/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastOn/8" : 														{
-															"/layer.8/co/sw" : 1
+															"/layer.8/contrast/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastInverse/8" : 														{
-															"/layer.8/co/inv" : 1
+															"/layer.8/contrast/inv" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastBoost/8" : 														{
-															"/layer.8/co/boost" : 1
+															"/layer.8/contrast/boost" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastLevel/8" : 														{
-															"/layer.8/co" : 1
+															"/layer.8/contrast/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lumaOn/8" : 														{
-															"/layer.8/luma/sw" : 1
+															"/layer.8/luma/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lumaType/8" : 														{
@@ -7189,7 +7213,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorOn/9" : 														{
-															"/layer.9/auto/color/sw" : 1
+															"/layer.9/auto/color/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorASpeed/9" : 														{
@@ -7209,15 +7233,15 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorAdditiveOn/9" : 														{
-															"/layer.9/auto/color/additive/sw" : 1
+															"/layer.9/auto/color/additive/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorModulateOn/9" : 														{
-															"/layer.9/auto/color/modulate/sw" : 1
+															"/layer.9/auto/color/modulate/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateOn/9" : 														{
-															"/layer.9/auto/rotate/sw" : 1
+															"/layer.9/auto/rotate/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateStrob/9" : 														{
@@ -7253,7 +7277,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveOn/9" : 														{
-															"/layer.9/auto/move/sw" : 1
+															"/layer.9/auto/move/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveXY/9" : 														{
@@ -7277,7 +7301,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_scaleOn/9" : 														{
-															"/layer.9/auto/scale/sw" : 1
+															"/layer.9/auto/scale/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_scaleStrob/9" : 														{
@@ -7293,7 +7317,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_on/9" : 														{
-															"/layer.9/auto/fx/sw" : 1
+															"/layer.9/auto/fx/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_type/9" : 														{
@@ -7365,15 +7389,15 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_soundInputVdelayOn/9" : 														{
-															"/layer.9/auto/fx/patch/delay/sw" : 1
+															"/layer.9/auto/fx/patch/delay/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_dmapingAlphaOn/9" : 														{
-															"/layer.9/auto/fx/patch/map/alpha/sw" : 1
+															"/layer.9/auto/fx/patch/map/alpha/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_colorOn/9" : 														{
-															"/layer.9/auto/fx/patch/color/sw" : 1
+															"/layer.9/auto/fx/patch/color/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_soundInputValue/9" : 														{
@@ -7549,7 +7573,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseOn/9" : 														{
-															"/layer.9/noise/sw" : 1
+															"/layer.9/noise/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseAlpha/9" : 														{
@@ -7569,19 +7593,19 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessOn/9" : 														{
-															"/layer.9/br/sw" : 1
+															"/layer.9/bright/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessType/9" : 														{
-															"/layer.9/br/type" : 1
+															"/layer.9/bright/type" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessLevel/9" : 														{
-															"/layer.9/br" : 1
+															"/layer.9/bright/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurOn/9" : 														{
-															"/layer.9/blur/sw" : 1
+															"/layer.9/blur/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurType/9" : 														{
@@ -7593,39 +7617,39 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationOn/9" : 														{
-															"/layer.9/sa/sw" : 1
+															"/layer.9/sat/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationInverse/9" : 														{
-															"/layer.9/sa/inv" : 1
+															"/layer.9/sat/invert" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationBoost/9" : 														{
-															"/layer.9/sa/boost" : 1
+															"/layer.9/sat/boost" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationLevel/9" : 														{
-															"/layer.9/sa" : 1
+															"/layer.9/sat/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastOn/9" : 														{
-															"/layer.9/co/sw" : 1
+															"/layer.9/contrast/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastInverse/9" : 														{
-															"/layer.9/co/inv" : 1
+															"/layer.9/contrast/inv" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastBoost/9" : 														{
-															"/layer.9/co/boost" : 1
+															"/layer.9/contrast/boost" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastLevel/9" : 														{
-															"/layer.9/co" : 1
+															"/layer.9/contrast/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lumaOn/9" : 														{
-															"/layer.9/luma/sw" : 1
+															"/layer.9/luma/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lumaType/9" : 														{
@@ -7665,7 +7689,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorOn/10" : 														{
-															"/layer.10/auto/color/sw" : 1
+															"/layer.10/auto/color/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorASpeed/10" : 														{
@@ -7685,15 +7709,15 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorAdditiveOn/10" : 														{
-															"/layer.10/auto/color/additive/sw" : 1
+															"/layer.10/auto/color/additive/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_colorModulateOn/10" : 														{
-															"/layer.10/auto/color/modulate/sw" : 1
+															"/layer.10/auto/color/modulate/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateOn/10" : 														{
-															"/layer.10/auto/rotate/sw" : 1
+															"/layer.10/auto/rotate/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_rotateStrob/10" : 														{
@@ -7729,7 +7753,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveOn/10" : 														{
-															"/layer.10/auto/move/sw" : 1
+															"/layer.10/auto/move/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_moveXY/10" : 														{
@@ -7753,7 +7777,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_auto_scaleOn/10" : 														{
-															"/layer.10/auto/scale/sw" : 1
+															"/layer.10/auto/scale/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_auto_scaleStrob/10" : 														{
@@ -7769,7 +7793,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_on/10" : 														{
-															"/layer.10/auto/fx/sw" : 1
+															"/layer.10/auto/fx/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_type/10" : 														{
@@ -7841,15 +7865,15 @@
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_soundInputVdelayOn/10" : 														{
-															"/layer.10/auto/fx/patch/delay/sw" : 1
+															"/layer.10/auto/fx/patch/delay/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_dmapingAlphaOn/10" : 														{
-															"/layer.10/auto/fx/patch/map/alpha/sw" : 1
+															"/layer.10/auto/fx/patch/map/alpha/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_colorOn/10" : 														{
-															"/layer.10/auto/fx/patch/color/sw" : 1
+															"/layer.10/auto/fx/patch/color/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_transformer_patch_soundInputValue/10" : 														{
@@ -8025,7 +8049,7 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseOn/10" : 														{
-															"/layer.10/noise/sw" : 1
+															"/layer.10/noise/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_noiseAlpha/10" : 														{
@@ -8045,19 +8069,19 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessOn/10" : 														{
-															"/layer.10/br/sw" : 1
+															"/layer.10/bright/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessType/10" : 														{
-															"/layer.10/br/type" : 1
+															"/layer.10/bright/type" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lightnessLevel/10" : 														{
-															"/layer.10/br" : 1
+															"/layer.10/bright/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurOn/10" : 														{
-															"/layer.10/blur/sw" : 1
+															"/layer.10/blur/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_blurType/10" : 														{
@@ -8069,39 +8093,39 @@
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationOn/10" : 														{
-															"/layer.10/sa/sw" : 1
+															"/layer.10/sat/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationInverse/10" : 														{
-															"/layer.10/sa/inv" : 1
+															"/layer.10/sat/invert" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationBoost/10" : 														{
-															"/layer.10/sa/boost" : 1
+															"/layer.10/sat/boost" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_saturationLevel/10" : 														{
-															"/layer.10/sa" : 1
+															"/layer.10/sat/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastOn/10" : 														{
-															"/layer.10/co/sw" : 1
+															"/layer.10/contrast/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastInverse/10" : 														{
-															"/layer.10/co/inv" : 1
+															"/layer.10/contrast/inv" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastBoost/10" : 														{
-															"/layer.10/co/boost" : 1
+															"/layer.10/contrast/boost" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_contrastLevel/10" : 														{
-															"/layer.10/co" : 1
+															"/layer.10/contrast/level" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lumaOn/10" : 														{
-															"/layer.10/luma/sw" : 1
+															"/layer.10/luma/enable" : 1
 														}
 ,
 														"/md8key/ctrl_layer_pixelFX_lumaType/10" : 														{
