@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 36.0, 65.0, 779.0, 556.0 ],
+		"rect" : [ 36.0, 65.0, 796.0, 580.0 ],
 		"bgcolor" : [ 0.176471, 0.294118, 0.439216, 1.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
@@ -39,7 +39,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 483.0, 171.75, 174.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 592.0, 133.75, 203.0, 18.0 ],
+					"presentation_rect" : [ 536.5, 113.75, 174.0, 18.0 ],
 					"text" : "namespace/select myselection"
 				}
 
@@ -55,7 +55,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 625.0, 109.75, 132.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 536.5, 63.75, 132.0, 18.0 ],
+					"presentation_rect" : [ 536.5, 63.75, 131.0, 18.0 ],
 					"text" : "namespace/select /m8"
 				}
 
@@ -71,7 +71,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 554.0, 136.75, 203.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 536.5, 88.75, 203.0, 18.0 ],
+					"presentation_rect" : [ 536.5, 88.75, 199.0, 18.0 ],
 					"text" : "namespace/select m8/layer.1/alpha"
 				}
 
@@ -117,7 +117,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 517.0, 82.75, 132.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 536.5, 38.5, 132.0, 18.0 ],
+					"presentation_rect" : [ 536.5, 38.5, 131.0, 18.0 ],
 					"text" : "namespace/select /m8"
 				}
 
@@ -13245,7 +13245,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 3.0, 238.5, 764.0, 84.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 6.0, 205.5, 763.0, 336.0 ]
+					"presentation_rect" : [ 6.0, 205.5, 776.0, 364.0 ]
 				}
 
 			}
