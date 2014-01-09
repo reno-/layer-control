@@ -1014,14 +1014,14 @@
    </script>
   </script>
  </cue>
-  <cue name="fade">
+ <cue name="fade">
   <flag name="description">none</flag>
   <!---->
   <!---->
   <script address="m8:">
    <!---->
    <script address="layer.1">
-    <command address="alpha" ramp="2000">1</command>
+    <command address="alpha" ramp="5000">1</command>
    </script>
   </script>
  </cue>
