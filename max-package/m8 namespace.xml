@@ -106,7 +106,7 @@
 				<level object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0"/>
 			</noise>	
 		</layer.1>
-		<layer.2 object="Container" service="model" priority="10">
+		<layer.2 object="Container" service="model" priority="20">
 			<alpha object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="1.000"/>
 			<media object="Data" service="parameter" type="decimal" rangeBounds="0 132" valueDefault="129" />
 			<blend object="Container" priority="0">
@@ -210,7 +210,7 @@
 				<level object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0"/>
 			</noise>	
 		</layer.2>
-		<layer.3 object="Container" service="model" priority="10">
+		<layer.3 object="Container" service="model" priority="30">
 			<alpha object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="1.000"/>
 			<media object="Data" service="parameter" type="decimal" rangeBounds="0 132" valueDefault="129" />
 			<blend object="Container" priority="0">
@@ -314,7 +314,7 @@
 				<level object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0"/>
 			</noise>	
 		</layer.3>
-		<layer.4 object="Container" service="model" priority="10">
+		<layer.4 object="Container" service="model" priority="40">
 			<alpha object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="1.000"/>
 			<media object="Data" service="parameter" type="decimal" rangeBounds="0 132" valueDefault="129" />
 			<blend object="Container" priority="0">
@@ -418,7 +418,7 @@
 				<level object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0"/>
 			</noise>	
 		</layer.4>
-		<layer.5 object="Container" service="model" priority="10">
+		<layer.5 object="Container" service="model" priority="50">
 			<alpha object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="1.000"/>
 			<media object="Data" service="parameter" type="decimal" rangeBounds="0 132" valueDefault="129" />
 			<blend object="Container" priority="0">
@@ -522,7 +522,7 @@
 				<level object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0"/>
 			</noise>	
 		</layer.5>
-		<layer.6 object="Container" service="model" priority="10">
+		<layer.6 object="Container" service="model" priority="60">
 			<alpha object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="1.000"/>
 			<media object="Data" service="parameter" type="decimal" rangeBounds="0 132" valueDefault="129" />
 			<blend object="Container" priority="0">
@@ -626,7 +626,7 @@
 				<level object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0"/>
 			</noise>	
 		</layer.6>
-		<layer.7 object="Container" service="model" priority="10">
+		<layer.7 object="Container" service="model" priority="70">
 			<alpha object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="1.000"/>
 			<media object="Data" service="parameter" type="decimal" rangeBounds="0 132" valueDefault="129" />
 			<blend object="Container" priority="0">
@@ -730,7 +730,7 @@
 				<level object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0"/>
 			</noise>	
 		</layer.7>
-		<layer.8 object="Container" service="model" priority="10">
+		<layer.8 object="Container" service="model" priority="80">
 			<alpha object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="1.000"/>
 			<media object="Data" service="parameter" type="decimal" rangeBounds="0 132" valueDefault="129" />
 			<blend object="Container" priority="0">
@@ -834,7 +834,7 @@
 				<level object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0"/>
 			</noise>	
 		</layer.8>
-		<layer.9 object="Container" service="model" priority="10">
+		<layer.9 object="Container" service="model" priority="90">
 			<alpha object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="1.000"/>
 			<media object="Data" service="parameter" type="decimal" rangeBounds="0 132" valueDefault="129" />
 			<blend object="Container" priority="0">
@@ -938,7 +938,7 @@
 				<level object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="0"/>
 			</noise>	
 		</layer.9>
-		<layer.10 object="Container" service="model" priority="10">
+		<layer.10 object="Container" service="model" priority="100">
 			<alpha object="Data" service="parameter" type="decimal" rangeBounds="0 1" valueDefault="1.000"/>
 			<media object="Data" service="parameter" type="decimal" rangeBounds="0 132" valueDefault="129" />
 			<blend object="Container" priority="0">
