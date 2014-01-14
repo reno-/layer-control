@@ -1,0 +1,30 @@
+/modul8.1/txt " ";
+/modul8.1/txt/font Helvetica;
+/modul8.1/txt/size 22.;
+/modul8.1/txt/index 0;
+
+
+
+/modul8.1/auto/move/sw 0;
+/modul8.1/auto/move/mode in;
+/modul8.1/auto/move/speed 0.;
+/modul8.1/auto/move/size 0.;
+/modul8.1/auto/move/strob 0.;
+
+
+/modul8.1/auto/scale/sw 0;
+/modul8.1/auto/scale/mode in;
+/modul8.1/auto/scale/speed 0.;
+/modul8.1/auto/scale/size 0.;
+/modul8.1/auto/scale/strob 0.;
+
+
+
+/modul8.1/fx/sw 0;
+/modul8.1/fx/type 0;
+
+
+/modul8.1/scale/xyz/factor 10;
+/modul8.1/scale/uniform 0.26;
+/modul8.1/offset/x 0;
+/modul8.1/offset/y 0;
