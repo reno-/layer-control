@@ -2218,13 +2218,13 @@
 													"fontname" : "Arial",
 													"fontsize" : 10.0,
 													"id" : "obj-2",
-													"linecount" : 2,
+													"linecount" : 3,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 114.041687, 217.0, 152.0, 27.0 ],
-													"text" : "/md8key/ctrl_layer_pixelFX_noiseLevel/0 0"
+													"text" : "/md8key/ctrl_layer_pixelFX_noiseLevel/-1 0. 0. 0. 0. 0. 0. 0. 0. 0. 0."
 												}
 
 											}
