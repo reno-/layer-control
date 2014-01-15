@@ -4444,6 +4444,15 @@
 					"destination" : [ "obj-39", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
+					"source" : [ "obj-54", 3 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-39", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
 					"source" : [ "obj-54", 0 ]
 				}
 
@@ -4533,8 +4542,8 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "mouse.model.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/Jamoma/Implementations/Max/Jamoma/patchers/modules/control/mouse",
-				"patcherrelativepath" : "../../../Jamoma/Implementations/Max/Jamoma/patchers/modules/control/mouse",
+				"bootpath" : "/Volumes/data/RENAUD/JamomaPackage/Jamoma/patchers/modules/control/mouse",
+				"patcherrelativepath" : "../../../../JamomaPackage/Jamoma/patchers/modules/control/mouse",
 				"type" : "JSON",
 				"implicit" : 1
 			}
