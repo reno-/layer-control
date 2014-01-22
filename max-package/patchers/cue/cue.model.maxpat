@@ -5,10 +5,10 @@
 			"major" : 6,
 			"minor" : 1,
 			"revision" : 7,
-			"architecture" : "x86"
+			"architecture" : "x64"
 		}
 ,
-		"rect" : [ 66.0, 426.0, 1155.0, 452.0 ],
+		"rect" : [ 482.0, 312.0, 1155.0, 452.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -37,7 +37,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 451.0, 174.5, 56.0, 20.0 ],
-					"presentation_rect" : [ 190.0, 161.5, 0.0, 0.0 ],
 					"text" : "deferlow"
 				}
 
@@ -68,19 +67,6 @@
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 928.25, 28.0, 177.0, 20.0 ],
 					"text" : "j.message saveas @type string"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"fontname" : "Arial",
-					"fontsize" : 12.0,
-					"id" : "obj-1",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 985.199951, 197.5, 120.0, 20.0 ],
-					"text" : "print #1/-----"
 				}
 
 			}
@@ -119,7 +105,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 9.5, 299.0, 199.0, 18.0 ],
-					"text" : "namespace/select /m8"
+					"text" : "namespace/select myselection"
 				}
 
 			}
@@ -198,7 +184,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 488.0, 423.192291, 77.0, 18.0 ],
-					"text" : "/cue"
+					"text" : "/cue.1"
 				}
 
 			}
@@ -341,7 +327,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 204.0, 227.0, 72.0, 20.0 ],
+					"patching_rect" : [ 204.0, 227.0, 80.0, 20.0 ],
 					"text" : "j.model #1"
 				}
 
@@ -494,7 +480,7 @@
 							"major" : 6,
 							"minor" : 1,
 							"revision" : 7,
-							"architecture" : "x86"
+							"architecture" : "x64"
 						}
 ,
 						"rect" : [ 374.0, 728.0, 745.0, 186.0 ],
@@ -1033,7 +1019,7 @@
 							"major" : 6,
 							"minor" : 1,
 							"revision" : 7,
-							"architecture" : "x86"
+							"architecture" : "x64"
 						}
 ,
 						"rect" : [ 50.0, 94.0, 1214.0, 234.0 ],
@@ -1065,7 +1051,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 50.0, 100.0, 1021.0, 18.0 ],
-									"text" : "work:/Users/reno/Documents/GITs/layer-control/max-package/layer-control.xml"
+									"text" : "read work:/Users/reno/Documents/GITs/layer-control/max-package/cuelist.xml"
 								}
 
 							}
@@ -1550,15 +1536,6 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-1", 0 ],
-					"disabled" : 0,
-					"hidden" : 0,
-					"source" : [ "obj-30", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-32", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
@@ -1772,35 +1749,6 @@
 					"source" : [ "obj-8", 1 ]
 				}
 
-			}
- ],
-		"dependency_cache" : [ 			{
-				"name" : "j.message.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "j.receive.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "j.init.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "j.cue.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "j.return.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "j.parameter.mxo",
-				"type" : "iLaX"
-			}
-, 			{
-				"name" : "j.model.mxo",
-				"type" : "iLaX"
 			}
  ]
 	}
