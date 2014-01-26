@@ -103,8 +103,6 @@
 				<string>(g3_INT)1</string>
 			</dict>
 			<dict>
-				<key>(g3_ASCII)ctrlLayer</key>
-				<string>(g3_INT)1</string>
 				<key>(g3_ASCII)layerActivated</key>
 				<string>(g3_INT)1</string>
 			</dict>
@@ -460,10 +458,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.364464</string>
-						<string>(g3_FLOAT)0.364464</string>
-						<string>(g3_FLOAT)0.364464</string>
-						<string>(g3_FLOAT)0.364464</string>
+						<string>(g3_FLOAT)0.056877</string>
+						<string>(g3_FLOAT)0.056877</string>
+						<string>(g3_FLOAT)0.056877</string>
+						<string>(g3_FLOAT)0.056877</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -493,8 +491,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.364464</string>
-						<string>(g3_FLOAT)0.364464</string>
+						<string>(g3_FLOAT)0.056877</string>
+						<string>(g3_FLOAT)0.056877</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_FLOAT)0.000000</string>
@@ -555,9 +553,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.364464</string>
-						<string>(g3_FLOAT)0.364464</string>
-						<string>(g3_FLOAT)0.364464</string>
+						<string>(g3_FLOAT)0.056877</string>
+						<string>(g3_FLOAT)0.056877</string>
+						<string>(g3_FLOAT)0.056877</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_FLOAT)0.000000</string>
@@ -988,10 +986,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.826713</string>
-						<string>(g3_FLOAT)0.826713</string>
-						<string>(g3_FLOAT)0.826713</string>
-						<string>(g3_FLOAT)0.826713</string>
+						<string>(g3_FLOAT)0.642638</string>
+						<string>(g3_FLOAT)0.642638</string>
+						<string>(g3_FLOAT)0.642638</string>
+						<string>(g3_FLOAT)0.642638</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -1021,8 +1019,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.826713</string>
-						<string>(g3_FLOAT)0.826713</string>
+						<string>(g3_FLOAT)0.642638</string>
+						<string>(g3_FLOAT)0.642638</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_FLOAT)0.000000</string>
@@ -1083,9 +1081,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.826713</string>
-						<string>(g3_FLOAT)0.826713</string>
-						<string>(g3_FLOAT)0.826713</string>
+						<string>(g3_FLOAT)0.642638</string>
+						<string>(g3_FLOAT)0.642638</string>
+						<string>(g3_FLOAT)0.642638</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_FLOAT)0.000000</string>
@@ -1516,10 +1514,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.877247</string>
-						<string>(g3_FLOAT)0.877247</string>
-						<string>(g3_FLOAT)0.877247</string>
-						<string>(g3_FLOAT)0.877247</string>
+						<string>(g3_FLOAT)0.199222</string>
+						<string>(g3_FLOAT)0.199222</string>
+						<string>(g3_FLOAT)0.199222</string>
+						<string>(g3_FLOAT)0.199222</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -1549,8 +1547,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.877247</string>
-						<string>(g3_FLOAT)0.877247</string>
+						<string>(g3_FLOAT)0.199222</string>
+						<string>(g3_FLOAT)0.199222</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_FLOAT)0.000000</string>
@@ -1611,9 +1609,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.877247</string>
-						<string>(g3_FLOAT)0.877247</string>
-						<string>(g3_FLOAT)0.877247</string>
+						<string>(g3_FLOAT)0.199222</string>
+						<string>(g3_FLOAT)0.199222</string>
+						<string>(g3_FLOAT)0.199222</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_FLOAT)0.000000</string>
@@ -2044,10 +2042,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.502589</string>
-						<string>(g3_FLOAT)0.502589</string>
-						<string>(g3_FLOAT)0.502589</string>
-						<string>(g3_FLOAT)0.502589</string>
+						<string>(g3_FLOAT)0.016691</string>
+						<string>(g3_FLOAT)0.016691</string>
+						<string>(g3_FLOAT)0.016691</string>
+						<string>(g3_FLOAT)0.016691</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -2077,8 +2075,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.502589</string>
-						<string>(g3_FLOAT)0.502589</string>
+						<string>(g3_FLOAT)0.016691</string>
+						<string>(g3_FLOAT)0.016691</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_FLOAT)0.000000</string>
@@ -2139,9 +2137,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.502589</string>
-						<string>(g3_FLOAT)0.502589</string>
-						<string>(g3_FLOAT)0.502589</string>
+						<string>(g3_FLOAT)0.016691</string>
+						<string>(g3_FLOAT)0.016691</string>
+						<string>(g3_FLOAT)0.016691</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_FLOAT)0.000000</string>
@@ -2572,10 +2570,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.505652</string>
-						<string>(g3_FLOAT)0.505652</string>
-						<string>(g3_FLOAT)0.505652</string>
-						<string>(g3_FLOAT)0.505652</string>
+						<string>(g3_FLOAT)0.441894</string>
+						<string>(g3_FLOAT)0.441894</string>
+						<string>(g3_FLOAT)0.441894</string>
+						<string>(g3_FLOAT)0.441894</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -2605,8 +2603,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.505652</string>
-						<string>(g3_FLOAT)0.505652</string>
+						<string>(g3_FLOAT)0.441894</string>
+						<string>(g3_FLOAT)0.441894</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_FLOAT)0.000000</string>
@@ -2667,9 +2665,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.505652</string>
-						<string>(g3_FLOAT)0.505652</string>
-						<string>(g3_FLOAT)0.505652</string>
+						<string>(g3_FLOAT)0.441894</string>
+						<string>(g3_FLOAT)0.441894</string>
+						<string>(g3_FLOAT)0.441894</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_FLOAT)0.000000</string>
@@ -3104,10 +3102,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.932362</string>
-						<string>(g3_FLOAT)0.932362</string>
-						<string>(g3_FLOAT)0.932362</string>
-						<string>(g3_FLOAT)0.932362</string>
+						<string>(g3_FLOAT)0.988634</string>
+						<string>(g3_FLOAT)0.988634</string>
+						<string>(g3_FLOAT)0.988634</string>
+						<string>(g3_FLOAT)0.988634</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -3137,8 +3135,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.932362</string>
-						<string>(g3_FLOAT)0.932362</string>
+						<string>(g3_FLOAT)0.988634</string>
+						<string>(g3_FLOAT)0.988634</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -3199,9 +3197,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.932362</string>
-						<string>(g3_FLOAT)0.932362</string>
-						<string>(g3_FLOAT)0.932362</string>
+						<string>(g3_FLOAT)0.988634</string>
+						<string>(g3_FLOAT)0.988634</string>
+						<string>(g3_FLOAT)0.988634</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -3550,10 +3548,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.558979</string>
-						<string>(g3_FLOAT)0.558979</string>
-						<string>(g3_FLOAT)0.558979</string>
-						<string>(g3_FLOAT)0.558979</string>
+						<string>(g3_FLOAT)0.833308</string>
+						<string>(g3_FLOAT)0.833308</string>
+						<string>(g3_FLOAT)0.833308</string>
+						<string>(g3_FLOAT)0.833308</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -3583,8 +3581,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.558979</string>
-						<string>(g3_FLOAT)0.558979</string>
+						<string>(g3_FLOAT)0.833308</string>
+						<string>(g3_FLOAT)0.833308</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -3645,9 +3643,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.558979</string>
-						<string>(g3_FLOAT)0.558979</string>
-						<string>(g3_FLOAT)0.558979</string>
+						<string>(g3_FLOAT)0.833308</string>
+						<string>(g3_FLOAT)0.833308</string>
+						<string>(g3_FLOAT)0.833308</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -3996,10 +3994,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.578336</string>
-						<string>(g3_FLOAT)0.578336</string>
-						<string>(g3_FLOAT)0.578336</string>
-						<string>(g3_FLOAT)0.578336</string>
+						<string>(g3_FLOAT)0.820073</string>
+						<string>(g3_FLOAT)0.820073</string>
+						<string>(g3_FLOAT)0.820073</string>
+						<string>(g3_FLOAT)0.820073</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -4029,8 +4027,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.578336</string>
-						<string>(g3_FLOAT)0.578336</string>
+						<string>(g3_FLOAT)0.820073</string>
+						<string>(g3_FLOAT)0.820073</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -4091,9 +4089,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.578336</string>
-						<string>(g3_FLOAT)0.578336</string>
-						<string>(g3_FLOAT)0.578336</string>
+						<string>(g3_FLOAT)0.820073</string>
+						<string>(g3_FLOAT)0.820073</string>
+						<string>(g3_FLOAT)0.820073</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -4442,10 +4440,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.961747</string>
-						<string>(g3_FLOAT)0.961747</string>
-						<string>(g3_FLOAT)0.961747</string>
-						<string>(g3_FLOAT)0.961747</string>
+						<string>(g3_FLOAT)0.727118</string>
+						<string>(g3_FLOAT)0.727118</string>
+						<string>(g3_FLOAT)0.727118</string>
+						<string>(g3_FLOAT)0.727118</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -4475,8 +4473,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.961747</string>
-						<string>(g3_FLOAT)0.961747</string>
+						<string>(g3_FLOAT)0.727118</string>
+						<string>(g3_FLOAT)0.727118</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -4537,9 +4535,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.961747</string>
-						<string>(g3_FLOAT)0.961747</string>
-						<string>(g3_FLOAT)0.961747</string>
+						<string>(g3_FLOAT)0.727118</string>
+						<string>(g3_FLOAT)0.727118</string>
+						<string>(g3_FLOAT)0.727118</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -4888,10 +4886,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.274932</string>
-						<string>(g3_FLOAT)0.274932</string>
-						<string>(g3_FLOAT)0.274932</string>
-						<string>(g3_FLOAT)0.274932</string>
+						<string>(g3_FLOAT)0.685292</string>
+						<string>(g3_FLOAT)0.685292</string>
+						<string>(g3_FLOAT)0.685292</string>
+						<string>(g3_FLOAT)0.685292</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -4921,8 +4919,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.274932</string>
-						<string>(g3_FLOAT)0.274932</string>
+						<string>(g3_FLOAT)0.685292</string>
+						<string>(g3_FLOAT)0.685292</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -4983,9 +4981,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.274932</string>
-						<string>(g3_FLOAT)0.274932</string>
-						<string>(g3_FLOAT)0.274932</string>
+						<string>(g3_FLOAT)0.685292</string>
+						<string>(g3_FLOAT)0.685292</string>
+						<string>(g3_FLOAT)0.685292</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -5336,10 +5334,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.937139</string>
-						<string>(g3_FLOAT)0.937139</string>
-						<string>(g3_FLOAT)0.937139</string>
-						<string>(g3_FLOAT)0.937139</string>
+						<string>(g3_FLOAT)0.331494</string>
+						<string>(g3_FLOAT)0.331494</string>
+						<string>(g3_FLOAT)0.331494</string>
+						<string>(g3_FLOAT)0.331494</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -5369,8 +5367,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.937139</string>
-						<string>(g3_FLOAT)0.937139</string>
+						<string>(g3_FLOAT)0.331494</string>
+						<string>(g3_FLOAT)0.331494</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -5431,9 +5429,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.937139</string>
-						<string>(g3_FLOAT)0.937139</string>
-						<string>(g3_FLOAT)0.937139</string>
+						<string>(g3_FLOAT)0.331494</string>
+						<string>(g3_FLOAT)0.331494</string>
+						<string>(g3_FLOAT)0.331494</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -5782,10 +5780,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.735919</string>
-						<string>(g3_FLOAT)0.735919</string>
-						<string>(g3_FLOAT)0.735919</string>
-						<string>(g3_FLOAT)0.735919</string>
+						<string>(g3_FLOAT)0.956083</string>
+						<string>(g3_FLOAT)0.956083</string>
+						<string>(g3_FLOAT)0.956083</string>
+						<string>(g3_FLOAT)0.956083</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -5815,8 +5813,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.735919</string>
-						<string>(g3_FLOAT)0.735919</string>
+						<string>(g3_FLOAT)0.956083</string>
+						<string>(g3_FLOAT)0.956083</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -5877,9 +5875,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.735919</string>
-						<string>(g3_FLOAT)0.735919</string>
-						<string>(g3_FLOAT)0.735919</string>
+						<string>(g3_FLOAT)0.956083</string>
+						<string>(g3_FLOAT)0.956083</string>
+						<string>(g3_FLOAT)0.956083</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -6228,10 +6226,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.984256</string>
-						<string>(g3_FLOAT)0.984256</string>
-						<string>(g3_FLOAT)0.984256</string>
-						<string>(g3_FLOAT)0.984256</string>
+						<string>(g3_FLOAT)0.858957</string>
+						<string>(g3_FLOAT)0.858957</string>
+						<string>(g3_FLOAT)0.858957</string>
+						<string>(g3_FLOAT)0.858957</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -6261,8 +6259,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.984256</string>
-						<string>(g3_FLOAT)0.984256</string>
+						<string>(g3_FLOAT)0.858957</string>
+						<string>(g3_FLOAT)0.858957</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -6323,9 +6321,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.984256</string>
-						<string>(g3_FLOAT)0.984256</string>
-						<string>(g3_FLOAT)0.984256</string>
+						<string>(g3_FLOAT)0.858957</string>
+						<string>(g3_FLOAT)0.858957</string>
+						<string>(g3_FLOAT)0.858957</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -6674,10 +6672,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.812755</string>
-						<string>(g3_FLOAT)0.812755</string>
-						<string>(g3_FLOAT)0.812755</string>
-						<string>(g3_FLOAT)0.812755</string>
+						<string>(g3_FLOAT)0.557266</string>
+						<string>(g3_FLOAT)0.557266</string>
+						<string>(g3_FLOAT)0.557266</string>
+						<string>(g3_FLOAT)0.557266</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -6707,8 +6705,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.812755</string>
-						<string>(g3_FLOAT)0.812755</string>
+						<string>(g3_FLOAT)0.557266</string>
+						<string>(g3_FLOAT)0.557266</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -6769,9 +6767,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.812755</string>
-						<string>(g3_FLOAT)0.812755</string>
-						<string>(g3_FLOAT)0.812755</string>
+						<string>(g3_FLOAT)0.557266</string>
+						<string>(g3_FLOAT)0.557266</string>
+						<string>(g3_FLOAT)0.557266</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -7120,10 +7118,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.619324</string>
-						<string>(g3_FLOAT)0.619324</string>
-						<string>(g3_FLOAT)0.619324</string>
-						<string>(g3_FLOAT)0.619324</string>
+						<string>(g3_FLOAT)0.983974</string>
+						<string>(g3_FLOAT)0.983974</string>
+						<string>(g3_FLOAT)0.983974</string>
+						<string>(g3_FLOAT)0.983974</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -7153,8 +7151,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.619324</string>
-						<string>(g3_FLOAT)0.619324</string>
+						<string>(g3_FLOAT)0.983974</string>
+						<string>(g3_FLOAT)0.983974</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -7215,9 +7213,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.619324</string>
-						<string>(g3_FLOAT)0.619324</string>
-						<string>(g3_FLOAT)0.619324</string>
+						<string>(g3_FLOAT)0.983974</string>
+						<string>(g3_FLOAT)0.983974</string>
+						<string>(g3_FLOAT)0.983974</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -7568,10 +7566,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.161045</string>
-						<string>(g3_FLOAT)0.161045</string>
-						<string>(g3_FLOAT)0.161045</string>
-						<string>(g3_FLOAT)0.161045</string>
+						<string>(g3_FLOAT)0.994030</string>
+						<string>(g3_FLOAT)0.994030</string>
+						<string>(g3_FLOAT)0.994030</string>
+						<string>(g3_FLOAT)0.994030</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -7601,8 +7599,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.161045</string>
-						<string>(g3_FLOAT)0.161045</string>
+						<string>(g3_FLOAT)0.994030</string>
+						<string>(g3_FLOAT)0.994030</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -7663,9 +7661,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.161045</string>
-						<string>(g3_FLOAT)0.161045</string>
-						<string>(g3_FLOAT)0.161045</string>
+						<string>(g3_FLOAT)0.994030</string>
+						<string>(g3_FLOAT)0.994030</string>
+						<string>(g3_FLOAT)0.994030</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -8014,10 +8012,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.991609</string>
-						<string>(g3_FLOAT)0.991609</string>
-						<string>(g3_FLOAT)0.991609</string>
-						<string>(g3_FLOAT)0.991609</string>
+						<string>(g3_FLOAT)0.894895</string>
+						<string>(g3_FLOAT)0.894895</string>
+						<string>(g3_FLOAT)0.894895</string>
+						<string>(g3_FLOAT)0.894895</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -8047,8 +8045,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.991609</string>
-						<string>(g3_FLOAT)0.991609</string>
+						<string>(g3_FLOAT)0.894895</string>
+						<string>(g3_FLOAT)0.894895</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -8109,9 +8107,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.991609</string>
-						<string>(g3_FLOAT)0.991609</string>
-						<string>(g3_FLOAT)0.991609</string>
+						<string>(g3_FLOAT)0.894895</string>
+						<string>(g3_FLOAT)0.894895</string>
+						<string>(g3_FLOAT)0.894895</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -8460,10 +8458,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.390885</string>
-						<string>(g3_FLOAT)0.390885</string>
-						<string>(g3_FLOAT)0.390885</string>
-						<string>(g3_FLOAT)0.390885</string>
+						<string>(g3_FLOAT)0.311790</string>
+						<string>(g3_FLOAT)0.311790</string>
+						<string>(g3_FLOAT)0.311790</string>
+						<string>(g3_FLOAT)0.311790</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -8493,8 +8491,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.390885</string>
-						<string>(g3_FLOAT)0.390885</string>
+						<string>(g3_FLOAT)0.311790</string>
+						<string>(g3_FLOAT)0.311790</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -8555,9 +8553,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.390885</string>
-						<string>(g3_FLOAT)0.390885</string>
-						<string>(g3_FLOAT)0.390885</string>
+						<string>(g3_FLOAT)0.311790</string>
+						<string>(g3_FLOAT)0.311790</string>
+						<string>(g3_FLOAT)0.311790</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -8906,10 +8904,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.245757</string>
-						<string>(g3_FLOAT)0.245757</string>
-						<string>(g3_FLOAT)0.245757</string>
-						<string>(g3_FLOAT)0.245757</string>
+						<string>(g3_FLOAT)0.057024</string>
+						<string>(g3_FLOAT)0.057024</string>
+						<string>(g3_FLOAT)0.057024</string>
+						<string>(g3_FLOAT)0.057024</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -8939,8 +8937,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.245757</string>
-						<string>(g3_FLOAT)0.245757</string>
+						<string>(g3_FLOAT)0.057024</string>
+						<string>(g3_FLOAT)0.057024</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -9001,9 +8999,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.245757</string>
-						<string>(g3_FLOAT)0.245757</string>
-						<string>(g3_FLOAT)0.245757</string>
+						<string>(g3_FLOAT)0.057024</string>
+						<string>(g3_FLOAT)0.057024</string>
+						<string>(g3_FLOAT)0.057024</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -9352,10 +9350,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.075593</string>
-						<string>(g3_FLOAT)0.075593</string>
-						<string>(g3_FLOAT)0.075593</string>
-						<string>(g3_FLOAT)0.075593</string>
+						<string>(g3_FLOAT)0.927627</string>
+						<string>(g3_FLOAT)0.927627</string>
+						<string>(g3_FLOAT)0.927627</string>
+						<string>(g3_FLOAT)0.927627</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -9385,8 +9383,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.075593</string>
-						<string>(g3_FLOAT)0.075593</string>
+						<string>(g3_FLOAT)0.927627</string>
+						<string>(g3_FLOAT)0.927627</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -9447,9 +9445,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.075593</string>
-						<string>(g3_FLOAT)0.075593</string>
-						<string>(g3_FLOAT)0.075593</string>
+						<string>(g3_FLOAT)0.927627</string>
+						<string>(g3_FLOAT)0.927627</string>
+						<string>(g3_FLOAT)0.927627</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -9800,10 +9798,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.120893</string>
-						<string>(g3_FLOAT)0.120893</string>
-						<string>(g3_FLOAT)0.120893</string>
-						<string>(g3_FLOAT)0.120893</string>
+						<string>(g3_FLOAT)0.948430</string>
+						<string>(g3_FLOAT)0.948430</string>
+						<string>(g3_FLOAT)0.948430</string>
+						<string>(g3_FLOAT)0.948430</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -9833,8 +9831,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.120893</string>
-						<string>(g3_FLOAT)0.120893</string>
+						<string>(g3_FLOAT)0.948430</string>
+						<string>(g3_FLOAT)0.948430</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -9895,9 +9893,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.120893</string>
-						<string>(g3_FLOAT)0.120893</string>
-						<string>(g3_FLOAT)0.120893</string>
+						<string>(g3_FLOAT)0.948430</string>
+						<string>(g3_FLOAT)0.948430</string>
+						<string>(g3_FLOAT)0.948430</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -10246,10 +10244,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.432311</string>
-						<string>(g3_FLOAT)0.432311</string>
-						<string>(g3_FLOAT)0.432311</string>
-						<string>(g3_FLOAT)0.432311</string>
+						<string>(g3_FLOAT)0.489874</string>
+						<string>(g3_FLOAT)0.489874</string>
+						<string>(g3_FLOAT)0.489874</string>
+						<string>(g3_FLOAT)0.489874</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -10279,8 +10277,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.432311</string>
-						<string>(g3_FLOAT)0.432311</string>
+						<string>(g3_FLOAT)0.489874</string>
+						<string>(g3_FLOAT)0.489874</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -10341,9 +10339,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.432311</string>
-						<string>(g3_FLOAT)0.432311</string>
-						<string>(g3_FLOAT)0.432311</string>
+						<string>(g3_FLOAT)0.489874</string>
+						<string>(g3_FLOAT)0.489874</string>
+						<string>(g3_FLOAT)0.489874</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -10692,10 +10690,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.157147</string>
-						<string>(g3_FLOAT)0.157147</string>
-						<string>(g3_FLOAT)0.157147</string>
-						<string>(g3_FLOAT)0.157147</string>
+						<string>(g3_FLOAT)0.593506</string>
+						<string>(g3_FLOAT)0.593506</string>
+						<string>(g3_FLOAT)0.593506</string>
+						<string>(g3_FLOAT)0.593506</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -10725,8 +10723,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.157147</string>
-						<string>(g3_FLOAT)0.157147</string>
+						<string>(g3_FLOAT)0.593506</string>
+						<string>(g3_FLOAT)0.593506</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -10787,9 +10785,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.157147</string>
-						<string>(g3_FLOAT)0.157147</string>
-						<string>(g3_FLOAT)0.157147</string>
+						<string>(g3_FLOAT)0.593506</string>
+						<string>(g3_FLOAT)0.593506</string>
+						<string>(g3_FLOAT)0.593506</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -11138,10 +11136,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.480798</string>
-						<string>(g3_FLOAT)0.480798</string>
-						<string>(g3_FLOAT)0.480798</string>
-						<string>(g3_FLOAT)0.480798</string>
+						<string>(g3_FLOAT)0.598470</string>
+						<string>(g3_FLOAT)0.598470</string>
+						<string>(g3_FLOAT)0.598470</string>
+						<string>(g3_FLOAT)0.598470</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -11171,8 +11169,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.480798</string>
-						<string>(g3_FLOAT)0.480798</string>
+						<string>(g3_FLOAT)0.598470</string>
+						<string>(g3_FLOAT)0.598470</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -11233,9 +11231,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.480798</string>
-						<string>(g3_FLOAT)0.480798</string>
-						<string>(g3_FLOAT)0.480798</string>
+						<string>(g3_FLOAT)0.598470</string>
+						<string>(g3_FLOAT)0.598470</string>
+						<string>(g3_FLOAT)0.598470</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -11584,10 +11582,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.445409</string>
-						<string>(g3_FLOAT)0.445409</string>
-						<string>(g3_FLOAT)0.445409</string>
-						<string>(g3_FLOAT)0.445409</string>
+						<string>(g3_FLOAT)0.777718</string>
+						<string>(g3_FLOAT)0.777718</string>
+						<string>(g3_FLOAT)0.777718</string>
+						<string>(g3_FLOAT)0.777718</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -11617,8 +11615,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.445409</string>
-						<string>(g3_FLOAT)0.445409</string>
+						<string>(g3_FLOAT)0.777718</string>
+						<string>(g3_FLOAT)0.777718</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -11679,9 +11677,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.445409</string>
-						<string>(g3_FLOAT)0.445409</string>
-						<string>(g3_FLOAT)0.445409</string>
+						<string>(g3_FLOAT)0.777718</string>
+						<string>(g3_FLOAT)0.777718</string>
+						<string>(g3_FLOAT)0.777718</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -12032,10 +12030,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.760689</string>
-						<string>(g3_FLOAT)0.760689</string>
-						<string>(g3_FLOAT)0.760689</string>
-						<string>(g3_FLOAT)0.760689</string>
+						<string>(g3_FLOAT)0.458569</string>
+						<string>(g3_FLOAT)0.458569</string>
+						<string>(g3_FLOAT)0.458569</string>
+						<string>(g3_FLOAT)0.458569</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -12065,8 +12063,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.760689</string>
-						<string>(g3_FLOAT)0.760689</string>
+						<string>(g3_FLOAT)0.458569</string>
+						<string>(g3_FLOAT)0.458569</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -12127,9 +12125,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.760689</string>
-						<string>(g3_FLOAT)0.760689</string>
-						<string>(g3_FLOAT)0.760689</string>
+						<string>(g3_FLOAT)0.458569</string>
+						<string>(g3_FLOAT)0.458569</string>
+						<string>(g3_FLOAT)0.458569</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -12478,10 +12476,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.443275</string>
-						<string>(g3_FLOAT)0.443275</string>
-						<string>(g3_FLOAT)0.443275</string>
-						<string>(g3_FLOAT)0.443275</string>
+						<string>(g3_FLOAT)0.586035</string>
+						<string>(g3_FLOAT)0.586035</string>
+						<string>(g3_FLOAT)0.586035</string>
+						<string>(g3_FLOAT)0.586035</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -12511,8 +12509,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.443275</string>
-						<string>(g3_FLOAT)0.443275</string>
+						<string>(g3_FLOAT)0.586035</string>
+						<string>(g3_FLOAT)0.586035</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -12573,9 +12571,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.443275</string>
-						<string>(g3_FLOAT)0.443275</string>
-						<string>(g3_FLOAT)0.443275</string>
+						<string>(g3_FLOAT)0.586035</string>
+						<string>(g3_FLOAT)0.586035</string>
+						<string>(g3_FLOAT)0.586035</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -12924,10 +12922,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.460122</string>
-						<string>(g3_FLOAT)0.460122</string>
-						<string>(g3_FLOAT)0.460122</string>
-						<string>(g3_FLOAT)0.460122</string>
+						<string>(g3_FLOAT)0.495367</string>
+						<string>(g3_FLOAT)0.495367</string>
+						<string>(g3_FLOAT)0.495367</string>
+						<string>(g3_FLOAT)0.495367</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -12957,8 +12955,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.460122</string>
-						<string>(g3_FLOAT)0.460122</string>
+						<string>(g3_FLOAT)0.495367</string>
+						<string>(g3_FLOAT)0.495367</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -13019,9 +13017,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.460122</string>
-						<string>(g3_FLOAT)0.460122</string>
-						<string>(g3_FLOAT)0.460122</string>
+						<string>(g3_FLOAT)0.495367</string>
+						<string>(g3_FLOAT)0.495367</string>
+						<string>(g3_FLOAT)0.495367</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -13370,10 +13368,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.240853</string>
-						<string>(g3_FLOAT)0.240853</string>
-						<string>(g3_FLOAT)0.240853</string>
-						<string>(g3_FLOAT)0.240853</string>
+						<string>(g3_FLOAT)0.014020</string>
+						<string>(g3_FLOAT)0.014020</string>
+						<string>(g3_FLOAT)0.014020</string>
+						<string>(g3_FLOAT)0.014020</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -13403,8 +13401,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.240853</string>
-						<string>(g3_FLOAT)0.240853</string>
+						<string>(g3_FLOAT)0.014020</string>
+						<string>(g3_FLOAT)0.014020</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -13465,9 +13463,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.240853</string>
-						<string>(g3_FLOAT)0.240853</string>
-						<string>(g3_FLOAT)0.240853</string>
+						<string>(g3_FLOAT)0.014020</string>
+						<string>(g3_FLOAT)0.014020</string>
+						<string>(g3_FLOAT)0.014020</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -13816,10 +13814,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.561880</string>
-						<string>(g3_FLOAT)0.561880</string>
-						<string>(g3_FLOAT)0.561880</string>
-						<string>(g3_FLOAT)0.561880</string>
+						<string>(g3_FLOAT)0.016821</string>
+						<string>(g3_FLOAT)0.016821</string>
+						<string>(g3_FLOAT)0.016821</string>
+						<string>(g3_FLOAT)0.016821</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -13849,8 +13847,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.561880</string>
-						<string>(g3_FLOAT)0.561880</string>
+						<string>(g3_FLOAT)0.016821</string>
+						<string>(g3_FLOAT)0.016821</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -13911,9 +13909,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.561880</string>
-						<string>(g3_FLOAT)0.561880</string>
-						<string>(g3_FLOAT)0.561880</string>
+						<string>(g3_FLOAT)0.016821</string>
+						<string>(g3_FLOAT)0.016821</string>
+						<string>(g3_FLOAT)0.016821</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -14264,10 +14262,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.432873</string>
-						<string>(g3_FLOAT)0.432873</string>
-						<string>(g3_FLOAT)0.432873</string>
-						<string>(g3_FLOAT)0.432873</string>
+						<string>(g3_FLOAT)0.611812</string>
+						<string>(g3_FLOAT)0.611812</string>
+						<string>(g3_FLOAT)0.611812</string>
+						<string>(g3_FLOAT)0.611812</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -14297,8 +14295,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.432873</string>
-						<string>(g3_FLOAT)0.432873</string>
+						<string>(g3_FLOAT)0.611812</string>
+						<string>(g3_FLOAT)0.611812</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -14359,9 +14357,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.432873</string>
-						<string>(g3_FLOAT)0.432873</string>
-						<string>(g3_FLOAT)0.432873</string>
+						<string>(g3_FLOAT)0.611812</string>
+						<string>(g3_FLOAT)0.611812</string>
+						<string>(g3_FLOAT)0.611812</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -14710,10 +14708,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.899117</string>
-						<string>(g3_FLOAT)0.899117</string>
-						<string>(g3_FLOAT)0.899117</string>
-						<string>(g3_FLOAT)0.899117</string>
+						<string>(g3_FLOAT)0.428319</string>
+						<string>(g3_FLOAT)0.428319</string>
+						<string>(g3_FLOAT)0.428319</string>
+						<string>(g3_FLOAT)0.428319</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -14743,8 +14741,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.899117</string>
-						<string>(g3_FLOAT)0.899117</string>
+						<string>(g3_FLOAT)0.428319</string>
+						<string>(g3_FLOAT)0.428319</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -14805,9 +14803,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.899117</string>
-						<string>(g3_FLOAT)0.899117</string>
-						<string>(g3_FLOAT)0.899117</string>
+						<string>(g3_FLOAT)0.428319</string>
+						<string>(g3_FLOAT)0.428319</string>
+						<string>(g3_FLOAT)0.428319</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -15156,10 +15154,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.110846</string>
-						<string>(g3_FLOAT)0.110846</string>
-						<string>(g3_FLOAT)0.110846</string>
-						<string>(g3_FLOAT)0.110846</string>
+						<string>(g3_FLOAT)0.370648</string>
+						<string>(g3_FLOAT)0.370648</string>
+						<string>(g3_FLOAT)0.370648</string>
+						<string>(g3_FLOAT)0.370648</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -15189,8 +15187,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.110846</string>
-						<string>(g3_FLOAT)0.110846</string>
+						<string>(g3_FLOAT)0.370648</string>
+						<string>(g3_FLOAT)0.370648</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -15251,9 +15249,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.110846</string>
-						<string>(g3_FLOAT)0.110846</string>
-						<string>(g3_FLOAT)0.110846</string>
+						<string>(g3_FLOAT)0.370648</string>
+						<string>(g3_FLOAT)0.370648</string>
+						<string>(g3_FLOAT)0.370648</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -15602,10 +15600,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.905565</string>
-						<string>(g3_FLOAT)0.905565</string>
-						<string>(g3_FLOAT)0.905565</string>
-						<string>(g3_FLOAT)0.905565</string>
+						<string>(g3_FLOAT)0.638794</string>
+						<string>(g3_FLOAT)0.638794</string>
+						<string>(g3_FLOAT)0.638794</string>
+						<string>(g3_FLOAT)0.638794</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -15635,8 +15633,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.905565</string>
-						<string>(g3_FLOAT)0.905565</string>
+						<string>(g3_FLOAT)0.638794</string>
+						<string>(g3_FLOAT)0.638794</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -15697,9 +15695,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.905565</string>
-						<string>(g3_FLOAT)0.905565</string>
-						<string>(g3_FLOAT)0.905565</string>
+						<string>(g3_FLOAT)0.638794</string>
+						<string>(g3_FLOAT)0.638794</string>
+						<string>(g3_FLOAT)0.638794</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -16048,10 +16046,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.294058</string>
-						<string>(g3_FLOAT)0.294058</string>
-						<string>(g3_FLOAT)0.294058</string>
-						<string>(g3_FLOAT)0.294058</string>
+						<string>(g3_FLOAT)0.894488</string>
+						<string>(g3_FLOAT)0.894488</string>
+						<string>(g3_FLOAT)0.894488</string>
+						<string>(g3_FLOAT)0.894488</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -16081,8 +16079,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.294058</string>
-						<string>(g3_FLOAT)0.294058</string>
+						<string>(g3_FLOAT)0.894488</string>
+						<string>(g3_FLOAT)0.894488</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -16143,9 +16141,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.294058</string>
-						<string>(g3_FLOAT)0.294058</string>
-						<string>(g3_FLOAT)0.294058</string>
+						<string>(g3_FLOAT)0.894488</string>
+						<string>(g3_FLOAT)0.894488</string>
+						<string>(g3_FLOAT)0.894488</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -16496,10 +16494,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.150711</string>
-						<string>(g3_FLOAT)0.150711</string>
-						<string>(g3_FLOAT)0.150711</string>
-						<string>(g3_FLOAT)0.150711</string>
+						<string>(g3_FLOAT)0.285290</string>
+						<string>(g3_FLOAT)0.285290</string>
+						<string>(g3_FLOAT)0.285290</string>
+						<string>(g3_FLOAT)0.285290</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -16529,8 +16527,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.150711</string>
-						<string>(g3_FLOAT)0.150711</string>
+						<string>(g3_FLOAT)0.285290</string>
+						<string>(g3_FLOAT)0.285290</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -16591,9 +16589,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.150711</string>
-						<string>(g3_FLOAT)0.150711</string>
-						<string>(g3_FLOAT)0.150711</string>
+						<string>(g3_FLOAT)0.285290</string>
+						<string>(g3_FLOAT)0.285290</string>
+						<string>(g3_FLOAT)0.285290</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -16942,10 +16940,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.377591</string>
-						<string>(g3_FLOAT)0.377591</string>
-						<string>(g3_FLOAT)0.377591</string>
-						<string>(g3_FLOAT)0.377591</string>
+						<string>(g3_FLOAT)0.110690</string>
+						<string>(g3_FLOAT)0.110690</string>
+						<string>(g3_FLOAT)0.110690</string>
+						<string>(g3_FLOAT)0.110690</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -16975,8 +16973,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.377591</string>
-						<string>(g3_FLOAT)0.377591</string>
+						<string>(g3_FLOAT)0.110690</string>
+						<string>(g3_FLOAT)0.110690</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -17037,9 +17035,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.377591</string>
-						<string>(g3_FLOAT)0.377591</string>
-						<string>(g3_FLOAT)0.377591</string>
+						<string>(g3_FLOAT)0.110690</string>
+						<string>(g3_FLOAT)0.110690</string>
+						<string>(g3_FLOAT)0.110690</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -17388,10 +17386,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.526413</string>
-						<string>(g3_FLOAT)0.526413</string>
-						<string>(g3_FLOAT)0.526413</string>
-						<string>(g3_FLOAT)0.526413</string>
+						<string>(g3_FLOAT)0.107712</string>
+						<string>(g3_FLOAT)0.107712</string>
+						<string>(g3_FLOAT)0.107712</string>
+						<string>(g3_FLOAT)0.107712</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -17421,8 +17419,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.526413</string>
-						<string>(g3_FLOAT)0.526413</string>
+						<string>(g3_FLOAT)0.107712</string>
+						<string>(g3_FLOAT)0.107712</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -17483,9 +17481,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.526413</string>
-						<string>(g3_FLOAT)0.526413</string>
-						<string>(g3_FLOAT)0.526413</string>
+						<string>(g3_FLOAT)0.107712</string>
+						<string>(g3_FLOAT)0.107712</string>
+						<string>(g3_FLOAT)0.107712</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -17834,10 +17832,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.807687</string>
-						<string>(g3_FLOAT)0.807687</string>
-						<string>(g3_FLOAT)0.807687</string>
-						<string>(g3_FLOAT)0.807687</string>
+						<string>(g3_FLOAT)0.857433</string>
+						<string>(g3_FLOAT)0.857433</string>
+						<string>(g3_FLOAT)0.857433</string>
+						<string>(g3_FLOAT)0.857433</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -17867,8 +17865,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.807687</string>
-						<string>(g3_FLOAT)0.807687</string>
+						<string>(g3_FLOAT)0.857433</string>
+						<string>(g3_FLOAT)0.857433</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -17929,9 +17927,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.807687</string>
-						<string>(g3_FLOAT)0.807687</string>
-						<string>(g3_FLOAT)0.807687</string>
+						<string>(g3_FLOAT)0.857433</string>
+						<string>(g3_FLOAT)0.857433</string>
+						<string>(g3_FLOAT)0.857433</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -18280,10 +18278,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.295320</string>
-						<string>(g3_FLOAT)0.295320</string>
-						<string>(g3_FLOAT)0.295320</string>
-						<string>(g3_FLOAT)0.295320</string>
+						<string>(g3_FLOAT)0.762487</string>
+						<string>(g3_FLOAT)0.762487</string>
+						<string>(g3_FLOAT)0.762487</string>
+						<string>(g3_FLOAT)0.762487</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -18313,8 +18311,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.295320</string>
-						<string>(g3_FLOAT)0.295320</string>
+						<string>(g3_FLOAT)0.762487</string>
+						<string>(g3_FLOAT)0.762487</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -18375,9 +18373,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.295320</string>
-						<string>(g3_FLOAT)0.295320</string>
-						<string>(g3_FLOAT)0.295320</string>
+						<string>(g3_FLOAT)0.762487</string>
+						<string>(g3_FLOAT)0.762487</string>
+						<string>(g3_FLOAT)0.762487</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -18728,10 +18726,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.246906</string>
-						<string>(g3_FLOAT)0.246906</string>
-						<string>(g3_FLOAT)0.246906</string>
-						<string>(g3_FLOAT)0.246906</string>
+						<string>(g3_FLOAT)0.352595</string>
+						<string>(g3_FLOAT)0.352595</string>
+						<string>(g3_FLOAT)0.352595</string>
+						<string>(g3_FLOAT)0.352595</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -18761,8 +18759,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.246906</string>
-						<string>(g3_FLOAT)0.246906</string>
+						<string>(g3_FLOAT)0.352595</string>
+						<string>(g3_FLOAT)0.352595</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_FLOAT)0.000000</string>
@@ -18823,9 +18821,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.246906</string>
-						<string>(g3_FLOAT)0.246906</string>
-						<string>(g3_FLOAT)0.246906</string>
+						<string>(g3_FLOAT)0.352595</string>
+						<string>(g3_FLOAT)0.352595</string>
+						<string>(g3_FLOAT)0.352595</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_FLOAT)0.000000</string>
@@ -19256,10 +19254,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.140844</string>
-						<string>(g3_FLOAT)0.140844</string>
-						<string>(g3_FLOAT)0.140844</string>
-						<string>(g3_FLOAT)0.140844</string>
+						<string>(g3_FLOAT)0.392982</string>
+						<string>(g3_FLOAT)0.392982</string>
+						<string>(g3_FLOAT)0.392982</string>
+						<string>(g3_FLOAT)0.392982</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -19289,8 +19287,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.140844</string>
-						<string>(g3_FLOAT)0.140844</string>
+						<string>(g3_FLOAT)0.392982</string>
+						<string>(g3_FLOAT)0.392982</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_FLOAT)0.000000</string>
@@ -19351,9 +19349,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.140844</string>
-						<string>(g3_FLOAT)0.140844</string>
-						<string>(g3_FLOAT)0.140844</string>
+						<string>(g3_FLOAT)0.392982</string>
+						<string>(g3_FLOAT)0.392982</string>
+						<string>(g3_FLOAT)0.392982</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_FLOAT)0.000000</string>
@@ -19784,10 +19782,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.281110</string>
-						<string>(g3_FLOAT)0.281110</string>
-						<string>(g3_FLOAT)0.281110</string>
-						<string>(g3_FLOAT)0.281110</string>
+						<string>(g3_FLOAT)0.723956</string>
+						<string>(g3_FLOAT)0.723956</string>
+						<string>(g3_FLOAT)0.723956</string>
+						<string>(g3_FLOAT)0.723956</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -19817,8 +19815,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.281110</string>
-						<string>(g3_FLOAT)0.281110</string>
+						<string>(g3_FLOAT)0.723956</string>
+						<string>(g3_FLOAT)0.723956</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_FLOAT)0.000000</string>
@@ -19879,9 +19877,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.281110</string>
-						<string>(g3_FLOAT)0.281110</string>
-						<string>(g3_FLOAT)0.281110</string>
+						<string>(g3_FLOAT)0.723956</string>
+						<string>(g3_FLOAT)0.723956</string>
+						<string>(g3_FLOAT)0.723956</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_FLOAT)0.000000</string>
@@ -20312,10 +20310,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.260429</string>
-						<string>(g3_FLOAT)0.260429</string>
-						<string>(g3_FLOAT)0.260429</string>
-						<string>(g3_FLOAT)0.260429</string>
+						<string>(g3_FLOAT)0.856059</string>
+						<string>(g3_FLOAT)0.856059</string>
+						<string>(g3_FLOAT)0.856059</string>
+						<string>(g3_FLOAT)0.856059</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -20345,8 +20343,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.260429</string>
-						<string>(g3_FLOAT)0.260429</string>
+						<string>(g3_FLOAT)0.856059</string>
+						<string>(g3_FLOAT)0.856059</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_FLOAT)0.000000</string>
@@ -20407,9 +20405,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.260429</string>
-						<string>(g3_FLOAT)0.260429</string>
-						<string>(g3_FLOAT)0.260429</string>
+						<string>(g3_FLOAT)0.856059</string>
+						<string>(g3_FLOAT)0.856059</string>
+						<string>(g3_FLOAT)0.856059</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_FLOAT)0.000000</string>
@@ -20840,10 +20838,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.854178</string>
-						<string>(g3_FLOAT)0.854178</string>
-						<string>(g3_FLOAT)0.854178</string>
-						<string>(g3_FLOAT)0.854178</string>
+						<string>(g3_FLOAT)0.128683</string>
+						<string>(g3_FLOAT)0.128683</string>
+						<string>(g3_FLOAT)0.128683</string>
+						<string>(g3_FLOAT)0.128683</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -20873,8 +20871,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.854178</string>
-						<string>(g3_FLOAT)0.854178</string>
+						<string>(g3_FLOAT)0.128683</string>
+						<string>(g3_FLOAT)0.128683</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_FLOAT)0.000000</string>
@@ -20935,9 +20933,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.854178</string>
-						<string>(g3_FLOAT)0.854178</string>
-						<string>(g3_FLOAT)0.854178</string>
+						<string>(g3_FLOAT)0.128683</string>
+						<string>(g3_FLOAT)0.128683</string>
+						<string>(g3_FLOAT)0.128683</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_FLOAT)0.000000</string>
@@ -21372,10 +21370,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.622538</string>
-						<string>(g3_FLOAT)0.622538</string>
-						<string>(g3_FLOAT)0.622538</string>
-						<string>(g3_FLOAT)0.622538</string>
+						<string>(g3_FLOAT)0.018493</string>
+						<string>(g3_FLOAT)0.018493</string>
+						<string>(g3_FLOAT)0.018493</string>
+						<string>(g3_FLOAT)0.018493</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -21405,8 +21403,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.622538</string>
-						<string>(g3_FLOAT)0.622538</string>
+						<string>(g3_FLOAT)0.018493</string>
+						<string>(g3_FLOAT)0.018493</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -21467,9 +21465,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.622538</string>
-						<string>(g3_FLOAT)0.622538</string>
-						<string>(g3_FLOAT)0.622538</string>
+						<string>(g3_FLOAT)0.018493</string>
+						<string>(g3_FLOAT)0.018493</string>
+						<string>(g3_FLOAT)0.018493</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -21818,10 +21816,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.037036</string>
-						<string>(g3_FLOAT)0.037036</string>
-						<string>(g3_FLOAT)0.037036</string>
-						<string>(g3_FLOAT)0.037036</string>
+						<string>(g3_FLOAT)0.760531</string>
+						<string>(g3_FLOAT)0.760531</string>
+						<string>(g3_FLOAT)0.760531</string>
+						<string>(g3_FLOAT)0.760531</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -21851,8 +21849,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.037036</string>
-						<string>(g3_FLOAT)0.037036</string>
+						<string>(g3_FLOAT)0.760531</string>
+						<string>(g3_FLOAT)0.760531</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -21913,9 +21911,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.037036</string>
-						<string>(g3_FLOAT)0.037036</string>
-						<string>(g3_FLOAT)0.037036</string>
+						<string>(g3_FLOAT)0.760531</string>
+						<string>(g3_FLOAT)0.760531</string>
+						<string>(g3_FLOAT)0.760531</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -22264,10 +22262,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.490537</string>
-						<string>(g3_FLOAT)0.490537</string>
-						<string>(g3_FLOAT)0.490537</string>
-						<string>(g3_FLOAT)0.490537</string>
+						<string>(g3_FLOAT)0.766751</string>
+						<string>(g3_FLOAT)0.766751</string>
+						<string>(g3_FLOAT)0.766751</string>
+						<string>(g3_FLOAT)0.766751</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -22297,8 +22295,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.490537</string>
-						<string>(g3_FLOAT)0.490537</string>
+						<string>(g3_FLOAT)0.766751</string>
+						<string>(g3_FLOAT)0.766751</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -22359,9 +22357,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.490537</string>
-						<string>(g3_FLOAT)0.490537</string>
-						<string>(g3_FLOAT)0.490537</string>
+						<string>(g3_FLOAT)0.766751</string>
+						<string>(g3_FLOAT)0.766751</string>
+						<string>(g3_FLOAT)0.766751</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -22710,10 +22708,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.634984</string>
-						<string>(g3_FLOAT)0.634984</string>
-						<string>(g3_FLOAT)0.634984</string>
-						<string>(g3_FLOAT)0.634984</string>
+						<string>(g3_FLOAT)0.298683</string>
+						<string>(g3_FLOAT)0.298683</string>
+						<string>(g3_FLOAT)0.298683</string>
+						<string>(g3_FLOAT)0.298683</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -22743,8 +22741,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.634984</string>
-						<string>(g3_FLOAT)0.634984</string>
+						<string>(g3_FLOAT)0.298683</string>
+						<string>(g3_FLOAT)0.298683</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -22805,9 +22803,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.634984</string>
-						<string>(g3_FLOAT)0.634984</string>
-						<string>(g3_FLOAT)0.634984</string>
+						<string>(g3_FLOAT)0.298683</string>
+						<string>(g3_FLOAT)0.298683</string>
+						<string>(g3_FLOAT)0.298683</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -23156,10 +23154,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.677311</string>
-						<string>(g3_FLOAT)0.677311</string>
-						<string>(g3_FLOAT)0.677311</string>
-						<string>(g3_FLOAT)0.677311</string>
+						<string>(g3_FLOAT)0.618755</string>
+						<string>(g3_FLOAT)0.618755</string>
+						<string>(g3_FLOAT)0.618755</string>
+						<string>(g3_FLOAT)0.618755</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -23189,8 +23187,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.677311</string>
-						<string>(g3_FLOAT)0.677311</string>
+						<string>(g3_FLOAT)0.618755</string>
+						<string>(g3_FLOAT)0.618755</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -23251,9 +23249,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.677311</string>
-						<string>(g3_FLOAT)0.677311</string>
-						<string>(g3_FLOAT)0.677311</string>
+						<string>(g3_FLOAT)0.618755</string>
+						<string>(g3_FLOAT)0.618755</string>
+						<string>(g3_FLOAT)0.618755</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -23604,10 +23602,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.436477</string>
-						<string>(g3_FLOAT)0.436477</string>
-						<string>(g3_FLOAT)0.436477</string>
-						<string>(g3_FLOAT)0.436477</string>
+						<string>(g3_FLOAT)0.428853</string>
+						<string>(g3_FLOAT)0.428853</string>
+						<string>(g3_FLOAT)0.428853</string>
+						<string>(g3_FLOAT)0.428853</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -23637,8 +23635,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.436477</string>
-						<string>(g3_FLOAT)0.436477</string>
+						<string>(g3_FLOAT)0.428853</string>
+						<string>(g3_FLOAT)0.428853</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -23699,9 +23697,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.436477</string>
-						<string>(g3_FLOAT)0.436477</string>
-						<string>(g3_FLOAT)0.436477</string>
+						<string>(g3_FLOAT)0.428853</string>
+						<string>(g3_FLOAT)0.428853</string>
+						<string>(g3_FLOAT)0.428853</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -24050,10 +24048,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.914936</string>
-						<string>(g3_FLOAT)0.914936</string>
-						<string>(g3_FLOAT)0.914936</string>
-						<string>(g3_FLOAT)0.914936</string>
+						<string>(g3_FLOAT)0.601482</string>
+						<string>(g3_FLOAT)0.601482</string>
+						<string>(g3_FLOAT)0.601482</string>
+						<string>(g3_FLOAT)0.601482</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -24083,8 +24081,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.914936</string>
-						<string>(g3_FLOAT)0.914936</string>
+						<string>(g3_FLOAT)0.601482</string>
+						<string>(g3_FLOAT)0.601482</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -24145,9 +24143,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.914936</string>
-						<string>(g3_FLOAT)0.914936</string>
-						<string>(g3_FLOAT)0.914936</string>
+						<string>(g3_FLOAT)0.601482</string>
+						<string>(g3_FLOAT)0.601482</string>
+						<string>(g3_FLOAT)0.601482</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -24496,10 +24494,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.247245</string>
-						<string>(g3_FLOAT)0.247245</string>
-						<string>(g3_FLOAT)0.247245</string>
-						<string>(g3_FLOAT)0.247245</string>
+						<string>(g3_FLOAT)0.553387</string>
+						<string>(g3_FLOAT)0.553387</string>
+						<string>(g3_FLOAT)0.553387</string>
+						<string>(g3_FLOAT)0.553387</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -24529,8 +24527,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.247245</string>
-						<string>(g3_FLOAT)0.247245</string>
+						<string>(g3_FLOAT)0.553387</string>
+						<string>(g3_FLOAT)0.553387</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -24591,9 +24589,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.247245</string>
-						<string>(g3_FLOAT)0.247245</string>
-						<string>(g3_FLOAT)0.247245</string>
+						<string>(g3_FLOAT)0.553387</string>
+						<string>(g3_FLOAT)0.553387</string>
+						<string>(g3_FLOAT)0.553387</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -24942,10 +24940,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.578823</string>
-						<string>(g3_FLOAT)0.578823</string>
-						<string>(g3_FLOAT)0.578823</string>
-						<string>(g3_FLOAT)0.578823</string>
+						<string>(g3_FLOAT)0.008676</string>
+						<string>(g3_FLOAT)0.008676</string>
+						<string>(g3_FLOAT)0.008676</string>
+						<string>(g3_FLOAT)0.008676</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -24975,8 +24973,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.578823</string>
-						<string>(g3_FLOAT)0.578823</string>
+						<string>(g3_FLOAT)0.008676</string>
+						<string>(g3_FLOAT)0.008676</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -25037,9 +25035,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.578823</string>
-						<string>(g3_FLOAT)0.578823</string>
-						<string>(g3_FLOAT)0.578823</string>
+						<string>(g3_FLOAT)0.008676</string>
+						<string>(g3_FLOAT)0.008676</string>
+						<string>(g3_FLOAT)0.008676</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -25388,10 +25386,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.341486</string>
-						<string>(g3_FLOAT)0.341486</string>
-						<string>(g3_FLOAT)0.341486</string>
-						<string>(g3_FLOAT)0.341486</string>
+						<string>(g3_FLOAT)0.212094</string>
+						<string>(g3_FLOAT)0.212094</string>
+						<string>(g3_FLOAT)0.212094</string>
+						<string>(g3_FLOAT)0.212094</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -25421,8 +25419,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.341486</string>
-						<string>(g3_FLOAT)0.341486</string>
+						<string>(g3_FLOAT)0.212094</string>
+						<string>(g3_FLOAT)0.212094</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -25483,9 +25481,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.341486</string>
-						<string>(g3_FLOAT)0.341486</string>
-						<string>(g3_FLOAT)0.341486</string>
+						<string>(g3_FLOAT)0.212094</string>
+						<string>(g3_FLOAT)0.212094</string>
+						<string>(g3_FLOAT)0.212094</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -25836,10 +25834,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.385708</string>
-						<string>(g3_FLOAT)0.385708</string>
-						<string>(g3_FLOAT)0.385708</string>
-						<string>(g3_FLOAT)0.385708</string>
+						<string>(g3_FLOAT)0.929224</string>
+						<string>(g3_FLOAT)0.929224</string>
+						<string>(g3_FLOAT)0.929224</string>
+						<string>(g3_FLOAT)0.929224</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -25869,8 +25867,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.385708</string>
-						<string>(g3_FLOAT)0.385708</string>
+						<string>(g3_FLOAT)0.929224</string>
+						<string>(g3_FLOAT)0.929224</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -25931,9 +25929,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.385708</string>
-						<string>(g3_FLOAT)0.385708</string>
-						<string>(g3_FLOAT)0.385708</string>
+						<string>(g3_FLOAT)0.929224</string>
+						<string>(g3_FLOAT)0.929224</string>
+						<string>(g3_FLOAT)0.929224</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -26282,10 +26280,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.356573</string>
-						<string>(g3_FLOAT)0.356573</string>
-						<string>(g3_FLOAT)0.356573</string>
-						<string>(g3_FLOAT)0.356573</string>
+						<string>(g3_FLOAT)0.739009</string>
+						<string>(g3_FLOAT)0.739009</string>
+						<string>(g3_FLOAT)0.739009</string>
+						<string>(g3_FLOAT)0.739009</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -26315,8 +26313,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.356573</string>
-						<string>(g3_FLOAT)0.356573</string>
+						<string>(g3_FLOAT)0.739009</string>
+						<string>(g3_FLOAT)0.739009</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -26377,9 +26375,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.356573</string>
-						<string>(g3_FLOAT)0.356573</string>
-						<string>(g3_FLOAT)0.356573</string>
+						<string>(g3_FLOAT)0.739009</string>
+						<string>(g3_FLOAT)0.739009</string>
+						<string>(g3_FLOAT)0.739009</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -26728,10 +26726,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.950441</string>
-						<string>(g3_FLOAT)0.950441</string>
-						<string>(g3_FLOAT)0.950441</string>
-						<string>(g3_FLOAT)0.950441</string>
+						<string>(g3_FLOAT)0.762477</string>
+						<string>(g3_FLOAT)0.762477</string>
+						<string>(g3_FLOAT)0.762477</string>
+						<string>(g3_FLOAT)0.762477</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -26761,8 +26759,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.950441</string>
-						<string>(g3_FLOAT)0.950441</string>
+						<string>(g3_FLOAT)0.762477</string>
+						<string>(g3_FLOAT)0.762477</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -26823,9 +26821,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.950441</string>
-						<string>(g3_FLOAT)0.950441</string>
-						<string>(g3_FLOAT)0.950441</string>
+						<string>(g3_FLOAT)0.762477</string>
+						<string>(g3_FLOAT)0.762477</string>
+						<string>(g3_FLOAT)0.762477</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -27174,10 +27172,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.476211</string>
-						<string>(g3_FLOAT)0.476211</string>
-						<string>(g3_FLOAT)0.476211</string>
-						<string>(g3_FLOAT)0.476211</string>
+						<string>(g3_FLOAT)0.582218</string>
+						<string>(g3_FLOAT)0.582218</string>
+						<string>(g3_FLOAT)0.582218</string>
+						<string>(g3_FLOAT)0.582218</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -27207,8 +27205,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.476211</string>
-						<string>(g3_FLOAT)0.476211</string>
+						<string>(g3_FLOAT)0.582218</string>
+						<string>(g3_FLOAT)0.582218</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -27269,9 +27267,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.476211</string>
-						<string>(g3_FLOAT)0.476211</string>
-						<string>(g3_FLOAT)0.476211</string>
+						<string>(g3_FLOAT)0.582218</string>
+						<string>(g3_FLOAT)0.582218</string>
+						<string>(g3_FLOAT)0.582218</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -27620,10 +27618,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.174974</string>
-						<string>(g3_FLOAT)0.174974</string>
-						<string>(g3_FLOAT)0.174974</string>
-						<string>(g3_FLOAT)0.174974</string>
+						<string>(g3_FLOAT)0.742769</string>
+						<string>(g3_FLOAT)0.742769</string>
+						<string>(g3_FLOAT)0.742769</string>
+						<string>(g3_FLOAT)0.742769</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -27653,8 +27651,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.174974</string>
-						<string>(g3_FLOAT)0.174974</string>
+						<string>(g3_FLOAT)0.742769</string>
+						<string>(g3_FLOAT)0.742769</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -27715,9 +27713,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.174974</string>
-						<string>(g3_FLOAT)0.174974</string>
-						<string>(g3_FLOAT)0.174974</string>
+						<string>(g3_FLOAT)0.742769</string>
+						<string>(g3_FLOAT)0.742769</string>
+						<string>(g3_FLOAT)0.742769</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -28068,10 +28066,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.621147</string>
-						<string>(g3_FLOAT)0.621147</string>
-						<string>(g3_FLOAT)0.621147</string>
-						<string>(g3_FLOAT)0.621147</string>
+						<string>(g3_FLOAT)0.553062</string>
+						<string>(g3_FLOAT)0.553062</string>
+						<string>(g3_FLOAT)0.553062</string>
+						<string>(g3_FLOAT)0.553062</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -28101,8 +28099,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.621147</string>
-						<string>(g3_FLOAT)0.621147</string>
+						<string>(g3_FLOAT)0.553062</string>
+						<string>(g3_FLOAT)0.553062</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -28163,9 +28161,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.621147</string>
-						<string>(g3_FLOAT)0.621147</string>
-						<string>(g3_FLOAT)0.621147</string>
+						<string>(g3_FLOAT)0.553062</string>
+						<string>(g3_FLOAT)0.553062</string>
+						<string>(g3_FLOAT)0.553062</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -28514,10 +28512,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.674288</string>
-						<string>(g3_FLOAT)0.674288</string>
-						<string>(g3_FLOAT)0.674288</string>
-						<string>(g3_FLOAT)0.674288</string>
+						<string>(g3_FLOAT)0.307517</string>
+						<string>(g3_FLOAT)0.307517</string>
+						<string>(g3_FLOAT)0.307517</string>
+						<string>(g3_FLOAT)0.307517</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -28547,8 +28545,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.674288</string>
-						<string>(g3_FLOAT)0.674288</string>
+						<string>(g3_FLOAT)0.307517</string>
+						<string>(g3_FLOAT)0.307517</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -28609,9 +28607,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.674288</string>
-						<string>(g3_FLOAT)0.674288</string>
-						<string>(g3_FLOAT)0.674288</string>
+						<string>(g3_FLOAT)0.307517</string>
+						<string>(g3_FLOAT)0.307517</string>
+						<string>(g3_FLOAT)0.307517</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -28960,10 +28958,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.027331</string>
-						<string>(g3_FLOAT)0.027331</string>
-						<string>(g3_FLOAT)0.027331</string>
-						<string>(g3_FLOAT)0.027331</string>
+						<string>(g3_FLOAT)0.823800</string>
+						<string>(g3_FLOAT)0.823800</string>
+						<string>(g3_FLOAT)0.823800</string>
+						<string>(g3_FLOAT)0.823800</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -28993,8 +28991,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.027331</string>
-						<string>(g3_FLOAT)0.027331</string>
+						<string>(g3_FLOAT)0.823800</string>
+						<string>(g3_FLOAT)0.823800</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -29055,9 +29053,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.027331</string>
-						<string>(g3_FLOAT)0.027331</string>
-						<string>(g3_FLOAT)0.027331</string>
+						<string>(g3_FLOAT)0.823800</string>
+						<string>(g3_FLOAT)0.823800</string>
+						<string>(g3_FLOAT)0.823800</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -29406,10 +29404,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.445760</string>
-						<string>(g3_FLOAT)0.445760</string>
-						<string>(g3_FLOAT)0.445760</string>
-						<string>(g3_FLOAT)0.445760</string>
+						<string>(g3_FLOAT)0.176789</string>
+						<string>(g3_FLOAT)0.176789</string>
+						<string>(g3_FLOAT)0.176789</string>
+						<string>(g3_FLOAT)0.176789</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -29439,8 +29437,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.445760</string>
-						<string>(g3_FLOAT)0.445760</string>
+						<string>(g3_FLOAT)0.176789</string>
+						<string>(g3_FLOAT)0.176789</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -29501,9 +29499,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.445760</string>
-						<string>(g3_FLOAT)0.445760</string>
-						<string>(g3_FLOAT)0.445760</string>
+						<string>(g3_FLOAT)0.176789</string>
+						<string>(g3_FLOAT)0.176789</string>
+						<string>(g3_FLOAT)0.176789</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -29852,10 +29850,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.486596</string>
-						<string>(g3_FLOAT)0.486596</string>
-						<string>(g3_FLOAT)0.486596</string>
-						<string>(g3_FLOAT)0.486596</string>
+						<string>(g3_FLOAT)0.275261</string>
+						<string>(g3_FLOAT)0.275261</string>
+						<string>(g3_FLOAT)0.275261</string>
+						<string>(g3_FLOAT)0.275261</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -29885,8 +29883,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.486596</string>
-						<string>(g3_FLOAT)0.486596</string>
+						<string>(g3_FLOAT)0.275261</string>
+						<string>(g3_FLOAT)0.275261</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -29947,9 +29945,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.486596</string>
-						<string>(g3_FLOAT)0.486596</string>
-						<string>(g3_FLOAT)0.486596</string>
+						<string>(g3_FLOAT)0.275261</string>
+						<string>(g3_FLOAT)0.275261</string>
+						<string>(g3_FLOAT)0.275261</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -30300,10 +30298,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.824454</string>
-						<string>(g3_FLOAT)0.824454</string>
-						<string>(g3_FLOAT)0.824454</string>
-						<string>(g3_FLOAT)0.824454</string>
+						<string>(g3_FLOAT)0.786894</string>
+						<string>(g3_FLOAT)0.786894</string>
+						<string>(g3_FLOAT)0.786894</string>
+						<string>(g3_FLOAT)0.786894</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -30333,8 +30331,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.824454</string>
-						<string>(g3_FLOAT)0.824454</string>
+						<string>(g3_FLOAT)0.786894</string>
+						<string>(g3_FLOAT)0.786894</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -30395,9 +30393,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.824454</string>
-						<string>(g3_FLOAT)0.824454</string>
-						<string>(g3_FLOAT)0.824454</string>
+						<string>(g3_FLOAT)0.786894</string>
+						<string>(g3_FLOAT)0.786894</string>
+						<string>(g3_FLOAT)0.786894</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -30746,10 +30744,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.100417</string>
-						<string>(g3_FLOAT)0.100417</string>
-						<string>(g3_FLOAT)0.100417</string>
-						<string>(g3_FLOAT)0.100417</string>
+						<string>(g3_FLOAT)0.808474</string>
+						<string>(g3_FLOAT)0.808474</string>
+						<string>(g3_FLOAT)0.808474</string>
+						<string>(g3_FLOAT)0.808474</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -30779,8 +30777,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.100417</string>
-						<string>(g3_FLOAT)0.100417</string>
+						<string>(g3_FLOAT)0.808474</string>
+						<string>(g3_FLOAT)0.808474</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -30841,9 +30839,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.100417</string>
-						<string>(g3_FLOAT)0.100417</string>
-						<string>(g3_FLOAT)0.100417</string>
+						<string>(g3_FLOAT)0.808474</string>
+						<string>(g3_FLOAT)0.808474</string>
+						<string>(g3_FLOAT)0.808474</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -31192,10 +31190,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.067051</string>
-						<string>(g3_FLOAT)0.067051</string>
-						<string>(g3_FLOAT)0.067051</string>
-						<string>(g3_FLOAT)0.067051</string>
+						<string>(g3_FLOAT)0.704887</string>
+						<string>(g3_FLOAT)0.704887</string>
+						<string>(g3_FLOAT)0.704887</string>
+						<string>(g3_FLOAT)0.704887</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -31225,8 +31223,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.067051</string>
-						<string>(g3_FLOAT)0.067051</string>
+						<string>(g3_FLOAT)0.704887</string>
+						<string>(g3_FLOAT)0.704887</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -31287,9 +31285,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.067051</string>
-						<string>(g3_FLOAT)0.067051</string>
-						<string>(g3_FLOAT)0.067051</string>
+						<string>(g3_FLOAT)0.704887</string>
+						<string>(g3_FLOAT)0.704887</string>
+						<string>(g3_FLOAT)0.704887</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -31638,10 +31636,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.728098</string>
-						<string>(g3_FLOAT)0.728098</string>
-						<string>(g3_FLOAT)0.728098</string>
-						<string>(g3_FLOAT)0.728098</string>
+						<string>(g3_FLOAT)0.135309</string>
+						<string>(g3_FLOAT)0.135309</string>
+						<string>(g3_FLOAT)0.135309</string>
+						<string>(g3_FLOAT)0.135309</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -31671,8 +31669,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.728098</string>
-						<string>(g3_FLOAT)0.728098</string>
+						<string>(g3_FLOAT)0.135309</string>
+						<string>(g3_FLOAT)0.135309</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -31733,9 +31731,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.728098</string>
-						<string>(g3_FLOAT)0.728098</string>
-						<string>(g3_FLOAT)0.728098</string>
+						<string>(g3_FLOAT)0.135309</string>
+						<string>(g3_FLOAT)0.135309</string>
+						<string>(g3_FLOAT)0.135309</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -32084,10 +32082,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.509117</string>
-						<string>(g3_FLOAT)0.509117</string>
-						<string>(g3_FLOAT)0.509117</string>
-						<string>(g3_FLOAT)0.509117</string>
+						<string>(g3_FLOAT)0.915056</string>
+						<string>(g3_FLOAT)0.915056</string>
+						<string>(g3_FLOAT)0.915056</string>
+						<string>(g3_FLOAT)0.915056</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -32117,8 +32115,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.509117</string>
-						<string>(g3_FLOAT)0.509117</string>
+						<string>(g3_FLOAT)0.915056</string>
+						<string>(g3_FLOAT)0.915056</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -32179,9 +32177,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.509117</string>
-						<string>(g3_FLOAT)0.509117</string>
-						<string>(g3_FLOAT)0.509117</string>
+						<string>(g3_FLOAT)0.915056</string>
+						<string>(g3_FLOAT)0.915056</string>
+						<string>(g3_FLOAT)0.915056</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -32532,10 +32530,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.838819</string>
-						<string>(g3_FLOAT)0.838819</string>
-						<string>(g3_FLOAT)0.838819</string>
-						<string>(g3_FLOAT)0.838819</string>
+						<string>(g3_FLOAT)0.226627</string>
+						<string>(g3_FLOAT)0.226627</string>
+						<string>(g3_FLOAT)0.226627</string>
+						<string>(g3_FLOAT)0.226627</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -32565,8 +32563,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.838819</string>
-						<string>(g3_FLOAT)0.838819</string>
+						<string>(g3_FLOAT)0.226627</string>
+						<string>(g3_FLOAT)0.226627</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -32627,9 +32625,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.838819</string>
-						<string>(g3_FLOAT)0.838819</string>
-						<string>(g3_FLOAT)0.838819</string>
+						<string>(g3_FLOAT)0.226627</string>
+						<string>(g3_FLOAT)0.226627</string>
+						<string>(g3_FLOAT)0.226627</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -32978,10 +32976,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.929511</string>
-						<string>(g3_FLOAT)0.929511</string>
-						<string>(g3_FLOAT)0.929511</string>
-						<string>(g3_FLOAT)0.929511</string>
+						<string>(g3_FLOAT)0.058014</string>
+						<string>(g3_FLOAT)0.058014</string>
+						<string>(g3_FLOAT)0.058014</string>
+						<string>(g3_FLOAT)0.058014</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -33011,8 +33009,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.929511</string>
-						<string>(g3_FLOAT)0.929511</string>
+						<string>(g3_FLOAT)0.058014</string>
+						<string>(g3_FLOAT)0.058014</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -33073,9 +33071,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.929511</string>
-						<string>(g3_FLOAT)0.929511</string>
-						<string>(g3_FLOAT)0.929511</string>
+						<string>(g3_FLOAT)0.058014</string>
+						<string>(g3_FLOAT)0.058014</string>
+						<string>(g3_FLOAT)0.058014</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -33424,10 +33422,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.732326</string>
-						<string>(g3_FLOAT)0.732326</string>
-						<string>(g3_FLOAT)0.732326</string>
-						<string>(g3_FLOAT)0.732326</string>
+						<string>(g3_FLOAT)0.217084</string>
+						<string>(g3_FLOAT)0.217084</string>
+						<string>(g3_FLOAT)0.217084</string>
+						<string>(g3_FLOAT)0.217084</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -33457,8 +33455,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.732326</string>
-						<string>(g3_FLOAT)0.732326</string>
+						<string>(g3_FLOAT)0.217084</string>
+						<string>(g3_FLOAT)0.217084</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -33519,9 +33517,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.732326</string>
-						<string>(g3_FLOAT)0.732326</string>
-						<string>(g3_FLOAT)0.732326</string>
+						<string>(g3_FLOAT)0.217084</string>
+						<string>(g3_FLOAT)0.217084</string>
+						<string>(g3_FLOAT)0.217084</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -33870,10 +33868,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.412325</string>
-						<string>(g3_FLOAT)0.412325</string>
-						<string>(g3_FLOAT)0.412325</string>
-						<string>(g3_FLOAT)0.412325</string>
+						<string>(g3_FLOAT)0.739509</string>
+						<string>(g3_FLOAT)0.739509</string>
+						<string>(g3_FLOAT)0.739509</string>
+						<string>(g3_FLOAT)0.739509</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -33903,8 +33901,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.412325</string>
-						<string>(g3_FLOAT)0.412325</string>
+						<string>(g3_FLOAT)0.739509</string>
+						<string>(g3_FLOAT)0.739509</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -33965,9 +33963,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.412325</string>
-						<string>(g3_FLOAT)0.412325</string>
-						<string>(g3_FLOAT)0.412325</string>
+						<string>(g3_FLOAT)0.739509</string>
+						<string>(g3_FLOAT)0.739509</string>
+						<string>(g3_FLOAT)0.739509</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -34316,10 +34314,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.303609</string>
-						<string>(g3_FLOAT)0.303609</string>
-						<string>(g3_FLOAT)0.303609</string>
-						<string>(g3_FLOAT)0.303609</string>
+						<string>(g3_FLOAT)0.771386</string>
+						<string>(g3_FLOAT)0.771386</string>
+						<string>(g3_FLOAT)0.771386</string>
+						<string>(g3_FLOAT)0.771386</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -34349,8 +34347,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.303609</string>
-						<string>(g3_FLOAT)0.303609</string>
+						<string>(g3_FLOAT)0.771386</string>
+						<string>(g3_FLOAT)0.771386</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -34411,9 +34409,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.303609</string>
-						<string>(g3_FLOAT)0.303609</string>
-						<string>(g3_FLOAT)0.303609</string>
+						<string>(g3_FLOAT)0.771386</string>
+						<string>(g3_FLOAT)0.771386</string>
+						<string>(g3_FLOAT)0.771386</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -34764,10 +34762,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.804494</string>
-						<string>(g3_FLOAT)0.804494</string>
-						<string>(g3_FLOAT)0.804494</string>
-						<string>(g3_FLOAT)0.804494</string>
+						<string>(g3_FLOAT)0.066299</string>
+						<string>(g3_FLOAT)0.066299</string>
+						<string>(g3_FLOAT)0.066299</string>
+						<string>(g3_FLOAT)0.066299</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -34797,8 +34795,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.804494</string>
-						<string>(g3_FLOAT)0.804494</string>
+						<string>(g3_FLOAT)0.066299</string>
+						<string>(g3_FLOAT)0.066299</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -34859,9 +34857,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.804494</string>
-						<string>(g3_FLOAT)0.804494</string>
-						<string>(g3_FLOAT)0.804494</string>
+						<string>(g3_FLOAT)0.066299</string>
+						<string>(g3_FLOAT)0.066299</string>
+						<string>(g3_FLOAT)0.066299</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -35210,10 +35208,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.174047</string>
-						<string>(g3_FLOAT)0.174047</string>
-						<string>(g3_FLOAT)0.174047</string>
-						<string>(g3_FLOAT)0.174047</string>
+						<string>(g3_FLOAT)0.340803</string>
+						<string>(g3_FLOAT)0.340803</string>
+						<string>(g3_FLOAT)0.340803</string>
+						<string>(g3_FLOAT)0.340803</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -35243,8 +35241,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.174047</string>
-						<string>(g3_FLOAT)0.174047</string>
+						<string>(g3_FLOAT)0.340803</string>
+						<string>(g3_FLOAT)0.340803</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -35305,9 +35303,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.174047</string>
-						<string>(g3_FLOAT)0.174047</string>
-						<string>(g3_FLOAT)0.174047</string>
+						<string>(g3_FLOAT)0.340803</string>
+						<string>(g3_FLOAT)0.340803</string>
+						<string>(g3_FLOAT)0.340803</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -35656,10 +35654,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.568360</string>
-						<string>(g3_FLOAT)0.568360</string>
-						<string>(g3_FLOAT)0.568360</string>
-						<string>(g3_FLOAT)0.568360</string>
+						<string>(g3_FLOAT)0.121083</string>
+						<string>(g3_FLOAT)0.121083</string>
+						<string>(g3_FLOAT)0.121083</string>
+						<string>(g3_FLOAT)0.121083</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -35689,8 +35687,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.568360</string>
-						<string>(g3_FLOAT)0.568360</string>
+						<string>(g3_FLOAT)0.121083</string>
+						<string>(g3_FLOAT)0.121083</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -35751,9 +35749,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.568360</string>
-						<string>(g3_FLOAT)0.568360</string>
-						<string>(g3_FLOAT)0.568360</string>
+						<string>(g3_FLOAT)0.121083</string>
+						<string>(g3_FLOAT)0.121083</string>
+						<string>(g3_FLOAT)0.121083</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -36102,10 +36100,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.735732</string>
-						<string>(g3_FLOAT)0.735732</string>
-						<string>(g3_FLOAT)0.735732</string>
-						<string>(g3_FLOAT)0.735732</string>
+						<string>(g3_FLOAT)0.882511</string>
+						<string>(g3_FLOAT)0.882511</string>
+						<string>(g3_FLOAT)0.882511</string>
+						<string>(g3_FLOAT)0.882511</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -36135,8 +36133,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.735732</string>
-						<string>(g3_FLOAT)0.735732</string>
+						<string>(g3_FLOAT)0.882511</string>
+						<string>(g3_FLOAT)0.882511</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -36197,9 +36195,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.735732</string>
-						<string>(g3_FLOAT)0.735732</string>
-						<string>(g3_FLOAT)0.735732</string>
+						<string>(g3_FLOAT)0.882511</string>
+						<string>(g3_FLOAT)0.882511</string>
+						<string>(g3_FLOAT)0.882511</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -36548,10 +36546,10 @@
 					</array>
 					<key>(g3_ASCII)fx_autoCol_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.168208</string>
-						<string>(g3_FLOAT)0.168208</string>
-						<string>(g3_FLOAT)0.168208</string>
-						<string>(g3_FLOAT)0.168208</string>
+						<string>(g3_FLOAT)0.939793</string>
+						<string>(g3_FLOAT)0.939793</string>
+						<string>(g3_FLOAT)0.939793</string>
+						<string>(g3_FLOAT)0.939793</string>
 					</array>
 					<key>(g3_ASCII)fx_autoCol_soundBeatPosition</key>
 					<array>
@@ -36581,8 +36579,8 @@
 					</array>
 					<key>(g3_ASCII)fx_autoMove_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.168208</string>
-						<string>(g3_FLOAT)0.168208</string>
+						<string>(g3_FLOAT)0.939793</string>
+						<string>(g3_FLOAT)0.939793</string>
 					</array>
 					<key>(g3_ASCII)fx_autoMove_rate</key>
 					<string>(g3_INT)0</string>
@@ -36643,9 +36641,9 @@
 					</array>
 					<key>(g3_ASCII)fx_autoScale_randomValues</key>
 					<array>
-						<string>(g3_FLOAT)0.168208</string>
-						<string>(g3_FLOAT)0.168208</string>
-						<string>(g3_FLOAT)0.168208</string>
+						<string>(g3_FLOAT)0.939793</string>
+						<string>(g3_FLOAT)0.939793</string>
+						<string>(g3_FLOAT)0.939793</string>
 					</array>
 					<key>(g3_ASCII)fx_autoScale_rate</key>
 					<string>(g3_INT)0</string>
@@ -39022,7 +39020,7 @@
 					<key>(g3_ASCII)47</key>
 					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)48</key>
-					<string>(g3_INT)0</string>
+					<string>(g3_INT)1</string>
 					<key>(g3_ASCII)57</key>
 					<string>(g3_INT)0</string>
 					<key>(g3_ASCII)58</key>
