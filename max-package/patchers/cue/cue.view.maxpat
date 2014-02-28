@@ -4,8 +4,8 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 7,
-			"architecture" : "x64"
+			"revision" : 6,
+			"architecture" : "x86"
 		}
 ,
 		"rect" : [ 36.0, 85.0, 1221.0, 869.0 ],
@@ -209,7 +209,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 29.0, 112.0, 150.0, 20.0 ],
+					"patching_rect" : [ 926.0, 65.0, 48.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 7.5, 130.599991, 48.0, 20.0 ],
 					"text" : "ramp : "
@@ -243,7 +243,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 633.5, 687.0, 89.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 218.25, 694.190063, 91.0, 20.0 ],
+					"presentation_rect" : [ 218.25, 613.190063, 91.0, 20.0 ],
 					"text" : "3",
 					"textcolor" : [ 0.0, 0.0, 0.0, 0.8 ]
 				}
@@ -260,7 +260,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 633.5, 633.0, 86.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 218.25, 640.190063, 88.0, 20.0 ],
+					"presentation_rect" : [ 218.25, 559.190063, 88.0, 20.0 ],
 					"text" : "2",
 					"textcolor" : [ 0.0, 0.0, 0.0, 0.8 ]
 				}
@@ -277,7 +277,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 633.5, 583.0, 26.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 218.25, 590.190063, 28.0, 20.0 ],
+					"presentation_rect" : [ 218.25, 509.190063, 28.0, 20.0 ],
 					"text" : "1",
 					"textcolor" : [ 0.0, 0.0, 0.0, 0.8 ]
 				}
@@ -296,7 +296,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 626.0, 568.0, 104.0, 150.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 210.75, 575.190063, 106.0, 150.0 ],
+					"presentation_rect" : [ 210.75, 494.190063, 106.0, 150.0 ],
 					"setminmax" : [ 0.0, 1.0 ],
 					"size" : 3,
 					"slidercolor" : [ 0.619608, 0.0, 0.360784, 0.701961 ],
@@ -364,7 +364,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 626.0, 371.0, 190.0, 182.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 34.0, 575.190063, 166.0, 150.0 ],
+					"presentation_rect" : [ 34.0, 494.190063, 166.0, 150.0 ],
 					"xplace" : [ 0.41, 0.23, 0.935897 ],
 					"yplace" : [ 0.2, 0.77, 0.615385 ]
 				}
@@ -384,8 +384,8 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
-							"architecture" : "x64"
+							"revision" : 6,
+							"architecture" : "x86"
 						}
 ,
 						"rect" : [ 25.0, 69.0, 645.0, 337.0 ],
@@ -1013,8 +1013,8 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
-							"architecture" : "x64"
+							"revision" : 6,
+							"architecture" : "x86"
 						}
 ,
 						"rect" : [ 165.0, 246.0, 190.0, 155.0 ],
@@ -1336,8 +1336,8 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
-							"architecture" : "x64"
+							"revision" : 6,
+							"architecture" : "x86"
 						}
 ,
 						"rect" : [ 165.0, 246.0, 190.0, 155.0 ],
@@ -1700,7 +1700,7 @@
 					"numoutlets" : 4,
 					"outlettype" : [ "", "", "", "" ],
 					"patching_rect" : [ 913.5, 17.0, 125.0, 20.0 ],
-					"text" : "j.remote current/ramp"
+					"text" : "j.remote next/ramp"
 				}
 
 			}
@@ -1714,7 +1714,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 913.5, 99.500122, 95.0, 18.0 ],
-					"text" : "current/ramp $1"
+					"text" : "next/ramp $1"
 				}
 
 			}
@@ -2281,8 +2281,8 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 7,
-							"architecture" : "x64"
+							"revision" : 6,
+							"architecture" : "x86"
 						}
 ,
 						"rect" : [ 25.0, 69.0, 143.0, 251.0 ],
@@ -2769,7 +2769,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 609.75, 319.0, 364.25, 429.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 2.5, 568.0, 386.256897, 163.0 ]
+					"presentation_rect" : [ 2.5, 487.0, 386.256897, 163.0 ]
 				}
 
 			}
