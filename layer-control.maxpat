@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 0.0, 47.0, 398.0, 487.0 ],
+		"rect" : [ 0.0, 47.0, 319.0, 251.0 ],
 		"bgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
@@ -10862,7 +10862,7 @@
 					"offset" : [ 0.0, 0.0 ],
 					"patching_rect" : [ -1.0, 63.5, 300.0, 175.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 7.0, 37.0, 300.0, 175.0 ],
+					"presentation_rect" : [ 7.0, 51.0, 300.0, 175.0 ],
 					"viewvisibility" : 1
 				}
 
@@ -10994,49 +10994,49 @@
 		"dependency_cache" : [ 			{
 				"name" : "cue_manager.view.maxpat",
 				"bootpath" : "~/Documents/GITs/Jamoma/Implementations/Max/Jamoma/patchers/modules/data/cue-manager",
-				"patcherrelativepath" : "../../Jamoma/Implementations/Max/Jamoma/patchers/modules/data/cue-manager",
+				"patcherrelativepath" : "../Jamoma/Implementations/Max/Jamoma/patchers/modules/data/cue-manager",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "thru.maxpat",
 				"bootpath" : "/Applications/Max.app/Contents/Resources/C74/patchers/m4l/Pluggo for Live resources/patches",
-				"patcherrelativepath" : "../../../../../../Applications/Max.app/Contents/Resources/C74/patchers/m4l/Pluggo for Live resources/patches",
+				"patcherrelativepath" : "../../../../../Applications/Max.app/Contents/Resources/C74/patchers/m4l/Pluggo for Live resources/patches",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "j.datetime.maxpat",
 				"bootpath" : "~/Documents/GITs/Jamoma/Implementations/Max/Jamoma/patchers/components/data/datetime",
-				"patcherrelativepath" : "../../Jamoma/Implementations/Max/Jamoma/patchers/components/data/datetime",
+				"patcherrelativepath" : "../Jamoma/Implementations/Max/Jamoma/patchers/components/data/datetime",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "j.namespace_selector.maxpat",
 				"bootpath" : "~/Documents/GITs/Jamoma/Implementations/Max/Jamoma/patchers/components/data/namespace_selector",
-				"patcherrelativepath" : "../../Jamoma/Implementations/Max/Jamoma/patchers/components/data/namespace_selector",
+				"patcherrelativepath" : "../Jamoma/Implementations/Max/Jamoma/patchers/components/data/namespace_selector",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "var.maxpat",
 				"bootpath" : "/Users/Shared/Max 7/Examples/max-tricks/send-receive-tricks/lib",
-				"patcherrelativepath" : "../../../../../Shared/Max 7/Examples/max-tricks/send-receive-tricks/lib",
+				"patcherrelativepath" : "../../../../Shared/Max 7/Examples/max-tricks/send-receive-tricks/lib",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "span.osc.maxpat",
 				"bootpath" : "~/Documents/GITs/span/max-package/patchers/GUI",
-				"patcherrelativepath" : "../../span/max-package/patchers/GUI",
+				"patcherrelativepath" : "../span/max-package/patchers/GUI",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "cue_manager.model.maxpat",
 				"bootpath" : "~/Documents/GITs/Jamoma/Implementations/Max/Jamoma/patchers/modules/data/cue-manager",
-				"patcherrelativepath" : "../../Jamoma/Implementations/Max/Jamoma/patchers/modules/data/cue-manager",
+				"patcherrelativepath" : "../Jamoma/Implementations/Max/Jamoma/patchers/modules/data/cue-manager",
 				"type" : "JSON",
 				"implicit" : 1
 			}
